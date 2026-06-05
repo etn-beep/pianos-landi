@@ -3,9 +3,9 @@
 
 ### L'origine du piano:
 
-- Le piano tel que nous le connaissons maintenant, voit ses débuts il y a trois siècles, mais nous pouvons remonter bien avant, au XI siècle, époque de la cithare et du "tympanon" qui devient "clavicorde" après l'ajout d'un clavier.
+- Le piano tel que nous le connaissons maintenant, voit ses débuts il y a trois siècles, mais nous pouvons remonter bien avant, au XI siècle, époque de la [cithare](https://en.wikipedia.org/wiki/Kithara) et du [tympanon](https://en.wikipedia.org/wiki/Hammered_dulcimer) qui devient [clavicorde](https://en.wikipedia.org/wiki/Clavichord) après l'ajout d'un clavier.
 Des petits "crampons" sont fixés sur les touches, et attaquent la corde de bas en haut. 
-On s'inspirera beaucoup du "monocorde" pour la fabrication future des instruments à cordes frappées.
+On s'inspirera beaucoup du monocorde[monocorde ou manicorde](https://en.wikipedia.org/wiki/Monochord) pour la fabrication future des instruments à cordes frappées.
 Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scientifique qu'un instrument de musique. Au VI siècle av JC, Pythagore lui-même s'en servait pour étudier les principes musicaux. Par le monocorde, il ramena la musique à des principes mathématique.
 
 - En ajoutant d'autres cordes à cet instrument, on inventa ce que l'on appel aujourd'hui le "polycorde". La cithare, le monocorde et le polycorde, représentent par leurs systèmes, la base de la structure sonore du piano.
@@ -16,7 +16,7 @@ Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scie
 
 - C'est aussi au XVI siècle, que naît le clavicorde à 4 octaves et1/2. Au XVIII siècle, les facteurs de clavecin passent de 5 à 6 octaves pour arriver à 7 octaves au XIX siècle.
 
-- Enfin c'est en 1700 que l'Italien Bartolomeo Cristofori, facteur de clavecins, construit le "premier piano" en remplaçant les sautereaux du clavecin qui pincent les cordes, par des marteaux qui "frappent" les cordes.
+- Enfin c'est en 1700 que l'Italien [Bartolomeo Cristofori](https://en.wikipedia.org/wiki/Bartolomeo_Cristofori), facteur de clavecins, construit le "premier piano" en remplaçant les sautereaux du clavecin qui pincent les cordes, par des marteaux qui "frappent" les cordes.
 
 - Entre 1730 et 1740 se construisent les premiers pianos à queue. En 1760 Zump et Backer reprennent la mécanique de Bartolomeo Cristofori, et voilà le premier "piano carré".
 
@@ -25,21 +25,21 @@ Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scie
 
 ### Voici un résumé des dates importantes:
 
-- 1703 : Carlo GRIMALDI transforme un clavecin en " cembalo con marteletti où les marteaux sont des lames de métal enroulées à l'extrémité de manière à former un bout arrondit qui frappe la corde au lieu de la pincer
+- 1703 : Carlo GRIMALDI transforme un clavecin en " cembalo con marteletti où les marteaux sont des lames de métal enroulées à l'extrémité de manière à former un bout arrondit qui frappe la corde au lieu de la pincer [wiki](https://en.wikipedia.org/wiki/Folding_harpsichord)
 
-- 1709 : Bartolomeo CRISTOFORI invente le premier piano, toujours sur la base d'une transformation de clavecin, mais cette fois les marteaux sont en bois, et articulés à l'extrémité des touches, un petit levier pousse ses marteaux contre les cordes, et un système d'échappement permet de récupérer le marteau à mi course, en même temps l'étouffoir est actionner
+- 1709 : Bartolomeo CRISTOFORI invente le premier piano, toujours sur la base d'une transformation de clavecin, mais cette fois les marteaux sont en bois, et articulés à l'extrémité des touches, un petit levier pousse ses marteaux contre les cordes, et un système d'échappement permet de récupérer le marteau à mi course, en même temps l'étouffoir est actionner [wiki](https://en.wikipedia.org/wiki/Bartolomeo_Cristofori)
 
 - 1717 : Christoph SHRÖTER construit une mécanique avec des marteaux inversés
 
 - 1726 : Bartolomeo CRISTOFORI perfectionne sa mécanique, les marteaux sont recouverts de parchemin et de cuir, les étouffoirs sont en bout de touches, et une pédale apparaît: la pédale forté
 
-- 1766 : Premier piano carré de ZUMPE
+- 1766 : Premier piano carré de ZUMPE [wiki](https://en.wikipedia.org/wiki/Johannes_Zumpe)
 
 - 1772 : BACKERS construit le premier piano à queue équipé de mécanique anglaise
 
 - 1773 : STEIN introduit la mécanique dite "viennoise"
 
-- 1777 : Sébastien ERARD fabrique son premier piano
+- 1777 : Sébastien ERARD fabrique son premier piano [wiki](https://en.wikipedia.org/wiki/S%C3%A9bastien_%C3%89rard)
 
 - 1780 : ZUMPE construit une mécanique à double pilote
 
@@ -61,7 +61,7 @@ Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scie
 
 - 1810 : Sébastien ERARD invente le système de pédales, toujours présent dans les pianos modernes
 
-- 1810 : PLEYEL demande un brevet pour l'utilisation de cordes en cuivre et en acier trempé
+- 1810 : PLEYEL demande un brevet pour l'utilisation de cordes en cuivre et en acier trempé [wiki](https://en.wikipedia.org/wiki/Pleyel_et_Cie)
 
 - 1815 : BROADWOOD insère le cadre métallique dans la fabrication de ses pianos
 
@@ -83,7 +83,7 @@ Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scie
 
 - 1840 : Henri HERZ invente une version simplifiée de la mécanique "Erard", toujours d'actualité
 
-- 1842 : Henri PAPE invente le premier piano à queue à huit octaves
+- 1842 : Henri PAPE invente le premier piano à queue à huit octaves [wiki](https://en.wikipedia.org/wiki/Jean-Henri_Pape)
 
 - 1842 : ISHERMANN lance la première industrie spécialisée dans la production de mécaniques de pianos
 
@@ -91,10 +91,11 @@ Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scie
 
 - 1843 : BORD invente le contre-sillet, qui exerce une pression sur les cordes et renforce la résistance aux chocs des marteaux
 
-- 1859 : STEINWAY construit le premier grand piano de concert moderne avec cordes croisées
+- 1859 : STEINWAY construit le premier grand piano de concert moderne avec cordes croisées [wiki](https://en.wikipedia.org/wiki/Steinway_%26_Sons)
 
 - 1863 : STEINWAY construit des pianos droits à cordes croisées
 
 - 1867 : STEINWAY utilise des cadres en fonte pleine pour ses pianos
 
-- 1873 : BLÜTHNER invente le système "aliquot" qui consiste à rajouter une quatrième corde qui n'est pas frappée mais qui résonne par sympathie elle est accordée à l'unisson, dans les aigus et à l'octave supérieure dans les médiums. Ce système est une exclusivité de Blüthner.
+- 1873 : BLÜTHNER invente le système "aliquot" qui consiste à rajouter une quatrième corde qui n'est pas frappée mais qui résonne par sympathie elle est accordée à l'unisson, dans les aigus et à l'octave supérieure dans les médiums. Ce système est une exclusivité de Blüthner. [wiki](https://en.wikipedia.org/wiki/Bl%C3%BCthner)
+

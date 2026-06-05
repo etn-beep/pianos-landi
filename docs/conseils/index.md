@@ -31,12 +31,13 @@ Préférez les pianos les plus hauts, car ils ont une longueur de cordes supéri
 
 - ATTENTION : LA REPARATION D'UN PIANO ANCIEN EN MAUVAIS ETAT, PEUT REVENIR PLUS CHER QUE L'ACHAT D'UN PIANO NEUF D'ETUDE !
 Renseignez-vous avant d'acheter un piano en mauvais état qui (soit-disant) "n'a qu'à être accordé" -
+mieux vaux un kawai ND21 a 4200 euros neuf
 
 ### 2- Le neuf
 
 - Nous pouvons distinguer 4 types de pianos, les premiers prix, les factures traditionnelles, les factures de haut de gamme et les pianos de prestige.
 
-- Les premiers prix: moins de 3800.00 Euros Pianos Chinois: Schaefer, Grand, Steck....
+- Les premiers prix: moins de 5000 Euros Pianos Chinois: Schaefer, Grand, Steck....
 Pianos coréens: Samick, Young Chang, Hyundai,...
 Pianos polonais: Legnica, Calisia
 Pianos italiens: Furstein, Mussard
@@ -45,15 +46,15 @@ Pianos anglais: Kemble, Braodwood, Woodchester
 A savoir: pratiquement toutes les marques de pianos assemblent leur entrée de gamme en chine ou en Indonésie
 Les chinois ont faits d'énormes progrès ces dernières années mais la qualité diffère d'une usine à l'autre.
 
-- Les factures traditionnelles: de 3800.00 Euros à 6000.00 Euros Pianos allemands: Herrman, Europa, Rönisch, Hupfeld, Steinberg, Zimmermann
+- Les factures traditionnelles: de 5000 Euros à 8000.00 Euros Pianos allemands: Herrman, Europa, Rönisch, Hupfeld, Steinberg, Zimmermann
 Pianos tchèques: Petrof
 Pianos japonais: Kawaï, Yamaha, Boston (designed by Steinway, mais fabriqué par Kawaï)
 Pianos français: Pleyel ? et oui, la facture française est en mauvais état !
 
-- Les hautes factures: de 6000.00 Euros à 15000.00 Euros Pianos allemands: Schimmel, Förster, Seiler, Sauter, Hoffmann, Feurich, Grotrian-Steinweg, Blüthner, Pfeiffer
+- Les hautes factures: au dessus 8000.00 Euros. Pianos allemands: Schimmel, Förster, Seiler, Sauter, Hoffmann,  Grotrian-Steinweg, Blüthner, Pfeiffer
 Pianos français: Pleyel
 Japonais: hauts de gammes de yamaha et kawaï
 
-- Les pianos de prestige: plus de 15000.00 Euros Bechstein, l'autrichien Bösendorfer, l'américain Steinway, et l'Italien Fazioli (qui ne fait que des pianos à queue).
+- Les pianos de prestige: plus de 30.000.00 Euros Bechstein, l'autrichien Bösendorfer, l'américain Steinway, et l'Italien Fazioli (qui ne fait que des pianos à queue).
 
 - Et surtout n'oubliez pas que la formation de votre oreille dépendra de la qualité musicale de votre piano, pour cela il n'est pas nécessaire d'avoir un instrument de haut de gamme, il suffit de bien choisir votre piano, même dans des petits prix, et surtout qu'il soit régulièrement entretenu par un spécialiste -

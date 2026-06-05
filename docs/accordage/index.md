@@ -5,8 +5,10 @@
 
 - C'est l' équilibrage de la tension des cordes (environ 220) sur 85 ou 88 touches, afin d'obtenir la justesse de chaque intervalle.
 
-- Sur le piano pour avoir les mêmes intervalles dans chaque tonalité, l'accord qui est pratiqué se nomme "accord tempéré à 1/2 tons égaux", ce qui signifie que chaque 1/2 tons a le même intervalle, les tierces et les sixtes sont progressives (les battements sont de plus en plus rapides en montant dans les aigus), les quintes légèrement diminuées et les quartes augmentées (toujours progressivement).
-Les octaves sont justes, ou presque, car il faut prendre en compte le phénomène d' inharmonicité que génère différemment chaque piano.
+- Sur le piano pour avoir les mêmes intervalles dans chaque tonalité, l'accord qui est pratiqué se nomme "accord tempéré à 1/2 tons égaux", ce qui signifie que chaque 1/2 tons a le même intervalle.
+- les tierces et les sixtes sont progressives (les battements sont de plus en plus rapides en montant dans les aigus)
+- les quintes légèrement diminuées et les quartes augmentées (toujours progressivement).
+- Les octaves sont justes, ou presque, car il faut prendre en compte le phénomène d' inharmonicité que génère différemment chaque piano.
 
 - On comprend aisément que l'accord d' un piano ne peut se pratiquer qu'après un apprentissage sérieux et de nombreuses années d' expériences.
 
@@ -19,7 +21,8 @@ Les octaves sont justes, ou presque, car il faut prendre en compte le phénomèn
 - Pour avoir un instrument juste, ce qui permettra de prendre un maximum de plaisir lorsque l'on joue et de ne pas se "fausser" l'oreille.
 Pour pouvoir jouer avec d'autres instruments, ou en écoutant la radio ou un CD.
 Pour l'entretien et le bon fonctionnement de son piano.
-En effet, le temps qui passe, la durée et la façon de jouer, les variations de température et d'hygrométrie font varier la tension des cordes, ce qui provoque un déséquilibre des fréquences, des intervales et des unissons, désaccordant le piano.
+
+- En effet, le temps qui passe, la durée et la façon de jouer, les variations de température et d'hygrométrie font varier la tension des cordes, ce qui provoque un déséquilibre des fréquences, des intervales et des unissons, désaccordant le piano.
 - Le fait d'accorder régulièrement son instrument permettra de le maintenir en bon état, car le piano demande à avoir une tension constante et équilibrée des cordes, tension se répercutant sur la charge imposé à la table d' harmonie par l'intermédiaire des chevalets.
 - L'accordeur technicien va à chaque intervention pouvoir surveiller l'ensemble du piano, clavier, mécanisme, table d' harmonie, structure harmonique, chevilles, réglages etc.... pouvant de ce fait prévenir de gros dégâts qui faute de négligence aurait pu être évités
 Mieux vaut prévenir que guérir !
@@ -30,8 +33,10 @@ Mieux vaut prévenir que guérir !
 - Le piano se désaccorde sensiblement à chaque changement de saisons à cause des variations thermique et hygrométrique, nous avons vu plus haut que le piano possède environ 220 cordes, la tension moyenne de chaque corde est d' environ 70 Kg, ce qui représente une tension totale de 15 Tonnes pour un piano droit, cette tension peut atteindre 20 Tonnes sur certains piano à queue.
 
 - La structure harmonique ( ne pas confondre avec le cadre) est faite de bois, en général de l' épicéa pour la table, et du hêtre pour le sommier de chevilles, ce sont des matériaux très sensible aux variations.
-Quand l'humidité s'élève, la table d'harmonie "gonfle" ce qui provoque une surtension des cordes essentiellement dans les médiums ce qui fait monter le "ton", A l'inverse, en période sèche, le bois se rétracte, la table devient plus plane ce qui provoque l'effet inverse et baisse le "ton" , malheureusement les cordes ne bougent jamais de la même manière et uniformément.
-Les cordes aussi se dilatent et se rétractent en fonction de la température, ainsi que toute la structure du piano.
+- 
+- Quand l'humidité s'élève, la table d'harmonie "gonfle" ce qui provoque une surtension des cordes essentiellement dans les médiums ce qui fait monter le "ton", A l'inverse, en période sèche, le bois se rétracte, la table devient plus plane ce qui provoque l'effet inverse et baisse le "ton" , malheureusement les cordes ne bougent jamais de la même manière et uniformément.
+
+- Les cordes aussi se dilatent et se rétractent en fonction de la température, ainsi que toute la structure du piano.
 
 - Bien que le piano se désaccorde même s'il n'est pas joué, il est évident qu'il se désaccordera d' autant plus s'il est très sollicité.
 
@@ -40,5 +45,7 @@ Pour un particulier qui utilise son piano normalement, l'idéal est de l'accorde
 Pour une école de musique de 4 à 8 fois par an.
 Pour un professionnel tous les 2 mois, et avant chaque concert ou enregistrement
 - IMPORTANT: Pour un piano qui n'a pas été accordé depuis plus de 3 ans il est nécessaire de faire une mise sous tension ( 1er accord ), puis un 2ème accord pour stabiliser l'instrument, si il a perdu 1/4 ton il aura besoin de 3 accords à des intervalles rapprochés ( sur 2 mois par exemple )
+- - Combien cela coute?  
+- - environ 100 euros pour un accord d'entretien
 
-- ### ATTENTION: LE MINIMUM EST D'UN ACCORD PAR AN MEME SI LE PIANO N'EST PAS UTILISE ! -
+- #### ATTENTION: LE MINIMUM EST D'UN ACCORD PAR AN MEME SI LE PIANO N'EST PAS UTILISE ! -
