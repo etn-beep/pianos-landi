@@ -1,0 +1,23 @@
+- 1. Se placer dans le dossier du projet
+
+cd ~/mon-site-docs
+
+- 2. Réactiver l'environnement virtuel
+
+source .venv/bin/activate
+
+- 3. Relancer le serveur ProperDocs
+
+properdocs serve   
+
+
+
+Vous devriez voir (.venv) apparaître au 
+
+début de votre ligne de commande, confirmant 
+
+que l'environnement est actif. Votre site sera 
+
+de nouveau accessible sur 
+
+    http://127.0.0.1:8000

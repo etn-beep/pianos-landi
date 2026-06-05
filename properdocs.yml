@@ -1,0 +1,40 @@
+site_name: Piano Tech
+site_url: https://votre-pseudo.github.io/nom-du-repo/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Mode clair
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mode sombre
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+
+nav:
+  - Accueil: index.md
+  - Histoire:
+      - histoire/index.md
+  - Accordage:
+      - accordage/index.md
+  - Fonctionnement:
+      - fonctionnement/index.md
+  - Acoustique:
+      - acoustique/index.md
+  - Conseils:
+      - conseils/index.md
+  - Système Silent:
+      - silent/index.md
+  - Dampp-Chaser:
+      - dampp-chaser/index.md
+
+extra:
+  homepage: index.md   
