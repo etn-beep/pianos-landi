@@ -1,0 +1,63 @@
+# 1. Démarrer une session de travail
+À chaque fois que vous ouvrez un terminal pour travailler sur le site :
+
+
+### 1. Aller dans le dossier du projet
+cd ~/mon-site-docs
+
+### 2. Activer l'environnement virtuel (INDISPENSABLE)
+source .venv/bin/activate   
+
+✅ Vérification : Vous devez voir (.venv) apparaître au début de la ligne de commande.
+
+# 2. Tester les modifications en local
+Pour voir vos changements en temps réel avant de les mettre en ligne :
+### Lancer le serveur de test
+properdocs serve   
+
+- Ouvrez votre navigateur à l'adresse : http://127.0.0.1:8000
+Modifiez vos fichiers .md dans le dossier docs/ avec votre éditeur de texte.
+La page se rafraîchit automatiquement à chaque sauvegarde.
+Pour arrêter le serveur : Faites Ctrl+C dans le terminal.
+
+# 3. Mettre en ligne (Déploiement)
+Une fois vos modifications terminées et testées :
+
+### 1. (Si le serveur tourne encore) Arrêtez-le avec Ctrl+C
+
+### 2. Ajouter tous les fichiers modifiés à Git
+git add .
+
+### 3. Valider les changements avec un message descriptif
+git commit -m "Description de vos changements (ex: Ajout section accordage)"
+
+### 4. Envoyer vers GitHub (déclenche la mise en ligne auto)
+git push   
+
+-Si GitHub demande un mot de passe, utilisez votre Token (commençant par ghp_...).
+Rendez-vous sur l'onglet Actions de votre dépôt GitHub pour voir la progression (point jaune ➔ vert).
+
+# 4. Ajouter une nouvelle page (Exemple)
+Si vous voulez créer une nouvelle section (ex: "Entretien") :
+
+-Créer le fichier :
+
+mkdir docs/entretien
+
+nano docs/entretien/index.md   
+
+(Écrivez votre contenu Markdown et sauvegardez).
+Déclarer dans le menu : Ouvrez properdocs.yml et ajoutez la ligne dans la section nav: :
+nav:
+  - -# ... vos autres pages ...
+  - Entretien: entretien/index.md
+  
+  ### Envoyer : Suivez l'étape 3. Mettre en ligne ci-dessus.
+  
+  
+  - En cas de problème
+Commande properdocs introuvable ? → Vous avez oublié l'étape 1 (source .venv/bin/activate).
+Site non mis à jour sur GitHub ? → Vérifiez l'onglet Actions sur GitHub. Si c'est rouge, cliquez dessus pour voir l'erreur (souvent une faute de frappe dans properdocs.yml).
+Images non affichées ? → Vérifiez le chemin (ex: ../images/photo.jpg si vous êtes dans un sous-dossier).
+
+
