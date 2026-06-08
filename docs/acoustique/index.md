@@ -1,5 +1,15 @@
+---
+
+title: "pianos Landi - acoustique"
+
+---
+
+
 ## COMMENT FONCTIONNE LE "SON" ? 
 ####  (DU PIANO ET EN GENERAL)
+
+![eau](../images/pierre.jpeg)
+
 
 - *Acoustique*: adjectif qui vient du Grec signifiant "relatif à la perception sonore"
 Nous allons ici aborder quelques notions sur le "son", pas un cours d'acoustique pur et dur, mais seulement une petite approche du sujet.
@@ -52,12 +62,13 @@ Son intensité ou sa puissance (son amplitude en décibels)
 Son timbre (son spectre harmonique)
 Sa durée (en secondes)
 
-
-===================================================
+---
 
 
 - La fréquence est le nombre de variations par secondes, plus le nombre de variations est grand, plus le son est aigu, et vice versa. La gamme audible d'un être humain est approximativement de 20 Hz à 20000 Hz (la gamme d'un piano s'étend de 27 Hz à 4186 Hz)
-- 
+
+
 - L'intensité dépend de la puissance d'ébranlement de la source. Lorsque l'on prend un gros caillou et qu'on le jette très fort dans l'eau, le mouvement ondulatoire sera beaucoup plus grand que si l'on jette doucement un petit caillou
 Le timbre est le résultat du mode d'ébranlement, du nombre d'harmoniques et de la disposition de ces harmoniques. Si l'on frappe une cloche avec un marteau en métal, les harmoniques engendrées seront différentes que si cette même cloche est frappée avec un marteau en bois (Ding! et Bong!)
-La durée correspond au temps de l'émission sonore
+La durée correspond au temps de l'émission sonore.
+

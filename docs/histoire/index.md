@@ -1,4 +1,10 @@
-## -L'HISTOIRE DU PIANO-
+---
+
+title: "pianos Landi - histoire"
+
+---
+
+## L'HISTOIRE DU PIANO
 
 
 ### L'origine du piano:
@@ -27,7 +33,7 @@ Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scie
 
 - 1703 : Carlo GRIMALDI transforme un clavecin en " cembalo con marteletti où les marteaux sont des lames de métal enroulées à l'extrémité de manière à former un bout arrondit qui frappe la corde au lieu de la pincer [wiki](https://en.wikipedia.org/wiki/Folding_harpsichord)
 
-- 1709 : Bartolomeo CRISTOFORI invente le premier piano, toujours sur la base d'une transformation de clavecin, mais cette fois les marteaux sont en bois, et articulés à l'extrémité des touches, un petit levier pousse ses marteaux contre les cordes, et un système d'échappement permet de récupérer le marteau à mi course, en même temps l'étouffoir est actionner [wiki](https://en.wikipedia.org/wiki/Bartolomeo_Cristofori)
+- 1709 : Bartolomeo CRISTOFORI invente le premier piano, toujours sur la base d'une transformation de clavecin, mais cette fois les marteaux sont en bois, et articulés à l'extrémité des touches, un petit levier pousse ses marteaux contre les cordes, et un système d'échappement permet de récupérer le marteau à mi course, en même temps l'étouffoir est actionné. [wiki](https://en.wikipedia.org/wiki/Bartolomeo_Cristofori)
 
 - 1717 : Christoph SHRÖTER construit une mécanique avec des marteaux inversés
 

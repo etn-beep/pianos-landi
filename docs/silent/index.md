@@ -1,3 +1,9 @@
+---
+
+title: "pianos Landi - silent"
+
+---
+
 ## LE SYSTEME SILENCIEUX-
 
 - Vous pouvez:
@@ -6,6 +12,8 @@ redonner vie a un piano ancien.
 vous éviter d’investir dans un piano numérique en plus de votre piano acoustique.
 profiter d’un vrai toucher piano tout en ayant les avantages du numérique.
 travailler en même temps sur un vrai piano et faire de la MAO avec votre ordinateur.
+
+![silent](../images/silent01.jpg)
 
 ### Comment cela fonctionne?
 
