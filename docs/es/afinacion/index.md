@@ -21,7 +21,8 @@ La afinación consiste en equilibrar la tensión de las cuerdas para obtener int
 
 * Es fácil comprender que la afinación de un piano solo puede realizarse correctamente tras una formación rigurosa y muchos años de experiencia.
 
-* El técnico afinador trabaja sobre la tensión de cada una de las aproximadamente 220 cuerdas mediante las clavijas de afinación, utilizando una herramienta denominada simplemente la "llave de afinar" [^1], y tomando como frecuencia de referencia   el LA a 440 Hz (diapasón internacional). También pueden emplearse otras referencias, como el "LA 415 Hz" para instrumentos históricos o el "LA 442 Hz", solicitado por algunas orquestas.
+* El técnico afinador trabaja sobre la tensión de cada una de las aproximadamente 220 cuerdas mediante las clavijas de afinación, utilizando una herramienta denominada simplemente
+ ...la llave de afinar[^1], y tomando como frecuencia de referencia   el LA a 440 Hz (diapasón internacional). También pueden emplearse otras referencias, como el "LA 415 Hz" para instrumentos históricos o el "LA 442 Hz", solicitado por algunas orquestas.
 
 * Atención: la afinación de un piano actúa únicamente sobre la tensión de las cuerdas. Si su instrumento presenta problemas de tacto o de timbre debido al desgaste o deterioro de fieltros, casquillos, muelles u otros componentes, afinar el piano no resolverá el problema. En ese caso será necesaria una reparación, regulación mecánica o armonización.
 
@@ -70,8 +71,7 @@ Mejor prevenir que curar.
 
 * #### ATENCIÓN: ¡EL MÍNIMO RECOMENDABLE ES UNA AFINACIÓN AL AÑO, INCLUSO SI EL PIANO NO SE UTILIZA!
 
-[^1]: nota bene
-<small>Para girar una clavija y afinar una cuerda de piano, un afinador debe aplicar una fuerza aproximada de entre 2 y 5 kg en el extremo de la llave de afinar.
+[^1]:nota bene: Para girar una clavija y afinar una cuerda de piano, un afinador debe aplicar una fuerza aproximada de entre 2 y 5 kg en el extremo de la llave de afinar.
 Aunque cada cuerda individual soporta una tensión considerable, generalmente entre 75 y 90 kg, el afinador no necesita ejercer directamente esa fuerza gracias al efecto de palanca de la herramienta y a la fricción mecánica de la clavija dentro del clavijero de madera.
 La fuerza necesaria para girar la clavija consiste en vencer el par de fricción existente entre el metal y la madera. Este par suele situarse entre 10 y 15 Newton metro (Nm).
 Con una llave de afinación estándar de aproximadamente 30 cm de longitud, la fuerza aplicada perpendicularmente al mango equivale a un esfuerzo de entre 3,5 y 5 kg (35 a 50 Newtons).
@@ -81,6 +81,6 @@ Tensión por cuerda: una cuerda de piano ejerce una tracción permanente de entr
 Tensión total: las aproximadamente 220 cuerdas ejercen de forma permanente entre 15 y 20 toneladas sobre la estructura del piano.
 La técnica de afinación no se basa en la fuerza bruta, sino en la precisión milimétrica. El afinador utiliza frecuentemente el peso de su propio cuerpo o pequeños impulsos controlados para estabilizar la clavija sin deformarla ni dañar el clavijero.
 Durante una afinación completa, un técnico moviliza una fuerza acumulada estimada entre 2.500 y 3.000 kg, y más de 5.500 kg cuando es necesario realizar una puesta a tono general del instrumento.
-Aunque estas cifras puedan parecer impresionantes —equivalentes al peso de varios automóviles—, el esfuerzo se distribuye a lo largo de una sesión de trabajo de entre una hora y media y dos horas.</small>
+Aunque estas cifras puedan parecer impresionantes —equivalentes al peso de varios automóviles—, el esfuerzo se distribuye a lo largo de una sesión de trabajo de entre una hora y media y dos horas.
 
 

@@ -1,15 +1,14 @@
-site_name: "Piano Tech"
+site_name: Piano Tech
 site_url: "https://etn-beep.github.io/pianos-landi/"
 site_description: "Documentation technique du piano : mécanique, acoustique, accordage, histoire et systèmes modernes."
 
-# ADRESSE COMPLÈTE DU CODE CORRIGÉE ICI :
-repo_url: https://github.com
-repo_name: etn-beep/pianos-landi
+use_directory_urls: true
+edit_uri: ""
 
 theme:
   name: material
   language: fr
-# ALIGNEMENT CORRIGÉ CI-DESSOUS (2 ESPACES STRICTS) :
+
   palette:
     - scheme: default
       toggle:
@@ -19,6 +18,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Mode sombre
+
   features:
     - navigation.tabs
     - navigation.indexes
@@ -26,9 +26,10 @@ theme:
     - navigation.top
     - search.highlight
 
-nav:
-  - Accueil: index.md
+markdown_extensions:
+  - footnotes
 
+nav:
   - Français:
       - Accueil: fr/index.md
       - Histoire: fr/histoire/index.md
@@ -49,12 +50,14 @@ nav:
       - Silent: es/silent/index.md
       - Dampp-Chaser: es/dampp-chaser/index.md
 
+repo_url: "https://github.com/etn-beep/pianos-landi"
+repo_name: "etn-beep/pianos-landi"
+
 extra:
-  homepage: index.md
   alternate:
     - name: Français
-      link: /fr/
+      link: "https://etn-beep.github.io/pianos-landi/fr/"
       lang: fr
     - name: Español
-      link: /es/
+      link: "https://etn-beep.github.io/pianos-landi/es/"
       lang: es
