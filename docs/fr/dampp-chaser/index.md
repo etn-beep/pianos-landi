@@ -1,9 +1,6 @@
 ---
 
 title: "Dampp-Chaser – contrôle de l’humidité pour piano acoustique"
-
----
-
 description: "Le contrôle de l’humidité, comment stabiliser son piano pour le maintenir en bon état"
 
 
@@ -13,6 +10,4 @@ description: "Le contrôle de l’humidité, comment stabiliser son piano pour l
 
 [dampp-chaser](https://www.pianolifesaver.com/how-it-works/)
 
-
----
 

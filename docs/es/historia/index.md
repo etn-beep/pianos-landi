@@ -1,20 +1,20 @@
 ---
 
 title: "Historia del piano – del clavecín al piano moderno"
-
----
-
 description: "Evolución del piano desde el clavecín y el clavicordio hasta el piano moderno de concierto."
 
 ---
 
 # Historia del piano
 
-El piano moderno tiene su origen en instrumentos de cuerda como el clavecín y el clavicordio...
+
 
 ## El origen del piano
 
-* Aunque el piano tal como lo conocemos hoy apareció hace aproximadamente tres siglos, sus orígenes se remontan mucho más atrás, hasta el siglo XI, época de la [cítara](https://en.wikipedia.org/wiki/Kithara) y del [salterio](https://en.wikipedia.org/wiki/Hammered_dulcimer), que evolucionó hacia el [clavicordio](https://en.wikipedia.org/wiki/Clavichord) tras la incorporación de un teclado.
+*El piano moderno tiene su origen en instrumentos de cuerda como el clavecín y el clavicordio...*
+* Aunque el piano tal como lo conocemos hoy apareció hace aproximadamente tres siglos, sus orígenes se remontan mucho más atrás, hasta el siglo XI, época de la [cítara](https://en.wikipedia.org/wiki/Kithara) y del [salterio](https://en.wikipedia.org/wiki/Hammered_dulcimer), que evolucionó hacia el [clavicordio](https://en.wikipedia.org/wiki/Clavichord) tras la incorporación de un teclado.   
+
+![clavicorde](../images/clavicordio.jpg "clavicordio")
 
 * En estos primeros instrumentos, pequeños pernos fijados a las teclas golpeaban las cuerdas desde abajo. El [monocordio](https://en.wikipedia.org/wiki/Monochord), también llamado manicordio, inspiraría posteriormente el desarrollo de numerosos instrumentos de cuerda percutida.
 

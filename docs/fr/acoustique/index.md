@@ -1,9 +1,6 @@
 ---
 
 title: "Le son – physique acoustique et propagation des ondes, fréquence, amplitude et spectre harmonique"
-
----
-
 description: "Acoustique du piano : fréquence, amplitude, propagation du son et spectre harmonique."
 
 ---
@@ -11,7 +8,7 @@ description: "Acoustique du piano : fréquence, amplitude, propagation du son et
 ![eau](../images/pierre.jpeg)
 
 
-# Acoustique: 
+# Acoustique    
 adjectif qui vient du Grec signifiant "relatif à la perception sonore"
 Nous allons ici aborder quelques notions sur le "son", pas un cours d'acoustique pur et dur, mais seulement une petite approche du sujet.
 
@@ -30,9 +27,6 @@ Les ondes visibles à la surface de l'eau représentent bien le mouvement ondula
 
 - La vitesse de la vibration est la fréquence (en Hertz)
 Le niveau de compression et de décompression est l'amplitude (en décibels)
-
-===================================================
-
 
 ## SHEMA
 
@@ -76,10 +70,11 @@ La durée correspond au temps de l'émission sonore.
 
 ---
 
-Voir aussi :
-- [Fonctionnement du piano](/fr/fonctionnement/)
-- [Accordage et inharmonicité](/fr/accordage/)
-- 
----
+Voir aussi:   
+
+[Fonctionnement du piano](../fonctionnement/index.md)  
+
+[Accordage et inharmonicité](../accordage/index.md)
+
 
 

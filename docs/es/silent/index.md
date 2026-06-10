@@ -1,9 +1,6 @@
 ---
 
 title: "Sistema Silent para piano – funcionamiento y ventajas"
-
----
-
 description: "Sistema Silent para piano acústico: funcionamiento, sensores MIDI y uso en silencio con auriculares."
 
 ---

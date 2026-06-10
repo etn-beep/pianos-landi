@@ -1,9 +1,6 @@
 ---
 
 title: "Dampp-Chaser – control de humedad para piano acústico"
-
----
-
 description: "Sistema de control de humedad para piano: estabilización al 45–50% para proteger la madera y la afinación."
 
 ---

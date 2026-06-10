@@ -1,9 +1,6 @@
 ---
 
 title: "Conseils pour l’entretien du piano – humidité, accord et maintenance - Comment choisir son piano"
-
----
-
 description: "Chosir un piano, neuf ou occasion. L'entretien de son piano pour qu'il reste en bon état. Comment se protéger des variations hygrometriques"
 
 ---
@@ -85,5 +82,3 @@ Pianos français: Pleyel
 
 - Et surtout n'oubliez pas que la formation de votre oreille dépendra de la qualité musicale de votre piano, pour cela il n'est pas nécessaire d'avoir un instrument de haut de gamme, il suffit de bien choisir votre piano, même dans des petits prix, et surtout qu'il soit régulièrement entretenu par un spécialiste -
 
-
----

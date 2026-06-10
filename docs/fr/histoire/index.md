@@ -1,12 +1,16 @@
 ---
 
 title: "Histoire du piano, évolution du clavecin au piano moderne"
+description: "toute l'histoire de l'evoution du piano"
 
 ---
 
-# L'origine:
+# L'origine
 
 - Le piano tel que nous le connaissons maintenant, voit ses débuts il y a trois siècles, mais nous pouvons remonter bien avant, au XI siècle, époque de la [cithare](https://en.wikipedia.org/wiki/Kithara) et du [tympanon](https://en.wikipedia.org/wiki/Hammered_dulcimer) qui devient [clavicorde](https://en.wikipedia.org/wiki/Clavichord) après l'ajout d'un clavier.
+
+![clavicorde](../images/clavicordio.jpg "clavicordio")
+
 Des petits "crampons" sont fixés sur les touches, et attaquent la corde de bas en haut. 
 On s'inspirera beaucoup du monocorde[monocorde ou manicorde](https://en.wikipedia.org/wiki/Monochord) pour la fabrication future des instruments à cordes frappées.
 Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scientifique qu'un instrument de musique. Au VI siècle av JC, Pythagore lui-même s'en servait pour étudier les principes musicaux. Par le monocorde, il ramena la musique à des principes mathématique.

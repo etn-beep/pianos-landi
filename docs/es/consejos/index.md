@@ -1,16 +1,13 @@
 ---
 
 title: "Consejos para el mantenimiento del piano – humedad y afinación"
-
----
-
 description: "Consejos para el mantenimiento del piano: control de humedad, afinación regular y conservación del instrumento. Cómo elegir un piano"
 
 ---
 
 # Consejos para el piano
 
-Es fundamental mantener una humedad estable para evitar problemas en la estructura del piano...
+**Es fundamental mantener una humedad y una temperatura estable para evitar problemas en la estructura y mecanismo del piano...**
 
 ### AFINACIÓN
 
@@ -36,7 +33,7 @@ Es fundamental mantener una humedad estable para evitar problemas en la estructu
 
 * Si el piano ha sido restaurado, solicite detalles sobre los trabajos realizados.
 
-* Desconfíe de los muebles muy atractivos cuyo interior no siempre está a la altura de su apariencia.
+* Desconfíe de los muebles muy atractivos ya que su interior pude no estar a la altura de su apariencia.
 
 * Evite los mecanismos de bayoneta (presentes en algunos pianos ingleses) y los bastidores de madera o semimetálicos. Lo ideal es encontrar un piano con bastidor de fundición completa, cuerdas cruzadas y una mecánica moderna.
 

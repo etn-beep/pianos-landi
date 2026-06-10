@@ -1,9 +1,6 @@
 ---
 
 title: "Acústica del piano – frecuencia, amplitud y espectro armónico"
-
----
-
 description: "Principios de la acústica aplicados al piano: frecuencia, amplitud, propagación del sonido y espectro armónico."
 
 ---

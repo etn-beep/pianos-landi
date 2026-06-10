@@ -1,9 +1,6 @@
 ---
 
 title: "Explication technique de l'accord du piano, tempérament égal, battements et inharmonicité."
-
----
-
 description: "Accordage du piano : tempérament égal, battements, inharmonicité et stabilité des intervalles."
 
 ---
@@ -19,7 +16,7 @@ description: "Accordage du piano : tempérament égal, battements, inharmonicit�
 
 - On comprend aisément que l'accord d' un piano ne peut se pratiquer qu'après un apprentissage sérieux et de nombreuses années d' expériences.
 
-- L'accordeur technicien pour faire son oeuvre va jouer sur la tension de chacune des 220 cordes par l'intermédiaire des chevilles en utilisant un outil que l'on nomme tout simplement la "clef d' accord"   [^1]
+- L'accordeur technicien pour faire son oeuvre va jouer sur la tension de chacune des 220 cordes par l'intermédiaire des chevilles en utilisant un outil que l'on nomme tout simplement la [^1]"clef d' accord"   
 et en se basant sur une valeur étalon qui est le diapason au "lA 440hz" (diapason international). On peut aussi utiliser d'autre diapasons tel que le "LA 415hz" pour les pianos d'époques ou le "LA 442hz" demandé par certains orchestres.
 
 - Attention: l'accord d'un piano n'agit que sur la tension des cordes, si votre instrument a un problème de "touché" ou de "timbre" dù à une usure ou une déterioration des feutres, garnitures de pivots, ressorts etc... le fait d'accorder le piano ne résoudra pas le problème, qui est du domaine de la réparation, du réglage ou de l'harmonisation !
@@ -58,37 +55,29 @@ Pour un professionnel tous les 2 mois, et avant chaque concert ou enregistrement
 
 ### ATTENTION: LE MINIMUM EST D'UN ACCORD PAR AN MEME SI LE PIANO N'EST PAS UTILISE ! -
 
- [^1]:
+ [^1]: nota bene
  <small> Pour tourner une cheville et accorder une corde de piano, un accordeur doit exercer une force d'environ 2 à 5 kilos au bout du manche de sa clé d'accord.
-
-
 Bien que chaque corde individuelle subisse une tension physique immense comprise entre 75 et 90 kg, l'accordeur n'a pas à soulever ni à tirer tout ce poids directement grâce à l'effet de levier de son outil et à la friction mécanique de la cheville dans le sommier en bois.
-
 La force mesurée au bout de la clé pour faire tourner la cheville en métal implantée dans le bloc de bois (le sommier), l'accordeur doit vaincre le couple de friction. Ce couple de résistance requis se situe généralement entre 10 et 15 Newton-mètres(Nm).
-
 Avec une clé d'accord standard disposant d'un manche d'environ 30 cm de long.
 La force physique nécessaire à appliquer perpendiculairement au manche se traduit par une poussée ou une traction d'environ 3,5 à 5 kg (35 à 50 Newtons).
 Sur un piano très récent ou équipé de chevilles particulièrement serrées, l'effort maximal au bout de la clé peut monter ponctuellement jusqu'à 10 kilos.
-
 Il ne faut pas confondre la force déployée par le bras de l'artisan avec la tension interne de l'instrument.
-
 Tension par corde : Une corde de piano exerce une traction permanente allant de 60 kg à plus de 100 kg selon sa note (les basses étant les plus lourdes).
-
 Tension totale : Sur l'ensemble des ~220 cordes du piano, cela représente une force de 15 à 20 tonnes exercée en continu sur le cadre en fonte.
-
 La technique du geste mécanique
 de l'accordage ne repose pas sur la force brute mais sur la micro-précision. L'accordeur utilise souvent le poids de son propre corps ou un geste sec (technique de l'impact) plutôt qu'un mouvement musculaire continu du bras. Cela permet de caler la cheville de manière stable sans tordre le métal ni abîmer le sommier en bois.
-
 Sur l'ensemble d'un piano, un accordeur va mobiliser une force cumulée d'environ 2 500 à 3 000 kilos (2,5 à 3 tonnes) pour un accordage standard, et plus de 5500 kilos (5,5 tonnes) si le piano doit subir une mise au ton (remontée globale du diapason).
-
 Bien que le total en kilogrammes soit impressionnant (l'équivalent du poids de 3 à 5 voitures), cet effort est lissé sur une séance de 1h30 à 2 heures</small>
 
 
 ---
 
-Voir aussi :
-- [Acoustique du piano](/fr/acoustique/)
-- [Fonctionnement mécanique](/fr/fonctionnement/)
+Voir aussi:
 
----
+[Acoustique du piano](../acoustique/)
+
+[Fonctionnement mécanique](../fonctionnement/)
+
+
 

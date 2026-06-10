@@ -1,9 +1,6 @@
 ---
 
 title: "Cómo funciona un piano – mecánica martillos cuerdas"
-
----
-
 description: "Funcionamiento del piano explicado: acción mecánica, martillos, cuerdas y sistema de escape."
 
 ---
@@ -35,7 +32,7 @@ El sistema (presentado aquí en un piano de cola) se basa en un principio de esc
 
 3. **Escape (golpe):** La palanca de escape impulsa el martillo hacia arriba. Justo antes de que el martillo alcance la cuerda, la base de la palanca de escape entra en contacto con el tornillo de regulación, obligándola a pivotar hacia atrás. El martillo queda entonces liberado (escape) y completa su recorrido únicamente gracias a su inercia antes de golpear la cuerda y rebotar.
 
-4. **Retención:** Después del rebote, el martillo es capturado a media carrera por el atrape (la pieza vertical situada al final de la tecla). Esto evita que golpee la cuerda una segunda vez. La palanca de repetición permite que el mecanismo de escape vuelva a colocarse bajo el rodillo del martillo tan pronto como la tecla se libera ligeramente, permitiendo repetir la nota muy rápidamente sin necesidad de soltar completamente la tecla.
+4. **Retención:** Después del rebote, el martillo es capturado a media carrera por el atrape con el contro atrape (la pieza vertical situada al extrema de la tecla). Esto evita que golpee la cuerda una segunda vez. La palanca de repetición permite que el mecanismo de escape vuelva a colocarse bajo el rodillo del martillo tan pronto como la tecla se libera ligeramente, permitiendo repetir la nota muy rápidamente sin necesidad de soltar completamente la tecla.
 
 ### Diferencia entre piano de cola y piano vertical
 

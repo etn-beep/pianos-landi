@@ -1,9 +1,6 @@
 ---
 
 title: "Système Silent pour piano – fonctionnement et installation"
-
----
-
 description: "Comment un piano acoustique peut devenir électronique. Jouer sur un vrai piano sans déranger son voisinage."
 
 # Le systeme silencieux a installer dans son piano
