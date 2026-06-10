@@ -1,8 +1,11 @@
-site_name: Piano Tech
-site_url: https://etn-bleep.github.io/pianos-landi/
+site_name: "Piano Tech"
+site_url: "https://etn-bleep.github.io/pianos-landi/"
+site_description: "Documentation technique du piano : mécanique, acoustique, accordage, histoire et systèmes modernes."
 
 theme:
   name: material
+  language: fr
+
   palette:
     - scheme: default
       toggle:
@@ -12,6 +15,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Mode sombre
+
   features:
     - navigation.tabs
     - navigation.indexes
@@ -21,20 +25,26 @@ theme:
 
 nav:
   - Accueil: index.md
-  - Histoire:
-      - histoire/index.md
-  - Accordage:
-      - accordage/index.md
-  - Fonctionnement:
-      - fonctionnement/index.md
-  - Acoustique:
-      - acoustique/index.md
-  - Conseils:
-      - conseils/index.md
-  - Système Silent:
-      - silent/index.md
-  - Dampp-Chaser:
-      - dampp-chaser/index.md
+
+  - Français:
+      - Accueil: fr/index.md
+      - Histoire: fr/histoire/index.md
+      - Accordage: fr/accordage/index.md
+      - Fonctionnement: fr/fonctionnement/index.md
+      - Acoustique: fr/acoustique/index.md
+      - Conseils: fr/conseils/index.md
+      - Silent: fr/silent/index.md
+      - Dampp-Chaser: fr/dampp-chaser/index.md
+
+  - Español:
+      - Inicio: es/index.md
+      - Historia: es/historia/index.md
+      - Afinación: es/afinacion/index.md
+      - Funcionamiento: es/funcionamiento/index.md
+      - Acústica: es/acustica/index.md
+      - Consejos: es/consejos/index.md
+      - Silent: es/silent/index.md
+      - Dampp-Chaser: es/dampp-chaser/index.md
 
 extra:
-  homepage: index.md   
+  homepage: index.md
