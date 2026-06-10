@@ -25,7 +25,7 @@ La afinación consiste en equilibrar la tensión de las cuerdas para obtener int
 
 * Es fácil comprender que la afinación de un piano solo puede realizarse correctamente tras una formación rigurosa y muchos años de experiencia.
 
-* El técnico afinador trabaja sobre la tensión de cada una de las aproximadamente 220 cuerdas mediante las clavijas de afinación, utilizando una herramienta denominada simplemente la "llave de afinar" [^1], y tomando como referencia una frecuencia patrón: el LA a 440 Hz (diapasón internacional). También pueden emplearse otras referencias, como el "LA 415 Hz" para instrumentos históricos o el "LA 442 Hz", solicitado por algunas orquestas.
+* El técnico afinador trabaja sobre la tensión de cada una de las aproximadamente 220 cuerdas mediante las clavijas de afinación, utilizando una herramienta denominada simplemente la "llave de afinar" [^1], y tomando como frecuencia de referencia   el LA a 440 Hz (diapasón internacional). También pueden emplearse otras referencias, como el "LA 415 Hz" para instrumentos históricos o el "LA 442 Hz", solicitado por algunas orquestas.
 
 * Atención: la afinación de un piano actúa únicamente sobre la tensión de las cuerdas. Si su instrumento presenta problemas de tacto o de timbre debido al desgaste o deterioro de fieltros, casquillos, muelles u otros componentes, afinar el piano no resolverá el problema. En ese caso será necesaria una reparación, regulación mecánica o armonización.
 
@@ -43,7 +43,7 @@ La afinación consiste en equilibrar la tensión de las cuerdas para obtener int
 
 * En cada intervención, el técnico afinador puede supervisar el estado general del piano: teclado, mecanismo, tabla armónica, estructura acústica, clavijas, regulaciones, etc. Esto permite detectar problemas a tiempo y evitar averías importantes que, de otro modo, podrían resultar muy costosas.
 
-Mejor prevenir que reparar.
+Mejor prevenir que curar.
 
 * El mantenimiento de un piano supone aproximadamente unos 100 euros al año, mientras que la falta de mantenimiento puede generar reparaciones mucho más costosas.
 
@@ -51,7 +51,7 @@ Mejor prevenir que reparar.
 
 * El piano suele desafinarse con cada cambio de estación debido a las variaciones de temperatura y humedad. Como hemos visto, un piano dispone de unas 220 cuerdas, cada una sometida a una tensión media cercana a los 70 kg. Esto representa una tensión total de aproximadamente 15 toneladas en un piano vertical y puede alcanzar las 20 toneladas en algunos pianos de cola.
 
-* La estructura acústica (que no debe confundirse con el bastidor) está fabricada principalmente con madera: generalmente abeto para la tabla armónica y haya para el clavijero. Son materiales especialmente sensibles a las variaciones climáticas.
+* La estructura acústica (que no debe confundirse con el bastidor) está fabricada principalmente con madera: generalmente abeto para la tabla armónica y haya para el teclado. Son materiales especialmente sensibles a las variaciones climáticas.
 
 *
 
@@ -62,7 +62,7 @@ Mejor prevenir que reparar.
 * Aunque un piano se desafina incluso cuando no se toca, es evidente que cuanto más se utiliza, más rápidamente pierde la afinación.
 
 * Frecuencia recomendada de afinación:
-  Para un particular que utiliza su piano con normalidad, lo ideal es afinarlo 2 veces al año.
+  Para un privado que utiliza su piano con normalidad, lo ideal es afinarlo 2 veces al año.
   Para una escuela de música, entre 4 y 8 veces al año.
   Para un profesional, cada 2 meses y antes de cada concierto o grabación.
 

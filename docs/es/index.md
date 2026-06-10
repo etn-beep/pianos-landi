@@ -9,20 +9,21 @@ description: "Documentación técnica sobre el piano: mecánica, acústica, afin
 ---
 
 # Piano Tech
-
+[french](../fr/index.md)   
+[spanish](../es/index.md)
 
 ![Piano](images/fazioli.jpeg)
 
-Bienvenido a una documentación técnica dedicada al piano: su mecánica, su acústica y su funcionamiento.
+**Una documentación técnica dedicada al piano**
+
+Esta pagina explora el universo del piano desde todos sus ángulos:
 
 
 
-
-Este sitio técnico explora el universo del piano desde todos sus ángulos:
-- Historia y evolución
-- Mecanismos y funcionamiento
-- El arte de la afinación y una introducción a la física acústica
-- Sistemas modernos (Silent, Dampp-Chaser)
+>- Historia y evolución
+>- Mecanismos y funcionamiento
+>- El arte de la afinación y una introducción a la física acústica
+>- Sistemas modernos (Silent, Dampp-Chaser)
 
 ---
 

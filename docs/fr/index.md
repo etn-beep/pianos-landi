@@ -6,18 +6,17 @@ description: "Site technique sur le piano : mécanique, acoustique, accordage, h
 ---
 
 # Piano Tech
-
-Bienvenue sur un site dédié à la mécanique et à l’acoustique du piano.
-
+[spanish](../es/index.md)   
+[french](../fr/index.md)
 
 ![Piano](images/fazioli.jpeg)  
 
 
-Ce site technique explore l'univers du piano sous tous ses angles :
-- Histoire et évolution
-- Mécanismes et fonctionnement
-- L'art de l'accordage et intro a la physique acoustique
-- Systèmes modernes (Silent, Dampp-Chaser)
+**Cette page technique explore l'univers du piano sous tous ses angles:**
+>- Histoire et évolution
+>- Mécanismes et fonctionnement
+>- L'art de l'accordage et intro a la physique acoustique
+>- Systèmes modernes (Silent, Dampp-Chaser)
 
 ---
 

@@ -23,9 +23,9 @@ El sistema Silent permite tocar el piano sin sonido acústico gracias a sensores
 
 ### Funcionamiento:
 
-* Sensores instalados bajo el teclado transforman cada tecla pulsada en una señal MIDI que se envía a un procesador equipado con una tarjeta de sonido. El sistema no modifica en absoluto la sensación al tacto de un teclado acústico tradicional.
+* Sensores instalados bajo el teclado transforman cada tecla pulsada en una señal MIDI que se envía a un procesador equipado con una tarjeta de sonido. El sistema no modifica en absoluto la sensación del tacto de un teclado acústico tradicional.
 
-* Una barra de parada de martillos bloquea estos en posición de “silencio” antes de que golpeen las cuerdas. De este modo, el piano deja de producir sonido acústico y el sistema MIDI toma el relevo. Una palanca discreta situada bajo el teclado permite cambiar entre el modo acústico, el modo silencioso o incluso ambos a la vez.
+* Una barra de retención de martillos bloquea estos en posición de “silencio” antes de que golpeen las cuerdas. De este modo, el piano deja de producir sonido acústico y el sistema MIDI toma el relevo. Una palanca discreta situada bajo el teclado permite cambiar entre el modo acústico, el modo silencioso o incluso ambos a la vez.
 
 * También puedes grabarte mientras tocas, lo que facilita el trabajo de interpretación y el estudio musical.
 

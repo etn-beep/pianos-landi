@@ -4,7 +4,7 @@ title: "Conseils pour l’entretien du piano – humidité, accord et maintenanc
 
 ---
 
-description: "Chosir un piano, neuf ou occasion. Le bon entretien de son piano pour qu'il reste en bon état. Comment se protéger des variations hygrometriques"
+description: "Chosir un piano, neuf ou occasion. L'entretien de son piano pour qu'il reste en bon état. Comment se protéger des variations hygrometriques"
 
 ---
 

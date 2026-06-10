@@ -10,19 +10,15 @@ description: "Funcionamiento del piano explicado: acción mecánica, martillos, 
 
 # Cómo funciona un piano
 
-Cuando se presiona una tecla, se activa un sistema mecánico que hace golpear un martillo sobre las cuerdas...
+ ![mecanica-piano-cola](../images/grand-action.jpg)
 
+Cuando se presiona una tecla, se activa un sistema mecánico que hace golpear un martillo sobre las cuerdas...
 
 * Simplificando: cuando se pulsa una tecla, esta eleva mediante un sencillo sistema de palanca todo un conjunto de pequeñas piezas (llamado mecánica del piano), lo que provoca que un martillo golpee una o varias cuerdas.
 
 * El golpe del martillo hace vibrar la cuerda o las cuerdas. Esta vibración es amplificada por la tabla armónica, que actúa como un altavoz a través del puente.
 
 * Observemos el fenómeno:
-
-* ![mecanica-piano-cola](../images/grand-action.jpg)
-
----
-
 Un pequeño vídeo para visualizarlo (Ediciones Larousse)
 
 <video src="../images/grand-piano-meca.mp4" controls width="100%">
