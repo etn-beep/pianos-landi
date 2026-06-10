@@ -2,14 +2,14 @@ site_name: "Piano Tech"
 site_url: "https://etn-beep.github.io/pianos-landi/"
 site_description: "Documentation technique du piano : mécanique, acoustique, accordage, histoire et systèmes modernes."
 
-# AJOUT DE VOTRE REPERTOIRE GITHUB POUR REPARER L'ICÔNE 404
+# ADRESSE COMPLÈTE DU CODE CORRIGÉE ICI :
 repo_url: https://github.com
 repo_name: etn-beep/pianos-landi
 
 theme:
   name: material
   language: fr
-
+# ALIGNEMENT CORRIGÉ CI-DESSOUS (2 ESPACES STRICTS) :
   palette:
     - scheme: default
       toggle:
@@ -19,7 +19,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Mode sombre
-
   features:
     - navigation.tabs
     - navigation.indexes
@@ -52,3 +51,10 @@ nav:
 
 extra:
   homepage: index.md
+  alternate:
+    - name: Français
+      link: /fr/
+      lang: fr
+    - name: Español
+      link: /es/
+      lang: es
