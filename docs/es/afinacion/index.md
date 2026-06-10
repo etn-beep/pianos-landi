@@ -22,7 +22,7 @@ La afinación consiste en equilibrar la tensión de las cuerdas para obtener int
 * Es fácil comprender que la afinación de un piano solo puede realizarse correctamente tras una formación rigurosa y muchos años de experiencia.
 
 * El técnico afinador trabaja sobre la tensión de cada una de las aproximadamente 220 cuerdas mediante las clavijas de afinación, utilizando una herramienta denominada simplemente
- ...la llave de afinar[^1], y tomando como frecuencia de referencia   el LA a 440 Hz (diapasón internacional). También pueden emplearse otras referencias, como el "LA 415 Hz" para instrumentos históricos o el "LA 442 Hz", solicitado por algunas orquestas.
+ **la llave de afinar[^1]**, y tomando como frecuencia de referencia   el LA a 440 Hz (diapasón internacional). También pueden emplearse otras referencias, como el "LA 415 Hz" para instrumentos históricos o el "LA 442 Hz", solicitado por algunas orquestas.
 
 * Atención: la afinación de un piano actúa únicamente sobre la tensión de las cuerdas. Si su instrumento presenta problemas de tacto o de timbre debido al desgaste o deterioro de fieltros, casquillos, muelles u otros componentes, afinar el piano no resolverá el problema. En ese caso será necesaria una reparación, regulación mecánica o armonización.
 

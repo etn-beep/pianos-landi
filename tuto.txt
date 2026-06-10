@@ -19,6 +19,10 @@ properdocs gh-deploy --force
 
 ---
 
+
+OU: 
+git add . && git commit -m "update" && git push && properdocs gh-deploy --force
+
 Ajouter une nouvelle page (Exemple)
 Si vous voulez créer une nouvelle section (ex: "Entretien") :
 

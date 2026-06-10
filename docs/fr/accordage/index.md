@@ -17,7 +17,7 @@ description: "Accordage du piano : tempérament égal, battements, inharmonicit�
 - On comprend aisément que l'accord d' un piano ne peut se pratiquer qu'après un apprentissage sérieux et de nombreuses années d' expériences.
 
 - L'accordeur technicien pour faire son oeuvre va jouer sur la tension de chacune des 220 cordes par l'intermédiaire des chevilles en utilisant un outil que l'on nomme tout simplement 
-- ... la clef d’accord[^1]
+**la clef d’accord[^1]**
 et en se basant sur une valeur étalon qui est le diapason au "lA 440hz" (diapason international). On peut aussi utiliser d'autre diapasons tel que le "LA 415hz" pour les pianos d'époques ou le "LA 442hz" demandé par certains orchestres.
 
 - Attention: l'accord d'un piano n'agit que sur la tension des cordes, si votre instrument a un problème de "touché" ou de "timbre" dù à une usure ou une déterioration des feutres, garnitures de pivots, ressorts etc... le fait d'accorder le piano ne résoudra pas le problème, qui est du domaine de la réparation, du réglage ou de l'harmonisation !
