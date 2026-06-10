@@ -1,6 +1,10 @@
 site_name: "Piano Tech"
-site_url: "https://etn-bleep.github.io/pianos-landi/"
+site_url: "https://etn-beep.github.io/pianos-landi/"
 site_description: "Documentation technique du piano : mécanique, acoustique, accordage, histoire et systèmes modernes."
+
+# AJOUT DE VOTRE REPERTOIRE GITHUB POUR REPARER L'ICÔNE 404
+repo_url: https://github.com
+repo_name: etn-beep/pianos-landi
 
 theme:
   name: material
