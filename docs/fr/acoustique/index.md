@@ -70,6 +70,8 @@ La durée correspond au temps de l'émission sonore.
 
 ---
 
+### [voir plus - annexes inharmonicité](../annexes/inharmonicite.md)
+
 Voir aussi:   
 
 [Fonctionnement du piano](../fonctionnement/index.md)  
