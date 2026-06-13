@@ -1,7 +1,7 @@
 ---
 
 title: "Le son – comma pythagoricien, Le phénomène d'inharmonicité, physique acoustique, amplitude et spectre harmonique"
-description: "Le phénomène d'inharmonicité, Acoustique du piano fréquences, Amplitude, propagation du son et spectre harmonique."
+description: "Le phénomène d'inharmonicité, Acoustique du piano fréquences, Amplitude, propagation du son et spectre harmonique. Accord Serge Cordier"
 
 ---
 
@@ -109,10 +109,23 @@ L'effet à l'oreille : C'est l'intervalle le plus stable et le plus consonant ap
 
 - Pour résoudre ce problème physique, on a développé plusieurs systèmes d'accordage nommés tempéraments :
 
-- Le tempérament égal : C'est la norme moderne pour le piano. On divise le comma pythagoricien équitablement entre les 12 quintes du clavier. Chaque quinte est ainsi légèrement "rétrécie" de 2 cents par rapport à une quinte pure. Toutes les tonalités sonnent de la même manière, permettant de moduler à l'infini.   
+- 1- Le tempérament égal : C'est la norme moderne pour le piano. On divise le comma pythagoricien équitablement entre les 12 quintes du clavier. Chaque quinte est ainsi légèrement "rétrécie" de 2 cents par rapport à une quinte pure. Toutes les tonalités sonnent de la même manière, permettant de moduler à l'infini.   
 
-- Les tempéraments historiques : Les tempéraments inégaux (comme Werckmeister ou Kirnberger) laissaient certaines quintes pures et accumulaient le reste de la coma sur d'autres intervalles. Cela donnait une "couleur" unique et une tension propre à chaque tonalité.
+- 2- Les tempéraments historiques : Les tempéraments inégaux (comme Werckmeister ou Kirnberger) laissaient certaines quintes pures et accumulaient le reste de la coma sur d'autres intervalles. Cela donnait une "couleur" unique et une tension propre à chaque tonalité.   
+
+- 3- L'accord de piano Serge Cordier (quintes pures, octave plus grandes progressivement)
+Les quintes deviennent pratiquement pures, tandis que les octaves sont légèrement élargies.
+
+> Par exemple, en partant de La₄ = 440 Hz :
+> - La♯ ≈ 440 × r = 466,24 Hz
+> - Si ≈ 440 × r² = 494,05 Hz
+> - Do ≈ 440 × r³ = 523,52 Hz
+> - et ainsi de suite.
+
+<small>(La « courbe de Cordier » est généralement représentée en écarts (en cents) par rapport au tempérament égal. Ces écarts augmentent progressivement lorsqu'on s'éloigne de la note de référence, ce qui donne une courbe caractéristique.)</small>
 
 ---
+
+[livre de Serge Cordier, le piano bien tempéré](serge-cordier-piano-bien-tempere.pdf)
 
 

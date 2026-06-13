@@ -85,3 +85,5 @@ Definimos el sonido por:
 * La duración corresponde al tiempo durante el cual se emite el sonido.
 
 
+[Más información - anexos sobre la inarmonicidad](../annexes/inharmonicite.md)
+
