@@ -48,7 +48,7 @@ Mejor prevenir que curar.
 
 * El piano suele desafinarse con cada cambio de estación debido a las variaciones de temperatura y humedad. Como hemos visto, un piano dispone de unas 220 cuerdas, cada una sometida a una tensión media cercana a los 70 kg. Esto representa una tensión total de aproximadamente 15 toneladas en un piano vertical y puede alcanzar las 20 toneladas en algunos pianos de cola.
 
-* La estructura acústica (que no debe confundirse con el bastidor) está fabricada principalmente con madera: generalmente abeto para la tabla armónica y haya para el teclado. Son materiales especialmente sensibles a las variaciones climáticas.
+* La estructura acústica (que no debe confundirse con el bastidor) está fabricada principalmente con madera: generalmente abeto para la tabla armónica y haya para el clavijro. Son materiales especialmente sensibles a las variaciones climáticas.
 
 *
 
