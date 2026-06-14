@@ -24,60 +24,8 @@ Se trata de una restricción geométrica de las frecuencias que condujo al desar
 
 ---
 
-```mermaid
-gantt
-    title Coma pitagórica: (3/2)^12 > 2^7 (Escala en cents)
-    dateFormat  YYYY-MM-DD
-    axisFormat  %j
-    tickInterval 1day
+![coma](py-coma.jpg)
 
-    section Referencia
-    7 octavas puras (8400 cents)             :active, o, 2026-01-01, 8400d
-
-    section Ciclo de quintas
-    12 quintas puras (8423.46 cents)         :active, q, 2026-01-01, 8423d
-
-    section Diferencia
-    Coma pitagórica (~23.46 cents)           :crit, c, after o, 23d
-```
-
----
-
-```mermaid
-gantt
-    title Descomposición de la coma pitagórica (Escala de precisión x100)
-    dateFormat YYYY-MM-DD
-    axisFormat %j
-    tickInterval 1day
-
-    section 12 Quintas Puras
-    Quinta 1  :q1, 2026-01-01, 702d
-    Quinta 2  :q2, after q1, 702d
-    Quinta 3  :q3, after q2, 702d
-    Quinta 4  :q4, after q3, 702d
-    Quinta 5  :q5, after q4, 702d
-    Quinta 6  :q6, after q5, 702d
-    Quinta 7  :q7, after q6, 702d
-    Quinta 8  :q8, after q7, 702d
-    Quinta 9  :q9, after q8, 702d
-    Quinta 10 :q10, after q9, 702d
-    Quinta 11 :q11, after q10, 702d
-    Quinta 12 :q12, after q11, 702d
-
-    section 7 Octavas Puras
-    Octava 1 :o1, 2026-01-01, 1200d
-    Octava 2 :o2, after o1, 1200d
-    Octava 3 :o3, after o2, 1200d
-    Octava 4 :o4, after o3, 1200d
-    Octava 5 :o5, after o4, 1200d
-    Octava 6 :o6, after o5, 1200d
-    Octava 7 :o7, after o6, 1200d
-
-    section Diferencia
-    Coma pitagórica (~23.46 cents) :crit, after o7, 24d
-```
-
----
 
 Si un afinador afinara un piano ascendiendo de quinta pura en quinta pura (Do, Sol, Re, La, Mi, Si, Fa♯, Do♯, Sol♯, Re♯, La♯, Fa, Do), el último Do sería claramente más agudo que el Do obtenido al subir 7 octavas.
 

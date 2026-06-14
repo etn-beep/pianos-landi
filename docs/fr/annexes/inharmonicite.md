@@ -24,54 +24,8 @@ Cela signifie qu'il est impossible de construire un clavier avec :
 
 C'est une contrainte géométrique des fréquences qui a conduit aux différents tempéraments, notamment le tempérament égal utilisé aujourd'hui.
 
----
-```mermaid
-gantt
-    title Comma de Pythagore
-    dateFormat YYYY-MM-DD
 
-    section Référence
-    7 octaves pures :o, 2026-01-01, 8400d
-
-    section Cycle des quintes
-    12 quintes pures :q, 2026-01-01, 8423d
-```
-
----
-
-```mermaid
-gantt
-    title Décomposition du Comma de Pythagore (Échelle de précision x100)
-    dateFormat YYYY-MM-DD
-    axisFormat %j
-    tickInterval 1day
-
-    section 12 Quintes Pures
-    Quinte 1  :q1, 2026-01-01, 702d
-    Quinte 2  :q2, after q1, 702d
-    Quinte 3  :q3, after q2, 702d
-    Quinte 4  :q4, after q3, 702d
-    Quinte 5  :q5, after q4, 702d
-    Quinte 6  :q6, after q5, 702d
-    Quinte 7  :q7, after q6, 702d
-    Quinte 8  :q8, after q7, 702d
-    Quinte 9  :q9, after q8, 702d
-    Quinte 10 :q10, after q9, 702d
-    Quinte 11 :q11, after q10, 702d
-    Quinte 12 :q12, after q11, 702d
-
-    section 7 Octaves Pures
-    Octave 1 :o1, 2026-01-01, 1200d
-    Octave 2 :o2, after o1, 1200d
-    Octave 3 :o3, after o2, 1200d
-    Octave 4 :o4, after o3, 1200d
-    Octave 5 :o5, after o4, 1200d
-    Octave 6 :o6, after o5, 1200d
-    Octave 7 :o7, after o6, 1200d
-
-    section Écart
-    Comma de Pythagore (~23.46 cents) :crit, after o7, 24d
-```
+![coma](py-coma.jpg)
 
 ---
 
