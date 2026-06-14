@@ -50,8 +50,8 @@ nav:
       - Silent: es/silent/index.md
       - Dampp-Chaser: es/dampp-chaser/index.md
 
-repo_url: "https://github.com/etn-beep/pianos-landi"
-repo_name: "etn-beep/pianos-landi"
+# repo_url: "https://github.com/etn-beep/pianos-landi"
+# repo_name: "etn-beep/pianos-landi"
 
 extra:
   alternate:
