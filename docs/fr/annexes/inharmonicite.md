@@ -25,23 +25,16 @@ Cela signifie qu'il est impossible de construire un clavier avec :
 C'est une contrainte géométrique des fréquences qui a conduit aux différents tempéraments, notamment le tempérament égal utilisé aujourd'hui.
 
 ---
-
 ```mermaid
 gantt
-    title Comma de Pythagore : (3/2)^12 > 2^7 (Échelle en Cents)
-    dateFormat  YYYY-MM-DD
-    axisFormat  %j
-    tickInterval 1day
+    title Comma de Pythagore
+    dateFormat YYYY-MM-DD
 
     section Référence
-    7 octaves pures (8400 cents)             :active, o, 2026-01-01, 8400d
+    7 octaves pures :o, 2026-01-01, 8400d
 
     section Cycle des quintes
-    12 quintes pures (8423.46 cents)         :active, q, 2026-01-01, 8423d
-
-    section Écart
-    Comma de Pythagore (~23.46 cents)        :crit, c, after o, 23d
-
+    12 quintes pures :q, 2026-01-01, 8423d
 ```
 
 ---
