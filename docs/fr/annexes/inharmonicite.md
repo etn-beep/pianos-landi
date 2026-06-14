@@ -15,7 +15,7 @@ Le comma de Pythagore est un problème purement mathématique lié aux intervall
 
 Si l'on construit une gamme en empilant 12 quintes pures de rapport : on n'obtient pas exactement 7 octaves. L'écart est le comma de Pythagore, d'environ 23,46 cents.
 
-Cela signifie qu'il est impossible de construire un clavier avec :
+Cela signifie qu'il est impossible d'accorder tout le clavier avec :
 
 -   toutes les quintes parfaitement justes,
     
@@ -49,7 +49,7 @@ L'effet à l'oreille: C'est l'intervalle le plus fusionnel qui existe. Pour l'or
 2. Le rapport 3:2 (La Quinte)
 Le rapport 3:2 (ou 1,5) signifie que pour trois vibrations de la note la plus haute, la note la plus basse n'en produit que deux. La note aiguë vibre 1,5 fois plus vite que la note grave.
 
-> Exemple: Enpartant d'un Do qui vibre à 200 Hz, la quinte supérieure (Sol) vibrera à 300 Hz (200×32).
+> Exemple: En partant d'un Do qui vibre à 200 Hz, la quinte supérieure (Sol) vibrera à 300 Hz (200×3/2).
 L'effet à l'oreille : C'est l'intervalle le plus stable et le plus consonant après l'octave. C'est la base de la construction de la majorité des échelles musicales à travers le monde (le cycle des quintes).
 
 ---

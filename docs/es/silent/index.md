@@ -19,7 +19,7 @@ description: "Cómo un piano acústico puede convertirse en electrónico. Toca u
 
 ## Funcionamiento
 
-* Unos sensores instalados bajo el teclado transforman cada nota pulsada en una señal MIDI que se transmite a un procesador equipado con una tarjeta de sonido. El sistema no modifica en absoluto la sensación de toque de un piano acústico tradicional.
+* Unos sensores instalados bajo el teclado transforman cada nota pulsada en una señal MIDI que se transmite a un procesador equipado con una tarjeta de sonido. El sistema no modifica en absoluto la sensación de tacto de un piano acústico tradicional.
 
 * Una barra de parada bloquea los martillos en posición "silencio" antes de que golpeen las cuerdas. De este modo desaparece el sonido acústico y el sistema MIDI toma el relevo. Una discreta palanca situada bajo el teclado o el pedal central permiten cambiar de un modo a otro, o incluso utilizar ambos simultáneamente.
 
@@ -39,7 +39,7 @@ description: "Cómo un piano acústico puede convertirse en electrónico. Toca u
 
 #### La evolución del sistema Silent
 
-* Unos transductores hacen vibrar la tabla armónica (tabla de resonencia) de abeto del piano para difundir los sonidos digitales a través de la propia madera, sin necesidad de altavoces convencionales. En este caso, la tabla armónica actúa como altavoz. El resultado es una proyección sonora mucho más natural, envolvente y tridimensional que la de un piano digital tradicional.
+* Unos transductores hacen vibrar la tabla armónica (tabla de resonencia) de abeto del piano para transmitir los sonidos digitales a través de la propia madera, sin necesidad de altavoces convencionales. En este caso, la tabla armónica actúa como altavoz. El resultado es una proyección sonora mucho más natural, envolvente y tridimensional que la de un piano digital tradicional.
 
   Además, es posible combinar el sonido acústico del piano con sonidos digitales (cuerdas, órganos, pads, etc.).
 
@@ -89,7 +89,7 @@ description: "Cómo un piano acústico puede convertirse en electrónico. Toca u
 
 ---
 
-> Para un uso principalmente pianístico, clásico y cotidiano, muchos pianistas experimentados prefieren un Kawai K-300 Aures 2 frente a un Yamaha U1 TransAcoustic de categoría equivalente gracias a la mecánica Millennium III y a la riqueza de su toque. En los modelos más altos de gama (YUS o serie CX), la diferencia suele depender sobre todo de las preferencias personales.
+> Para un uso principalmente pianístico, clásico y cotidiano, muchos pianistas experimentados prefieren un Kawai K-300 Aures 2 frente a un Yamaha U1 TransAcoustic de categoría equivalente gracias a la mecánica Millennium III y a la riqueza de su tacto. En los modelos más altos de gama (YUS o serie CX), la diferencia suele depender sobre todo de las preferencias personales.
 
 ---
 
