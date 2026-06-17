@@ -1,7 +1,6 @@
 ---
-
 title:"yamaha et kawai, que choisir"
-description:"les plus grandes marques des pianos japonais, Yamaha et Kawai, histoire, différences, technologies, le son des Yamaha et le son des Kawai, les différences de mécanismes, les best seller, le rapport qualite-prix, comment choisir."
+description:"les plus grandes marques des pianos japonais,Yamaha et Kawai, histoire, différences, technologies, le son des Yamaha et le son des Kawai, les différences de mécanismes, les best seller, le rapport qualite-prix, comment choisir"
 
 ---
 
@@ -53,21 +52,19 @@ description:"les plus grandes marques des pianos japonais, Yamaha et Kawai, hist
 * Yamaha automatise sa production pour proposer des pianos d'une régularité absolue à des prix compétitifs (l'excellente Série U1 et U3).
 * La marque se diversifie massivement (motos, audio, électronique) et crée des écoles de musique dans le monde entier pour former de futurs pianistes.
 
-### Kawai : La quête du piano parfait (L'ère[^Shigeru])
-
-[^Shigeru]: L’usine Kawai de Ryuyo: "La parfaite harmonie entre artisanat et technologie" Inaugurée en 1980 par Shigeru Kawai (le fils du fondateur) pour un coût colossal à l'époque de 50 millions de dollars, l'usine de Ryuyo (située près de Hamamatsu) est considérée par les experts comme l'une des usines de pianos les plus avancées au monde. Une architecture bioclimatique unique, Shigeru Kawai a conçu cette usine au milieu d'un grand bois avec des milliers d'arbres. Ce choix n'est pas qu'esthétique, la forêt environnante sert de régulateur naturel d'humidité et de température, des facteurs critiques pour stabiliser les bois précieux utilisés pour les tables d'harmonie. La cohabitation des robots et des maîtres artisans à Ryuyo a completement  changé le monde de la facture instrumentale en intégrant la robotique de pointe pour les tâches répétitives et purement physiques (comme la découpe des structures de barrages, tables, position des cadres en fonte) aliant precision et mains de maitres. Toutes les étapes cruciales (le choix des bois, le feutrage des marteaux, l'ajustement du clavier et l'harmonisation finale) sont confiées exclusivement à l'élite des artisans, les MPA (Master Piano Artisans). Laboratoire acoustiques et chambres sourdes (anéchoïques) pour analyser la pureté absolue des fréquences et salle de récital intégrée. C'est ici qu'ont été développées la mécanique Millennium III en carbone et la prestigieuse gamme Shigeru Kawai.
+### Kawai : La quête du piano parfait: L'ère Shigeru [^1]
+[^1]: L’usine Kawai de Ryuyo: "La parfaite harmonie entre artisanat et technologie" Inaugurée en 1980 par Shigeru Kawai (le fils du fondateur) pour un coût colossal à l'époque de 50 millions de dollars, l'usine de Ryuyo (située près de Hamamatsu) est considérée par les experts comme l'une des usines de pianos les plus avancées au monde. Une architecture bioclimatique unique, Shigeru Kawai a conçu cette usine au milieu d'un grand bois avec des milliers d'arbres. Ce choix n'est pas qu'esthétique, la forêt environnante sert de régulateur naturel d'humidité et de température, des facteurs critiques pour stabiliser les bois précieux utilisés pour les tables d'harmonie. La cohabitation des robots et des maîtres artisans à Ryuyo a completement  changé le monde de la facture instrumentale en intégrant la robotique de pointe pour les tâches répétitives et purement physiques (comme la découpe des structures de barrages, tables, position des cadres en fonte) aliant precision et mains de maitres. Toutes les étapes cruciales (le choix des bois, le feutrage des marteaux, l'ajustement du clavier et l'harmonisation finale) sont confiées exclusivement à l'élite des artisans, les MPA (Master Piano Artisans). Laboratoire acoustiques et chambres sourdes (anéchoïques) pour analyser la pureté absolue des fréquences et salle de récital intégrée. C'est ici qu'ont été développées la mécanique Millennium III en carbone et la prestigieuse gamme Shigeru Kawai.
 
 * **Shigeru Kawai** (fils du fondateur) prend la tête de l'entreprise.
-* **1980 :** Il inaugure l'usine mythique de **Ryuyo**[^Shigeru], un centre d'excellence mêlant robotique de pointe et très haut artisanat.
+* **1980 :** Il inaugure l'usine mythique de **Ryuyo** [^1], un centre d'excellence mêlant robotique de pointe et très haut artisanat.
 * Kawai prend un risque historique en remplaçant le bois utilisé dans les mécaniques de pianos par du **carbone ABS**, créant la mécanique ultra-stable *Millennium III*.
 
 ---
 
 ## Le XXIe Siècle (2000 - Présent) : La guerre du Prestige
 
-### 2010 : Le tremblement de terre du Yamaha[^CFX]
-
-[^CFX]:Le Yamaha CFX est un piano de concert de 275 cm. Sorti pour la première fois en 2010, il est le résultat d'un projet secret qui a duré près de 20 ans. 19 ans de recherche et 100 prototypes : Pour remplacer l'ancien modèle de concert, Yamaha a mobilisé une équipe immense d'ingénieurs, d'ingenieurs en acoustique et de facteurs de pianos. Ils ont fabriqué 100 prototypes successifs, qu'ils ont fait tester en secret par les plus grands pianistes du monde dans les salles de concert européennes et américaines pour affiner le timbre. Le séisme de 2010: Dès sa sortie officielle en octobre 2010, le CFX entre dans l'histoire. La pianiste russe Yulianna Avdeeva remporte le Concours International Chopin à Varsovie en jouant sur le CFX. C’était la toute première fois qu'un pianiste gagnait ce concours ultra-conservateur sur un piano de fabrication japonaise, brisant le monopole historique de Steinway & Sons. Après 12 années supplémentaires de recherche, Yamaha a lancé une toute nouvelle génération du CFX. Cette version intègre la philosophie du "Unibody Concept", le cadre, le bois et la table d'harmonie sont fusionnés via des méthodes d'assemblage thermique pour qu'aucune perte d'énergie ne se produise entre l'impact du doigt sur la touche et la vibration de l'air dans la salle.
+### 2010 : Le tremblement de terre du Yamaha CFX [^2]
+[^2]:Le Yamaha CFX est un piano de concert de 275 cm. Sorti pour la première fois en 2010, il est le résultat d'un projet secret qui a duré près de 20 ans. 19 ans de recherche et 100 prototypes : Pour remplacer l'ancien modèle de concert, Yamaha a mobilisé une équipe immense d'ingénieurs, d'ingenieurs en acoustique et de facteurs de pianos. Ils ont fabriqué 100 prototypes successifs, qu'ils ont fait tester en secret par les plus grands pianistes du monde dans les salles de concert européennes et américaines pour affiner le timbre. Le séisme de 2010: Dès sa sortie officielle en octobre 2010, le CFX entre dans l'histoire. La pianiste russe Yulianna Avdeeva remporte le Concours International Chopin à Varsovie en jouant sur le CFX. C’était la toute première fois qu'un pianiste gagnait ce concours ultra-conservateur sur un piano de fabrication japonaise, brisant le monopole historique de Steinway & Sons. Après 12 années supplémentaires de recherche, Yamaha a lancé une toute nouvelle génération du CFX. Cette version intègre la philosophie du "Unibody Concept", le cadre, le bois et la table d'harmonie sont fusionnés via des méthodes d'assemblage thermique pour qu'aucune perte d'énergie ne se produise entre l'impact du doigt sur la touche et la vibration de l'air dans la salle.
 Le traitement du bois (A.R.E.) : Le bois de la ceinture du CFX subit une torréfaction moléculaire exclusive qui modifie la structure cellulaire du bois pour lui donner les propriétés acoustiques d'un bois qui a déjà vibré pendant 50 ans
 
 * Yamaha sort son nouveau piano de concert de 275 cm, le **CFX**, après 19 ans de recherche.
@@ -145,7 +142,7 @@ C'est la différence la plus technique et la plus célèbre entre les deux marqu
 
 
 
-| Gamme / Modèle | Pays de fabrication | Longueur (cm) | Prix indicatif moyen (€ TTC) | Particularité technique |
+| Gamme / Modèle | Pays de fabrication | Longueur (cm) | Prix indicatif moyen Bas (€ TTC) | Particularité technique |
 | :--- | :---: | :---: | :---: | :--- |
 | **Kawai GL-10** | Indonésie | 153 cm | 12 950 € | Idéal petits espaces, mécanique Millennium III. |
 | **Kawai GL-20** | Indonésie | 157 cm | 15 500 € | Version légèrement allongée du GL-10. |
@@ -165,7 +162,7 @@ C'est la différence la plus technique et la plus célèbre entre les deux marqu
 
 
 
-| Gamme / Modèle | Pays de fabrication | Longueur (cm) | Prix indicatif moyen (€ TTC) | Particularité technique |
+| Gamme / Modèle | Pays de fabrication | Longueur (cm) | Prix indicatif moyen bas (€ TTC) | Particularité technique |
 | :--- | :---: | :---: | :---: | :--- |
 | **Yamaha GB1K** | Indonésie | 151 cm | 13 190 € | Modèle compact d'entrée de gamme, très populaire. |
 | **Yamaha GC1** | Japon (Hamamatsu) | 161 cm | 19 290 € | Échelle duplex, table en épicéa massif, son brillant. |
