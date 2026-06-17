@@ -31,24 +31,26 @@ markdown_extensions:
 
 nav:
   - Français:
-      - Accueil: fr/index.md
-      - Histoire: fr/histoire/index.md
-      - Accordage: fr/accordage/index.md
-      - Fonctionnement: fr/fonctionnement/index.md
-      - Acoustique: fr/acoustique/index.md
-      - Conseils: fr/conseils/index.md
-      - Silent: fr/silent/index.md
-      - Dampp-Chaser: fr/dampp-chaser/index.md
+    - Accueil: fr/index.md
+    - Histoire: fr/histoire/index.md
+    - Accordage: fr/accordage/index.md
+    - Fonctionnement: fr/fonctionnement/index.md
+    - Acoustique: fr/acoustique/index.md
+    - Conseils: fr/conseils/index.md
+    - Pianos Japonais: fr/pianos-japonais/index.md
+    - Silent: fr/silent/index.md
+    - Dampp-Chaser: fr/dampp-chaser/index.md
 
   - Español:
-      - Inicio: es/index.md
-      - Historia: es/historia/index.md
-      - Afinación: es/afinacion/index.md
-      - Funcionamiento: es/funcionamiento/index.md
-      - Acústica: es/acustica/index.md
-      - Consejos: es/consejos/index.md
-      - Silent: es/silent/index.md
-      - Dampp-Chaser: es/dampp-chaser/index.md
+    - Inicio: es/index.md
+    - Historia: es/historia/index.md
+    - Afinación: es/afinacion/index.md
+    - Funcionamiento: es/funcionamiento/index.md
+    - Acústica: es/acustica/index.md
+    - Consejos: es/consejos/index.md
+    - Pianos Japoneses: es/pianos-japoneses/index.md
+    - Silent: es/silent/index.md
+    - Dampp-Chaser: es/dampp-chaser/index.md
 
 # repo_url: "https://github.com/etn-beep/pianos-landi"
 # repo_name: "etn-beep/pianos-landi"
