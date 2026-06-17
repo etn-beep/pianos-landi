@@ -1,7 +1,10 @@
 ---
-title:"Les pianos japonais, histoire, technologie, résumé"   
+
 description:"les plus grandes marques des pianos japonais, Yamaha et Kawai, histoire, différences, technologies, le son des Yamaha et le son des Kawai, les différences de mécanismes, les best seller, le rapport qualite-prix, comment choisir."
+
 ---
+
+
 
 # les Pianos Japonais
 > #### Puisque la référence des pianos dans le monde professionnel et les écoles de musique sont les pianos japonais, nous allons parler des pianos   
