@@ -1,6 +1,6 @@
 ---
-title:"yamaha et kawai, que choisir"
-description:"les plus grandes marques des pianos japonais,Yamaha et Kawai, histoire, différences, technologies, le son des Yamaha et le son des Kawai, les différences de mécanismes, les best seller, le rapport qualite-prix, comment choisir"
+title:"yamaha et kawai, que choisir
+description:les plus grandes marques des pianos japonais,Yamaha et Kawai, histoire, différences, technologies, le son des Yamaha et le son des Kawai, les différences de mécanismes, les best seller, le rapport qualite-prix, comment choisir"
 
 ---
 
