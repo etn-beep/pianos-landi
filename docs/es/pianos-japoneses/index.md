@@ -107,7 +107,12 @@ Es la diferencia más técnica y más conocida entre ambas marcas.
 
   * Tecnología: Kawai sustituyó las piezas clave de madera por carbono ABS (un compuesto de resina y fibra de carbono).
   * Tacto: A menudo se percibe como más firme, profundo y con mayor textura bajo los dedos, con un recorrido de tecla ligeramente más largo que da la sensación de tocar un piano de mayor tamaño.
-  * Ventajas del carbono: Las piezas de carbono son más ligeras y rígidas que las de madera. La mecánica es más rápida (repetición de notas) y, sobre todo, insensible a las variaciones climáticas. Un piano Kawai cambia muy poco con el paso del tiempo y requiere menos ajustes y reparaciones.
+  * Ventajas del carbono: Las piezas de carbono son más ligeras y rígidas que las de madera. La mecánica es más rápida (repetición de notas) y, sobre todo, insensible a las variaciones climáticas. Un piano Kawai cambia muy poco con el paso del tiempo y requiere menos ajustes y reparaciones.  
+  
+  * * Sin olvidar que la ligereza del mecanismo de carbono ha permitido alargar las teclas en 2,5 cm, lo que modifica radicalmente el comportamiento mecánico del piano. Esto proporciona un control perfecto de los matices suaves (pianissimo). Las teclas más cortas carecen de progresividad, al tocar muy suavemente existe el riesgo de que la nota ni siquiera llegue a sonar (el llamado «punto muerto»). El resultado es que el control del movimiento del martillo es ahora extremadamente preciso, se puede dosificar la velocidad de hundimiento de la tecla con precisión milimétrica, facilitando la interpretación expresiva y los matices más delicados.
+
+  * * Desde el inicio de la evolución del piano, los constructores han intentado aumentar al máximo la longitud de las teclas sin que ello supusiera un inconveniente. La mecánica Millennium III ha permitido ampliar todavía más esos límites. El fabricante de pianos Paolo Fazioli, ingeniero y pianista, ha apostado desde el comienzo de la fabricación de sus extraordinarios instrumentos por alargar al máximo las teclas de sus pianos. Actualmente, el piano más grande del mundo, el Fazioli de 3,08 metros, posee las teclas más largas que existen.
+
 
 ## 2- El sonido: Dos estéticas musicales opuestas
 
@@ -139,49 +144,51 @@ Es la diferencia más técnica y más conocida entre ambas marcas.
 ### Modelos y precios aproximados de los pianos de cola:
 
 ---
-
 # Kawai
 
-| Gama / Modelo          |   País de fabricación  | Longitud (cm) | Precio medio Bajos orientativo (€ IVA incl.) | Particularidad técnica                                   |
+| Gama / Modelo          |   País de fabricación  | Longitud (cm) | Precio medio orientativo (€ IVA incl.) | Particularidad técnica                                   |
 | :--------------------- | :--------------------: | :-----------: | :------------------------------------: | :------------------------------------------------------- |
-| **Kawai GL-10**        |        Indonesia       |     153 cm    |                12.950 €                | Ideal para espacios pequeños, mecánica Millennium III.   |
-| **Kawai GL-20**        |        Indonesia       |     157 cm    |                15.500 €                | Versión ligeramente más larga del GL-10.                 |
-| **Kawai GL-30**        |    Japón (Hamamatsu)   |     166 cm    |                18.300 €                | Inicio de la fabricación japonesa, escala dúplex.        |
-| **Kawai GL-40**        |    Japón (Hamamatsu)   |     180 cm    |                18.550 €                | Formato clásico de cuarto de cola muy equilibrado.       |
-| **Kawai GL-50**        |    Japón (Hamamatsu)   |     188 cm    |                26.950 €                | Diseñado para estudios y conservatorios.                 |
+| **Kawai GL-10**        |        Indonesia       |     153 cm    |                14.200 €                | Ideal para espacios pequeños, mecánica Millennium III.   |
+| **Kawai GL-20**        |        Indonesia       |     157 cm    |                17.000 €                | Versión ligeramente más larga del GL-10.                 |
+| **Kawai GL-30**        |    Japón (Hamamatsu)   |     166 cm    |                20.100 €                | Inicio de la fabricación japonesa, escala dúplex.        |
+| **Kawai GL-40**        |    Japón (Hamamatsu)   |     180 cm    |                20.400 €                | Formato clásico de cuarto de cola muy equilibrado.       |
+| **Kawai GL-50**        |    Japón (Hamamatsu)   |     188 cm    |                29.600 €                | Diseñado para estudios y conservatorios.                 |
 |                        |                        |               |                                        |                                                          |
-| **Shigeru Kawai SK-2** | Japón (Taller Premium) |     180 cm    |                39.800 €                | Totalmente hecho a mano, madera secada de forma natural. |
-| **Shigeru Kawai SK-3** | Japón (Taller Premium) |     188 cm    |                48.500 €                | La elección preferida de pianistas exigentes.            |
-| **Shigeru Kawai SK-5** | Japón (Taller Premium) |     200 cm    |                58.000 €                | Piano de cámara con dinámica sonora excepcional.         |
-| **Shigeru Kawai SK-6** | Japón (Taller Premium) |     214 cm    |                66.350 €                | Medio cola de orquesta con gran proyección.              |
-| **Shigeru Kawai SK-7** | Japón (Taller Premium) |     229 cm    |                74.600 €                | Piano de tres cuartos de cola para conciertos.           |
+| **Shigeru Kawai SK-2** | Japón (Taller Premium) |     180 cm    |                43.700 €                | Totalmente hecho a mano, madera secada de forma natural. |
+| **Shigeru Kawai SK-3** | Japón (Taller Premium) |     188 cm    |                53.300 €                | La elección preferida de pianistas exigentes.            |
+| **Shigeru Kawai SK-5** | Japón (Taller Premium) |     200 cm    |                63.800 €                | Piano de cámara con dinámica sonora excepcional.         |
+| **Shigeru Kawai SK-6** | Japón (Taller Premium) |     214 cm    |                72.900 €                | Medio cola de orquesta con gran proyección.              |
+| **Shigeru Kawai SK-7** | Japón (Taller Premium) |     229 cm    |                82.000 €                | Piano de tres cuartos de cola para conciertos.           |
 
 ---
 
 # Yamaha
 
-| Gama / Modelo   |     País de fabricación     | Longitud (cm) | Precio medio bajos orientativo (€ IVA incl.) | Particularidad técnica                                           |
+| Gama / Modelo   |     País de fabricación     | Longitud (cm) | Precio medio orientativo (€ IVA incl.) | Particularidad técnica                                           |
 | :-------------- | :-------------------------: | :-----------: | :------------------------------------: | :--------------------------------------------------------------- |
-| **Yamaha GB1K** |          Indonesia          |     151 cm    |                13.190 €                | Modelo compacto de entrada, muy popular.                         |
-| **Yamaha GC1**  |      Japón (Hamamatsu)      |     161 cm    |                19.290 €                | Escala dúplex, tabla armónica de abeto macizo, sonido brillante. |
-| **Yamaha GC2**  |      Japón (Hamamatsu)      |     173 cm    |                22.500 €                | Versión alargada del GC1, mejores graves.                        |
+| **Yamaha GB1K** |          Indonesia          |     151 cm    |                14.500 €                | Modelo compacto de entrada, muy popular.                         |
+| **Yamaha GC1**  |      Japón (Hamamatsu)      |     161 cm    |                21.200 €                | Escala dúplex, tabla armónica de abeto macizo, sonido brillante. |
+| **Yamaha GC2**  |      Japón (Hamamatsu)      |     173 cm    |                24.700 €                | Versión alargada del GC1, mejores graves.                        |
 |                 |                             |               |                                        |                                                                  |
-| **Yamaha C1X**  |      Japón (Hamamatsu)      |     161 cm    |                24.290 €                | Serie CX, martillos con fieltro europeo y revestimiento Ivorite. |
-| **Yamaha C2X**  |      Japón (Hamamatsu)      |     173 cm    |                26.990 €                | Estructura reforzada, mayor dinámica y proyección.               |
-| **Yamaha C3X**  |      Japón (Hamamatsu)      |     186 cm    |                32.490 €                | La referencia mundial para estudios y conservatorios.            |
-| **Yamaha C5X**  |      Japón (Hamamatsu)      |     200 cm    |                41.500 €                | Ideal para grandes salones o pequeñas salas de conciertos.       |
+| **Yamaha C1X**  |      Japón (Hamamatsu)      |     161 cm    |                26.700 €                | Serie CX, martillos con fieltro europeo y revestimiento Ivorite. |
+| **Yamaha C2X**  |      Japón (Hamamatsu)      |     173 cm    |                29.600 €                | Estructura reforzada, mayor dinámica y proyección.               |
+| **Yamaha C3X**  |      Japón (Hamamatsu)      |     186 cm    |                35.700 €                | La referencia mundial para estudios y conservatorios.            |
+| **Yamaha C5X**  |      Japón (Hamamatsu)      |     200 cm    |                45.600 €                | Ideal para grandes salones o pequeñas salas de conciertos.       |
 |                 |                             |               |                                        |                                                                  |
-| **Yamaha S3X**  | Japón (Taller de Concierto) |     186 cm    |                55.900 €                | Serie Premium SX, madera tratada mediante torrefacción (A.R.E.). |
-| **Yamaha S5X**  | Japón (Taller de Concierto) |     200 cm    |                64.200 €                | Fabricación artesanal, timbre cálido y amaderado.                |
+| **Yamaha S3X**  | Japón (Taller de Concierto) |     186 cm    |                61.400 €                | Serie Premium SX, madera tratada mediante torrefacción (A.R.E.). |
+| **Yamaha S5X**  | Japón (Taller de Concierto) |     200 cm    |                70.600 €                | Fabricación artesanal, timbre cálido y amaderado.                |
 |                 |                             |               |                                        |                                                                  |
-| **Yamaha CFX**  | Japón (Taller de Concierto) |     275 cm    |                151.800 €               | Piano de concierto de prestigio mundial, hecho a mano.           |
+| **Yamaha CFX**  | Japón (Taller de Concierto) |     275 cm    |                166.900 €               | Piano de concierto de prestigio mundial, hecho a mano.           |
 
 ---
 
-<small>***Mi opinión personal: la mejor relación CALIDAD-PRECIO***
----> **KAWAI GL-40**
+** *Nota legal: Precios indicativos no contractuales. Las tarifas reales pueden variar sustancialmente según el país, las normativas fiscales locales y las políticas comerciales de los distribuidores. El editor declina toda responsabilidad respecto a la exactitud en tiempo real de esta información aproximada.*
 
-Un sonido potente y rico, una mecánica de gran precisión... por unos 18.000 euros, es difícil encontrar algo mejor.</small>
+---
+
+
+ <small>** Mi opinión personal: La mejor relación CALIDAD-PRECIO en los 180 cm (una longitud muy versátil)---> **KAWAI GL-40**
+Un sonido potente y rico, una mecánica de gran precisión... por unos 20.000 euros, es difícil encontrar algo mejor.</small>
 
 ---
 
