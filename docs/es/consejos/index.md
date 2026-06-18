@@ -9,11 +9,11 @@ description: "Consejos para el mantenimiento del piano: control de humedad, afin
 
 **Es fundamental mantener una humedad y una temperatura estable para evitar problemas en la estructura y mecanismo del piano...**
 
-### AFINACIÓN
+# AFINACIÓN
 
 * Es indispensable afinar cualquier piano a intervalos regulares y, cuando sea necesario, realizar también su regulación mecánica. Dependiendo del número de horas diarias de uso, de las fluctuaciones de temperatura y del grado de humedad ambiental, la afinación debería realizarse entre 2 y 4 veces al año. Un piano posee aproximadamente 220 cuerdas, lo que representa una tensión total de varias toneladas sobre toda la estructura acústica. Por ello, se recomienda encarecidamente afinar el piano al menos una vez al año (incluso si no se toca), con el fin de mantener una tensión constante y equilibrada en las cuerdas.
 
-### SEQUEDAD Y HUMEDAD
+# SEQUEDAD Y HUMEDAD
 
 * Colocar un piano en un ambiente demasiado seco puede dañarlo. La sequedad excesiva puede provocar desafinación, desajustes mecánicos y deterioro de la tabla armónica. Por el contrario, una atmósfera demasiado húmeda puede causar la oxidación de las partes metálicas, de los pasadores de las teclas y de los ejes de giro de la mecánica. Los fieltros de los martillos y apagadores también pierden sus cualidades cuando están expuestos a importantes variaciones de humedad.
 
@@ -25,9 +25,9 @@ description: "Consejos para el mantenimiento del piano: control de humedad, afin
 
 ---
 
-## Cómo elegir un piano
+# Cómo elegir un piano
 
-### 1 - Piano de ocasión
+## 1 - Piano de ocasión
 
 * Siempre es preferible acudir a un profesional :-) Si no es posible, vaya acompañado de una persona con buenos conocimientos de piano (por ejemplo, su profesor de música). Lo ideal sigue siendo contar con la opinión de un técnico especializado, especialmente cuando se trata de pianos antiguos.
 
@@ -49,11 +49,11 @@ description: "Consejos para el mantenimiento del piano: control de humedad, afin
 
 * <small>*(Consejo: es mejor pagar el desplazamiento de un técnico para que examine el piano antes de comprarlo, que terminar con un instrumento inutilizable.)*</small>
 
-### 2 - Piano nuevo
+## 2 - Piano nuevo
 
 * Podemos distinguir cuatro categorías principales de pianos: los modelos económicos, los pianos de fabricación tradicional, los de alta gama y los pianos de prestigio.
 
-#### Los modelos económicos
+### Los modelos económicos
 
 
 * Pianos chinos: Schaefer, Grand, Steck, Ritmuller...
@@ -72,25 +72,33 @@ description: "Consejos para el mantenimiento del piano: control de humedad, afin
 
 * Los fabricantes chinos han realizado enormes progresos en los últimos años, aunque la calidad sigue variando según la fábrica y la marca.
 
-#### Fabricación tradicional
+### Fabricación tradicional
 
 
 * Pianos alemanes: Herrmann, Europa, Rönisch, Hupfeld, Steinberg, Zimmermann (bajo licencia Bechstein).
 * Pianos checos: Petrof.
 * Pianos japoneses: Kawai, Yamaha, Boston (diseñados por Steinway y fabricados por Kawai).
 
-#### Alta gama
+### Alta gama
 
 
 * Pianos alemanes: Schimmel, Förster, Seiler, Sauter, Hoffmann, Grotrian-Steinweg, Blüthner, Pfeiffer.
 * Pianos franceses: Pleyel.
 * Pianos japoneses: las gamas superiores de Yamaha y Kawai (fabricación japonesa).
 
-#### Pianos de prestigio
+### Pianos de prestigio
 
 
-* El italiano Fazioli (exclusivamente pianos de cola), el alemán Bechstein, el austríaco Bösendorfer, el estadounidense Steinway y, por supuesto, la magnífica gama Shigeru Kawai, fabricada artesanalmente por la manufactura Kawai en los talleres de Ryuyo, en Hamamatsu, Japón.
+* Fazioli (exclusivamente pianos de cola)
+* Bechstein
+* Bösendorfer
+* Steinway
+* Shigeru Kawai,  <small>fabricada artesanalmente por maestros en talleres de Ryuyo, en Hamamatsu, Japón.</small>
+* Yamaha CFX
 
-* Y, sobre todo, no olvide que la formación de su oído musical dependerá en gran medida de la calidad musical de su piano. Para ello no es imprescindible disponer de un instrumento de alta gama; basta con elegir bien su piano, incluso dentro de presupuestos modestos, y asegurarse de que reciba un mantenimiento regular por parte de un especialista.
+---
+
+
+* * Y, sobre todo, no olvide que la formación de su oído musical dependerá en gran medida de la calidad musical de su piano. Para ello no es imprescindible disponer de un instrumento de alta gama; basta con elegir bien su piano, incluso dentro de presupuestos modestos, y asegurarse de que reciba un mantenimiento regular por parte de un especialista.
 
 

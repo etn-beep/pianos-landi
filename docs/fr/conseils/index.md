@@ -12,7 +12,7 @@ description: "Chosir un piano, neuf ou occasion. L'entretien de son piano pour q
 - Il est indispensable de faire accorder tout piano à des intervalles réguliers et au besoin, de le faire régler . Selon le nombre d’heures par jours pendant lesquelles on se sert de l’instrument, les fluctuations de la température et le degré d’humidité de l ‘atmosphère, l’accordage doit avoir lieu de 2 à 4 fois par an. Un piano possède en moyenne 220 cordes,ce qui représente une tension total de plusieures tonnes sur l’ensemble de la structure harmonique, de ce fait, il est fortement recommandé d’accorder le piano au moins une foi par an, (et ceci même s’il n’est pas joué), afin d’avoir toujours une tension de cordes constante.
 
 
-## SECHERESSE et HUMIDITE:
+# SECHERESSE et HUMIDITE:
 
 - En plaçant le piano dans un local trop sec on risque de l'abîmer. La sécheresse excessive peut donner lieu au désaccordage, au dérèglement de la mécanique et à la détérioration de la table d’ harmonie. Une atmosphère trop humide en revanche peut causer la rouille des parties métalliques, des pinces des touches et des centres de rotation de la mécanique. Les feutres de marteaux et d'étouffoirs, perdent leur qualité s'ils sont exposés à de fortes variations hygrométriques.
 
@@ -40,7 +40,7 @@ Préférez les pianos les plus hauts, car ils ont une longueur de cordes supréi
 
 - ATTENTION : LA REPARATION D'UN PIANO ANCIEN EN MAUVAIS ETAT, PEUT REVENIR PLUS CHER QUE L'ACHAT D'UN PIANO NEUF D'ETUDE !
 Renseignez-vous avant d'acheter un piano en mauvais état qui (soit-disant) "n'a qu'à être accordé" -
-mieux vaut un kawai neuf ND21 a 4200 euros. 
+mieux vaut un kawai neuf ND21 à 4200 euros. 
 
 - <small>*(conseil: Mieux vaut payer le déplacement à un technicien pour qu'il examine le piano, plutot que de se retrouver avec un instrument  inutilisable)*.</small>
 
@@ -48,7 +48,7 @@ mieux vaut un kawai neuf ND21 a 4200 euros.
 
 - Nous pouvons distinguer 4 types de pianos, les premiers prix, les factures traditionnelles, les factures de haut de gamme et les pianos de prestige.
 
-#### Les premiers prix: 
+### Les premiers prix: 
 
 - Pianos Chinois: Schaefer, Grand, Steck, Ritmuller....
 Pianos coréens: Samick, Young Chang, Hyundai,...
@@ -59,14 +59,14 @@ Pianos anglais: Kemble, Braodwood, Woodchester
 A savoir: pratiquement toutes les marques de pianos assemblent leur entrée de gamme en chine ou en Indonésie
 Les chinois ont faits d'énormes progrès ces dernières années mais la qualité diffère selon l'usine et la marque.
 
-#### Les factures traditionnelles: 
+### Les factures traditionnelles: 
 
 - Pianos allemands: Herrman, Europa, Rönisch, Hupfeld, Steinberg, Zimmermann (sous licence Bechstein)
 Pianos tchèques: Petrof
 Pianos japonais: Kawaï, Yamaha, Boston (designed by Steinway, mais fabriqué par Kawaï)
 
 
-#### Les hautes factures:
+### Les hautes factures:
  
 
 
@@ -75,10 +75,15 @@ Pianos français: Pleyel
 
 - Japonais: hauts de gammes de yamaha et kawaï (fabrication japonnaise).
 
-#### Les pianos de prestige:
+### Les pianos de prestige:
  
 
-- l'Italien Fazioli (pianos a queue uniquement), l'Allemand Bechstein, l'autrichien Bösendorfer, l'américain Steinway, et  sans oublier la merveilleuse gamme Shigeru fabriqués à la main par la manufacture Kawai au sein des ateliers de Ryuyo à Hamamatsu au Japon.
+   - Fazioli (pianos a queue uniquement)
+   - Bechstein
+   - Bösendorfer
+   - Steinway
+   - Shigeru Kawai, <small>fabriqués à la main par des maitres facteurs de pianos aux ateliers de Ryuyo à Hamamatsu au Japon.</small>
+   - Yamaha CFX
 
-- Et surtout n'oubliez pas que la formation de votre oreille dépendra de la qualité musicale de votre piano, pour cela il n'est pas nécessaire d'avoir un instrument de haut de gamme, il suffit de bien choisir votre piano, même dans des petits prix, et surtout qu'il soit régulièrement entretenu par un spécialiste -
+* *  Et surtout n'oubliez pas que la formation de votre oreille dépendra de la qualité musicale de votre piano, pour cela il n'est pas nécessaire d'avoir un instrument de haut de gamme, il suffit de bien choisir votre piano, même dans des petits prix, et surtout qu'il soit régulièrement entretenu par un spécialiste -
 
