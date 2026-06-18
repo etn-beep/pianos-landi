@@ -14,6 +14,20 @@ Cuando se presiona una tecla, se activa un sistema mecánico que hace golpear un
 * Simplificando: cuando se pulsa una tecla, esta eleva mediante un sencillo sistema de palanca todo un conjunto de pequeñas piezas (llamado mecánica del piano), lo que provoca que un martillo golpee una o varias cuerdas.
 
 * El golpe del martillo hace vibrar la cuerda o las cuerdas. Esta vibración es amplificada por la tabla armónica, que actúa como un altavoz a través del puente.
+---
+
+Aquí tienes una demostración interactiva del mecanismo:
+
+
+<div style="max-width: 100%; height: auto; overflow: hidden;">
+    <object data="../images/meca2-es.swf" width="100%" height="auto" style="max-width: 600px;">
+        <param name="quality" value="high">
+        Votre navigateur ne supporte pas Flash.
+    </object>
+</div>   
+
+---
+
 
 * Observemos el fenómeno:
 Un pequeño vídeo para visualizarlo (Ediciones Larousse)

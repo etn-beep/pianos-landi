@@ -16,7 +16,7 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
 
 - Observons le phénomène:
 
-Voici une démonstration interactive du mécanisme :
+Voici une démonstration interactive du mécanisme:
 
 <div style="max-width: 100%; height: auto; overflow: hidden;">
     <object data="../images/meca2.swf" width="100%" height="auto" style="max-width: 600px;">
