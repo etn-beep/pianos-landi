@@ -57,8 +57,7 @@ nav:
 # repo_name: "etn-beep/pianos-landi"
 
 extra_javascript:
-  - https://unpkg.com/@ruffle-rs/ruffle
-
+  - javascripts/ruffle.js
 
 
 extra:
