@@ -36,7 +36,7 @@ Aquí tienes una demostración interactiva del mecanismo:
 
             // Chemin absolu vers le fichier SWF espagnol
             // Ajout d'un timestamp aléatoire pour éviter les problèmes de cache
-            const baseChemin = "/es/images/meca2-es.swf";
+            const baseChemin = "../images/meca2-es.swf";
             const cheminSwf = baseChemin + "?t=" + new Date().getTime(); 
 
             console.log("🔄 Tentative de chargement de :", cheminSwf);

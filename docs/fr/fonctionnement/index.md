@@ -23,8 +23,9 @@ Voici une démonstration interactive du mécanisme:
 </div>
 
 <script>
-    window.addEventListener("load", () => {
+    window.addEventListener("load", async () => {
         if (window.RufflePlayer) {
+            console.log("✅ Ruffle détecté.");
             const ruffle = window.RufflePlayer.newest();
             const player = ruffle.createPlayer();
             
@@ -32,32 +33,47 @@ Voici une démonstration interactive du mécanisme:
             container.innerHTML = ""; 
             container.appendChild(player);
 
-            // On utilise le chemin absolu, mais on ajoute un paramètre aléatoire pour forcer le rechargement et éviter le cache
-            const baseChemin = "/fr/images/meca2.swf";
-            const cheminSwf = baseChemin + "?t=" + new Date().getTime(); 
+            const url = "/fr/images/meca2.swf";
 
-            console.log("Tentative de chargement de :", cheminSwf);
-
-            player.load(cheminSwf).then(() => {
-                console.log("✅ Animation FR chargée avec succès !");
-            }).catch((err) => {
-                console.error("❌ Erreur de chargement :", err);
-                // Affiche un message plus détaillé pour le débogage
-                container.innerHTML = `
-                    <div style="text-align: center; padding: 20px; background: #f8d7da; color: #721c24; border-radius: 5px;">
-                        <strong>Erreur de chargement</strong><br>
-                        Le fichier n'a pas pu être chargé par Ruffle.<br>
-                        URL testée : <code>${cheminSwf}</code><br>
-                        <small>Essayez de télécharger le fichier manuellement pour vérifier.</small>
-                    </div>
-                `;
-            });
+            try {
+                // Tentative de chargement direct
+                console.log("Tentative de chargement direct...");
+                await player.load(url);
+                console.log("✅ Chargement direct réussi !");
+            } catch (err1) {
+                console.error("Échec chargement direct, tentative Blob...", err1);
+                try {
+                    // Tentative via Fetch + Blob pour contourner le MIME type
+                    const response = await fetch(url);
+                    if (!response.ok) throw new Error("Erreur réseau");
+                    const blob = await response.blob();
+                    
+                    // Création d'une URL locale pour le Blob
+                    const blobUrl = URL.createObjectURL(blob);
+                    console.log("Chargement via Blob...");
+                    
+                    await player.load(blobUrl);
+                    console.log("✅ Chargement via Blob réussi !");
+                    
+                    // Nettoyage (optionnel, gardé ouvert pour l'animation)
+                    // URL.revokeObjectURL(blobUrl); 
+                } catch (err2) {
+                    console.error("❌ Échec total :", err2);
+                    container.innerHTML = `
+                        <div style="text-align: center; padding: 20px; background: #f8d7da; color: #721c24; border-radius: 5px;">
+                            <strong>Erreur critique</strong><br>
+                            Impossible de charger l'animation.<br>
+                            Le fichier SWF est peut-être corrompu ou le navigateur bloque son exécution.<br>
+                            <small>Erreur: ${err2.message}</small>
+                        </div>
+                    `;
+                }
+            }
         } else {
             console.error("❌ Ruffle non chargé.");
         }
     });
 </script>
-
 
 ## Le fonctionnement de la mécanique en 4 étapes 
 
