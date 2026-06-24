@@ -58,15 +58,13 @@ nav:
 
 extra_javascript:
   - https://unpkg.com
-  - javascripts/ruffle-config.js
-
 
 
 extra:
   alternate:
     - name: Français
-      link: "https://tech-piano.com"
+      link: "https://tech-piano.com/fr/"
       lang: fr
     - name: Español
-      link: "https://tech-piano.com"
+      link: "https://tech-piano.com/es/"
       lang: es
