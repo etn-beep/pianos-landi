@@ -18,15 +18,34 @@ Cuando se presiona una tecla, se activa un sistema mecánico que hace golpear un
 
 Aquí tienes una demostración interactiva del mecanismo:
 
-<div style="max-width: 100%; height: auto; overflow: hidden;">
-    <object data="../images/meca2-es.swf" width="100%" height="500" style="max-width: 600px;">
-        <param name="quality" value="high">
-        Votre navigateur ne supporte pas Flash.
-    </object>
+<div id="ruffle-container" style="max-width: 100%; height: auto; overflow: hidden; max-width: 600px; margin: 0 auto; text-align: center;">
+    <p style="color: #666; font-size: 0.9em;">Cargando la animación mecánica...</p>
 </div>
 
+<script>
+    window.addEventListener("load", () => {
+        if (window.RufflePlayer) {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            
+            const container = document.getElementById("ruffle-container");
+            container.innerHTML = ""; 
+            container.appendChild(player);
 
----
+            // Chemin relatif : ../images/meca2-es.swf
+            const cheminSwf = "../images/meca2-es.swf"; 
+
+            player.load(cheminSwf).then(() => {
+                console.log("✅ Animación ES cargada !");
+            }).catch((err) => {
+                console.error("❌ Error carga ES :", err);
+                container.innerHTML = `<p style="color:red;">Error: Fichier introuvable (${cheminSwf}).</p>`;
+            });
+        } else {
+            console.error("❌ Ruffle no cargado en la página ES.");
+        }
+    });
+</script>
 
 
 * Observemos el fenómeno:

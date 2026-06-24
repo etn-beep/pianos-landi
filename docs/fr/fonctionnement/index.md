@@ -18,22 +18,34 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
 
 Voici une démonstration interactive du mécanisme:
 
-<div style="max-width: 100%; height: auto; overflow: hidden;">
-    <object data="../images/meca2-fr.swf" width="100%" height="500" style="max-width: 600px;">
-        <param name="quality" value="high">
-        Votre navigateur ne supporte pas Flash.
-    </object>
+<div id="ruffle-container" style="max-width: 100%; height: auto; overflow: hidden; max-width: 600px; margin: 0 auto; text-align: center;">
+    <p style="color: #666; font-size: 0.9em;">Chargement de l'animation mécanique...</p>
 </div>
 
+<script>
+    window.addEventListener("load", () => {
+        if (window.RufflePlayer) {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+            
+            const container = document.getElementById("ruffle-container");
+            container.innerHTML = ""; 
+            container.appendChild(player);
 
+            // Chemin relatif : ../images/meca2.swf
+            const cheminSwf = "../images/meca2.swf"; 
 
-
-une petite video pour visualiser (editions larousse)
-
-<video src="../images/grand-piano-meca.mp4" controls width="100%">
-  Votre navigateur ne prend pas en charge la lecture de vidéos HTML5.
-</video>
-
+            player.load(cheminSwf).then(() => {
+                console.log("✅ Animation FR chargée !");
+            }).catch((err) => {
+                console.error("❌ Erreur chargement FR :", err);
+                container.innerHTML = `<p style="color:red;">Erreur: Fichier introuvable (${cheminSwf}).</p>`;
+            });
+        } else {
+            console.error("❌ Ruffle non chargé sur la page FR.");
+        }
+    });
+</script>
 
 ## Le fonctionnement de la mécanique en 4 étapes 
 

@@ -56,9 +56,9 @@ nav:
 # repo_url: "https://github.com/etn-beep/pianos-landi"
 # repo_name: "etn-beep/pianos-landi"
 
-# extra_javascript:
-#  - javascripts/ruffle-config.js
-#  - javascripts/ruffle.js
+extra_javascript:
+  - javascripts/ruffle-config.js
+  - javascripts/ruffle.js
 
 
 extra:
