@@ -5,7 +5,7 @@ description: "Documentación técnica sobre el piano: mecánica, acústica, afin
 
 ---
 
-# Piano Tech
+# Tech-Piano
 [french](../fr/index.md)   
 [spanish](../es/index.md)
 

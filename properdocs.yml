@@ -1,5 +1,6 @@
 site_name: Piano Tech
-site_url: "https://etn-beep.github.io/pianos-landi/"
+site_url: "https://tech-piano.com"
+
 site_description: "Documentation technique du piano : mécanique, acoustique, accordage, histoire et systèmes modernes."
 
 use_directory_urls: true
@@ -56,15 +57,16 @@ nav:
 # repo_name: "etn-beep/pianos-landi"
 
 extra_javascript:
-  - https://unpkg.com/@ruffle-rs/ruffle
+  - https://unpkg.com
   - javascripts/ruffle-config.js
+
 
 
 extra:
   alternate:
     - name: Français
-      link: "https://etn-beep.github.io/pianos-landi/fr/"
+      link: "https://tech-piano.com"
       lang: fr
     - name: Español
-      link: "https://etn-beep.github.io/pianos-landi/es/"
+      link: "https://tech-piano.com"
       lang: es

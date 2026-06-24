@@ -6,7 +6,7 @@ description: "tout sur le piano, conseils, achat, physique acoustique, comment e
 
 ---
 
-# Piano Tech
+# Tech-Piano
 [spanish](../es/index.md)   
 [french](../fr/index.md)
 
