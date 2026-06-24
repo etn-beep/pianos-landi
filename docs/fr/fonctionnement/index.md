@@ -19,12 +19,12 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
 Voici une démonstration interactive du mécanisme:
 
 <div style="max-width: 100%; height: auto; overflow: hidden;">
-    <object data="../images/meca2-es.swf" width="100%" height="500" style="max-width: 600px;" allowscriptaccess="always">
+    <object data="../images/meca2-es.swf" width="100%" height="500" style="max-width: 600px;">
         <param name="quality" value="high">
-        <param name="allowScriptAccess" value="always">
         Votre navigateur ne supporte pas Flash.
     </object>
 </div>
+
 
 
 une petite video pour visualiser (editions larousse)
