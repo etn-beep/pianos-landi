@@ -25,6 +25,8 @@ Aquí tienes una demostración interactiva del mecanismo:
 <script>
     window.addEventListener("load", () => {
         if (window.RufflePlayer) {
+            console.log("✅ Ruffle détecté (ES).");
+            
             const ruffle = window.RufflePlayer.newest();
             const player = ruffle.createPlayer();
             
@@ -32,21 +34,33 @@ Aquí tienes una demostración interactiva del mecanismo:
             container.innerHTML = ""; 
             container.appendChild(player);
 
-            // Chemin ABSOLU vers le fichier SWF (depuis la racine du site)
-            // Si le dossier images est dans docs/es/images/, l'URL est /es/images/...
-            const cheminSwf = "/es/images/meca2-es.swf"; 
+            // Chemin absolu vers le fichier SWF espagnol
+            // Ajout d'un timestamp aléatoire pour éviter les problèmes de cache
+            const baseChemin = "/es/images/meca2-es.swf";
+            const cheminSwf = baseChemin + "?t=" + new Date().getTime(); 
+
+            console.log("🔄 Tentative de chargement de :", cheminSwf);
 
             player.load(cheminSwf).then(() => {
-                console.log("✅ Animación ES cargada !");
+                console.log("✅ Animación ES cargada con éxito !");
             }).catch((err) => {
-                console.error("❌ Error carga ES:", err);
-                container.innerHTML = `<p style="color:red;">Error: Fichier introuvable (${cheminSwf}).<br>Vérifiez l'URL dans le navigateur.</p>`;
+                console.error("❌ Erreur de chargement ES :", err);
+                // Affiche un message d'erreur clair
+                container.innerHTML = `
+                    <div style="text-align: center; padding: 20px; background: #f8d7da; color: #721c24; border-radius: 5px;">
+                        <strong>Error de carga</strong><br>
+                        No se pudo cargar el archivo.<br>
+                        URL probada: <code>${cheminSwf}</code><br>
+                        <small>Verifique que el archivo existe en el servidor.</small>
+                    </div>
+                `;
             });
         } else {
             console.error("❌ Ruffle no cargado en la página ES.");
         }
     });
 </script>
+
 
 * Observemos el fenómeno:
 Un pequeño vídeo para visualizarlo (Ediciones Larousse)

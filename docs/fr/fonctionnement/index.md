@@ -32,17 +32,28 @@ Voici une démonstration interactive du mécanisme:
             container.innerHTML = ""; 
             container.appendChild(player);
 
-            // Chemin ABSOLU vers le fichier SWF
-            const cheminSwf = "/fr/images/meca2.swf"; 
+            // On utilise le chemin absolu, mais on ajoute un paramètre aléatoire pour forcer le rechargement et éviter le cache
+            const baseChemin = "/fr/images/meca2.swf";
+            const cheminSwf = baseChemin + "?t=" + new Date().getTime(); 
+
+            console.log("Tentative de chargement de :", cheminSwf);
 
             player.load(cheminSwf).then(() => {
-                console.log("✅ Animation FR chargée !");
+                console.log("✅ Animation FR chargée avec succès !");
             }).catch((err) => {
-                console.error("❌ Erreur chargement FR:", err);
-                container.innerHTML = `<p style="color:red;">Erreur: Fichier introuvable (${cheminSwf}).<br>Vérifiez l'URL dans le navigateur.</p>`;
+                console.error("❌ Erreur de chargement :", err);
+                // Affiche un message plus détaillé pour le débogage
+                container.innerHTML = `
+                    <div style="text-align: center; padding: 20px; background: #f8d7da; color: #721c24; border-radius: 5px;">
+                        <strong>Erreur de chargement</strong><br>
+                        Le fichier n'a pas pu être chargé par Ruffle.<br>
+                        URL testée : <code>${cheminSwf}</code><br>
+                        <small>Essayez de télécharger le fichier manuellement pour vérifier.</small>
+                    </div>
+                `;
             });
         } else {
-            console.error("❌ Ruffle non chargé sur la page FR.");
+            console.error("❌ Ruffle non chargé.");
         }
     });
 </script>
