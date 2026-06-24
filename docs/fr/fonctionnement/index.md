@@ -32,20 +32,21 @@ Voici une démonstration interactive du mécanisme:
             container.innerHTML = ""; 
             container.appendChild(player);
 
-            // Chemin relatif : ../images/meca2.swf
-            const cheminSwf = "../images/meca2.swf"; 
+            // Chemin ABSOLU vers le fichier SWF
+            const cheminSwf = "/fr/images/meca2.swf"; 
 
             player.load(cheminSwf).then(() => {
                 console.log("✅ Animation FR chargée !");
             }).catch((err) => {
-                console.error("❌ Erreur chargement FR :", err);
-                container.innerHTML = `<p style="color:red;">Erreur: Fichier introuvable (${cheminSwf}).</p>`;
+                console.error("❌ Erreur chargement FR:", err);
+                container.innerHTML = `<p style="color:red;">Erreur: Fichier introuvable (${cheminSwf}).<br>Vérifiez l'URL dans le navigateur.</p>`;
             });
         } else {
             console.error("❌ Ruffle non chargé sur la page FR.");
         }
     });
 </script>
+
 
 ## Le fonctionnement de la mécanique en 4 étapes 
 

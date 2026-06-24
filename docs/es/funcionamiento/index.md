@@ -32,21 +32,21 @@ Aquí tienes una demostración interactiva del mecanismo:
             container.innerHTML = ""; 
             container.appendChild(player);
 
-            // Chemin relatif : ../images/meca2-es.swf
-            const cheminSwf = "../images/meca2-es.swf"; 
+            // Chemin ABSOLU vers le fichier SWF (depuis la racine du site)
+            // Si le dossier images est dans docs/es/images/, l'URL est /es/images/...
+            const cheminSwf = "/es/images/meca2-es.swf"; 
 
             player.load(cheminSwf).then(() => {
                 console.log("✅ Animación ES cargada !");
             }).catch((err) => {
-                console.error("❌ Error carga ES :", err);
-                container.innerHTML = `<p style="color:red;">Error: Fichier introuvable (${cheminSwf}).</p>`;
+                console.error("❌ Error carga ES:", err);
+                container.innerHTML = `<p style="color:red;">Error: Fichier introuvable (${cheminSwf}).<br>Vérifiez l'URL dans le navigateur.</p>`;
             });
         } else {
             console.error("❌ Ruffle no cargado en la página ES.");
         }
     });
 </script>
-
 
 * Observemos el fenómeno:
 Un pequeño vídeo para visualizarlo (Ediciones Larousse)

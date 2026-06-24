@@ -1105,17 +1105,34 @@
 </li>
 </ul>
 <p>Voici une démonstration interactive du mécanisme:</p>
-<div style="max-width: 100%; height: auto; overflow: hidden;">
-    <object data="../images/meca2-fr.swf" width="100%" height="500" style="max-width: 600px;">
-        <param name="quality" value="high">
-        Votre navigateur ne supporte pas Flash.
-    </object>
+<div id="ruffle-container" style="max-width: 100%; height: auto; overflow: hidden; max-width: 600px; margin: 0 auto; text-align: center;">
+    <p style="color: #666; font-size: 0.9em;">Chargement de l'animation mécanique...</p>
 </div>
 
-<p>une petite video pour visualiser (editions larousse)</p>
-<video src="../images/grand-piano-meca.mp4" controls width="100%">
-  Votre navigateur ne prend pas en charge la lecture de vidéos HTML5.
-</video>
+<script>
+    window.addEventListener("load", () => {
+        if (window.RufflePlayer) {
+            const ruffle = window.RufflePlayer.newest();
+            const player = ruffle.createPlayer();
+
+            const container = document.getElementById("ruffle-container");
+            container.innerHTML = ""; 
+            container.appendChild(player);
+
+            // Chemin relatif : ../images/meca2.swf
+            const cheminSwf = "../images/meca2.swf"; 
+
+            player.load(cheminSwf).then(() => {
+                console.log("✅ Animation FR chargée !");
+            }).catch((err) => {
+                console.error("❌ Erreur chargement FR :", err);
+                container.innerHTML = `<p style="color:red;">Erreur: Fichier introuvable (${cheminSwf}).</p>`;
+            });
+        } else {
+            console.error("❌ Ruffle non chargé sur la page FR.");
+        }
+    });
+</script>
 
 <h2 id="le-fonctionnement-de-la-mecanique-en-4-etapes">Le fonctionnement de la mécanique en 4 étapes</h2>
 <p>Le système (ici présenté sur un piano à queue) repose sur un principe d'échappement qui permet au marteau de frapper la corde et de rebondir immédiatement, même si la touche reste enfoncée </p>
@@ -1200,6 +1217,10 @@
     
     
       <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../../javascripts/ruffle-config.js"></script>
+      
+        <script src="../../javascripts/ruffle.js"></script>
       
     
   </body>
