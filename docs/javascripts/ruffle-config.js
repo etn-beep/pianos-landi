@@ -1,6 +1,6 @@
 window.RufflePlayer = window.RufflePlayer || {};
 window.RufflePlayer.config = {
-    // Force Ruffle à charger ses moteurs d'exécution depuis le serveur CDN officiel
-    "publicPath": "https://unpkg.com",
+    // On force le chargement des moteurs depuis l'infrastructure d'origine autorisée
+    "public_path": "https://github.io",
     "allowScriptAccess": true
 };
