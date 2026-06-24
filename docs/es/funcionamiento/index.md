@@ -18,8 +18,10 @@ Cuando se presiona una tecla, se activa un sistema mecánico que hace golpear un
 
 Aquí tienes una demostración interactiva del mecanismo:
 
+<script src="https://unpkg.com"></script>
+
 <div style="max-width: 100%; height: auto; overflow: hidden;">
-    <object data="../images/meca2-es.swf" width="100%" height="500" style="max-width: 600px;">
+    <object data="/images/meca2-es.swf" width="100%" height="500" style="max-width: 600px;">
         <param name="quality" value="high">
         Votre navigateur ne supporte pas Flash.
     </object>
