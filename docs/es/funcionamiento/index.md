@@ -16,50 +16,6 @@ Cuando se presiona una tecla, se activa un sistema mecánico que hace golpear un
 * El golpe del martillo hace vibrar la cuerda o las cuerdas. Esta vibración es amplificada por la tabla armónica, que actúa como un altavoz a través del puente.
 ---
 
-Aquí tienes una demostración interactiva del mecanismo:
-
-<div id="ruffle-container" style="max-width: 100%; height: auto; overflow: hidden; max-width: 600px; margin: 0 auto; text-align: center;">
-    <p style="color: #666; font-size: 0.9em;">Cargando la animación mecánica...</p>
-</div>
-
-<script>
-    window.addEventListener("load", () => {
-        if (window.RufflePlayer) {
-            console.log("✅ Ruffle détecté (ES).");
-            
-            const ruffle = window.RufflePlayer.newest();
-            const player = ruffle.createPlayer();
-            
-            const container = document.getElementById("ruffle-container");
-            container.innerHTML = ""; 
-            container.appendChild(player);
-
-            // Chemin absolu vers le fichier SWF espagnol
-            // Ajout d'un timestamp aléatoire pour éviter les problèmes de cache
-            const baseChemin = "../images/meca2-es.swf";
-            const cheminSwf = baseChemin + "?t=" + new Date().getTime(); 
-
-            console.log("🔄 Tentative de chargement de :", cheminSwf);
-
-            player.load(cheminSwf).then(() => {
-                console.log("✅ Animación ES cargada con éxito !");
-            }).catch((err) => {
-                console.error("❌ Erreur de chargement ES :", err);
-                // Affiche un message d'erreur clair
-                container.innerHTML = `
-                    <div style="text-align: center; padding: 20px; background: #f8d7da; color: #721c24; border-radius: 5px;">
-                        <strong>Error de carga</strong><br>
-                        No se pudo cargar el archivo.<br>
-                        URL probada: <code>${cheminSwf}</code><br>
-                        <small>Verifique que el archivo existe en el servidor.</small>
-                    </div>
-                `;
-            });
-        } else {
-            console.error("❌ Ruffle no cargado en la página ES.");
-        }
-    });
-</script>
 
 
 * Observemos el fenómeno:
