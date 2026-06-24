@@ -1,19 +1,21 @@
 window.RufflePlayer = window.RufflePlayer || {};
-window.addEventListener("load", (event) => {
-    const ruffle = window.RufflePlayer.newest();
-    
-    // Détection simple des mobiles et tablettes
-    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
 
-    ruffle.play({
-        // Réduit la résolution de rendu à 50% sur mobile (très efficace pour la performance)
-        // Garde 100% (1.0) sur ordinateur
-        scale: isMobile ? 0.5 : 1.0,
+// FIX DIRECT POUR LES DOSSIERS MULTILINGUES (FR/ES)
+window.RufflePlayer.config = {
+    "publicPath": "https://tech-piano.com",
+    "allowScriptAccess": true
+};
+
+window.addEventListener("load", (event) => {
+    // Vérifie si Ruffle est bien chargé
+    if (window.RufflePlayer && typeof window.RufflePlayer.newest === "function") {
+        const ruffle = window.RufflePlayer.newest();
         
-        // Force une qualité de lissage plus basse sur mobile pour gagner encore plus de vitesse
-        quality: isMobile ? "low" : "high",
-        
-        // Optionnel : limite à 30 images par seconde sur mobile si c'est encore lent
-        frameRate: isMobile ? 30 : null 
-    });
-});   
+        // Détection simple des mobiles et tablettes
+        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+        // Applique les optimisations directement dans la configuration globale
+        window.RufflePlayer.config.quality = isMobile ? "low" : "high";
+        window.RufflePlayer.config.scale = isMobile ? "showAll" : "exactFit";
+    }
+});
