@@ -13,27 +13,59 @@ description: "Funcionamiento del piano explicado: acción mecánica, martillos, 
  
 ## Animación interactiva de la mecánica del piano
 
-<div id="meca-animation-es"></div>
+<!-- 1. Le conteneur responsive -->
+<div id="flash-responsive-wrapper" style="width: 100%; max-width: 800px; margin: 0 auto;">
+    <div id="flash-interactive-container" style="position: relative; width: 100%; aspect-ratio: 4 / 3; background-color: #1a1a1a; overflow: hidden; border-radius: 8px;">
+        
+        <!-- Bouton de démarrage optimisé pour le tactile -->
+        <button id="start-flash-btn" onclick="lancerAnimation()" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 15px 30px; background-color: #ffcc00; color: #000; border: none; font-weight: bold; border-radius: 5px; cursor: pointer; font-size: 18px; width: 80%; max-width: 300px; z-index: 10;">
+            Empezar la animación
+        </button>
+        
+    </div>
+</div>
 
 <script>
-window.addEventListener("load", function () {
+function lancerAnimation() {
+    const container = document.getElementById('flash-interactive-container');
+    const button = document.getElementById('start-flash-btn');
+    
+    button.style.display = 'none';
+    container.style.cursor = 'wait';
 
-    if (!window.RufflePlayer) {
-        console.error("Ruffle no cargado");
-        return;
-    }
+    const script = document.createElement('script');
+    
+    // Chargement de Ruffle depuis unpkg
+    script.src = "https://unpkg.com/@ruffle-rs/ruffle/ruffle.js";
+    
+    script.onload = () => {
+        container.style.cursor = 'default';
 
-    const ruffle = window.RufflePlayer.newest();
-    const player = ruffle.createPlayer();
+        // Initialisation de Ruffle
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
 
-    player.style.width = "100%";
-    player.style.maxWidth = "900px";
-    player.style.height = "650px";
+        container.appendChild(player);
 
-    document.getElementById("meca-animation-es").appendChild(player);
+        // Ajustement du player pour qu'il remplisse le conteneur
+        player.style.width = "100%";
+        player.style.height = "100%";
+        player.style.position = "absolute";
+        player.style.top = "0";
+        player.style.left = "0";
 
-    player.load("/es/images/meca2-es.swf");
-});
+        // Chargement du SWF
+        player.load({
+            url: "meca2.swf",
+            allowScriptAccess: true,
+            autoplay: "on",
+            unmute: "on"
+        });
+    };
+
+    // Ajout du script dans le head
+    document.head.appendChild(script);
+}
 </script>
 
  ---

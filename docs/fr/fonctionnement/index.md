@@ -12,11 +12,11 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
  
  ---
  
- ## Animation interactive de la mécanique du piano
+## Animation interactive de la mécanique du piano
 
 
  
- ---
+ 
  
 <!-- 1. Le conteneur responsive -->
 <div id="flash-responsive-wrapper" style="width: 100%; max-width: 800px; margin: 0 auto;">
