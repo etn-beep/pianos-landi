@@ -8,6 +8,36 @@ description: "Funcionamiento del piano explicado: acción mecánica, martillos, 
 # Cómo funciona un piano
 
  ![mecanica-piano-cola](../images/grand-action.jpg)
+ 
+ ---
+ 
+## Animación interactiva de la mecánica del piano
+
+<div id="meca-animation-es"></div>
+
+<script>
+window.addEventListener("load", function () {
+
+    if (!window.RufflePlayer) {
+        console.error("Ruffle no cargado");
+        return;
+    }
+
+    const ruffle = window.RufflePlayer.newest();
+    const player = ruffle.createPlayer();
+
+    player.style.width = "100%";
+    player.style.maxWidth = "900px";
+    player.style.height = "650px";
+
+    document.getElementById("meca-animation-es").appendChild(player);
+
+    player.load("/es/images/meca2-es.swf");
+});
+</script>
+
+ ---
+ 
 
 Cuando se presiona una tecla, se activa un sistema mecánico que hace golpear un martillo sobre las cuerdas...
 
