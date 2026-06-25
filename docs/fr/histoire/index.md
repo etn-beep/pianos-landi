@@ -12,7 +12,7 @@ description: "toute l'histoire de l'evoution du piano"
 ![clavicorde](../images/clavicordio.jpg "clavicordio")
 
 Des petits "crampons" sont fixés sur les touches, et attaquent la corde de bas en haut. 
-On s'inspirera beaucoup du monocorde[monocorde ou manicorde](https://en.wikipedia.org/wiki/Monochord) pour la fabrication future des instruments à cordes frappées.
+On s'inspirera beaucoup du[monocorde ou manicorde](https://en.wikipedia.org/wiki/Monochord) pour la fabrication future des instruments à cordes frappées.
 Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scientifique qu'un instrument de musique. Au VI siècle av JC, Pythagore lui-même s'en servait pour étudier les principes musicaux. Par le monocorde, il ramena la musique à des principes mathématique.
 
 - En ajoutant d'autres cordes à cet instrument, on inventa ce que l'on appel aujourd'hui le "polycorde". La cithare, le monocorde et le polycorde, représentent par leurs systèmes, la base de la structure sonore du piano.
@@ -32,7 +32,7 @@ Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scie
 
 ## Les dates importantes:
 
-- 1703 : Carlo GRIMALDI transforme un clavecin en " cembalo con marteletti où les marteaux sont des lames de métal enroulées à l'extrémité de manière à former un bout arrondit qui frappe la corde au lieu de la pincer [wiki](https://en.wikipedia.org/wiki/Folding_harpsichord)
+- 1703 : Carlo GRIMALDI transforme un clavecin en "cembalo" con marteletti où les marteaux sont des lames de métal enroulées à l'extrémité de manière à former un bout arrondit qui frappe la corde au lieu de la pincer [wiki](https://en.wikipedia.org/wiki/Folding_harpsichord)
 
 - 1709 : Bartolomeo CRISTOFORI invente le premier piano, toujours sur la base d'une transformation de clavecin, mais cette fois les marteaux sont en bois, et articulés à l'extrémité des touches, un petit levier pousse ses marteaux contre les cordes, et un système d'échappement permet de récupérer le marteau à mi course, en même temps l'étouffoir est actionné. [wiki](https://en.wikipedia.org/wiki/Bartolomeo_Cristofori)
 

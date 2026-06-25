@@ -185,7 +185,7 @@ C'est la différence la plus technique et la plus célèbre entre les deux marqu
 
 <small>***Mon avis personnel: Le meilleur rapport QUALITE-PRIX dans les 180cm (longeur très polyvalente)
 --->  KAWAI GL-40***
-un son puissant et riche, une mecanique de précision... pour environ 20.000 euros, on ne peut pas faire mieux.</small>
+un son puissant et riche, une mécanique de précision... pour environ 20.000 euros, on ne peut pas faire mieux.</small>
 
 ---
 

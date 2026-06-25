@@ -28,12 +28,13 @@ Vous avez aussi la possibilité de vous enregistrer afin de vous aider a travail
 - Le système s'installe sur _"presque"_ tous les pianos:
 Neufs ou d'occasion facilement ou avec des modifications plus ou moins importantes.
 
-- Il existe plusieures marques et modeles, 
+- Il existe plusieurs marques et modeles, 
  Renseignez-vous aupres d'un professionel.
  
- ### Le system Aures ou Transacoustic
  
- #### l'évolution du système silent
+## Le system Aures ou Transacoustic
+ 
+### "l'évolution du système silent"
  - Des transducteurs font vibrer la table d'harmonie en épicéa du piano afin de diffuser les sons numériques à travers le bois, sans haut-parleurs conventionnels, c'est la table d'harmonie qui sert de haut-parleur. Le résultat est une diffusion du son beaucoup plus naturelle et tridimensionnelle. Cela donne une restitution plus naturelle qu'un piano numérique classique.Vous avez aussi la possibilité de mélanger le son acoustique et des sons numériques (cordes, orgues, pads, etc.).
 Très interessant.
  - Les pianistes apprécient particulièrement le fait que l'AURES reste avant tout un vrai piano acoustique, tout en offrant les avantages du numérique. Plusieurs retours d'utilisateurs indiquent que le jeu acoustique d'un K-300 Aures 2 est nettement supérieur à celui d'un piano numérique hybride pur, même haut de gamme.

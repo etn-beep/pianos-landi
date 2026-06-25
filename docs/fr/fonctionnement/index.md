@@ -14,7 +14,12 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
 
 - La frappe du marteau va faire vibrer la ou les cordes, vibration qui va etre amplifiée par la table d'harmonie qui agit comme un haut-parleur en passant par le chevalet.
 
-- Observons le phénomène:
+* une petite video pour visualiser
+ (Editions Larousse)
+
+<video src="../images/grand-piano-meca.mp4" controls width="100%">
+  Su navegador no admite la reproducción de vídeos HTML5.
+</video>
 
 ## Le fonctionnement de la mécanique en 4 étapes 
 

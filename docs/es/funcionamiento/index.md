@@ -18,8 +18,7 @@ Cuando se presiona una tecla, se activa un sistema mecánico que hace golpear un
 
 
 
-* Observemos el fenómeno:
-Un pequeño vídeo para visualizarlo (Ediciones Larousse)
+* Un pequeño vídeo para visualizarlo (Ediciones Larousse)
 
 <video src="../images/grand-piano-meca.mp4" controls width="100%">
   Su navegador no admite la reproducción de vídeos HTML5.
