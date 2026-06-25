@@ -18,7 +18,7 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
  
  ---
  
- <!-- 1. Le conteneur responsive -->
+<!-- 1. Le conteneur responsive -->
 <div id="flash-responsive-wrapper" style="width: 100%; max-width: 800px; margin: 0 auto;">
     <div id="flash-interactive-container" style="position: relative; width: 100%; aspect-ratio: 4 / 3; background-color: #1a1a1a; overflow: hidden; border-radius: 8px;">
         
@@ -30,7 +30,6 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
     </div>
 </div>
 
-<!-- 2. Le script avec gestion de l'affichage -->
 <script>
 function lancerAnimation() {
     const container = document.getElementById('flash-interactive-container');
@@ -40,31 +39,36 @@ function lancerAnimation() {
     container.style.cursor = 'wait';
 
     const script = document.createElement('script');
-    script.src = "https://unpkg.com";
+    
+    // Chargement de Ruffle depuis unpkg
+    script.src = "https://unpkg.com/@ruffle-rs/ruffle/ruffle.js";
     
     script.onload = () => {
         container.style.cursor = 'default';
-        
+
+        // Initialisation de Ruffle
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
-        
+
         container.appendChild(player);
-        
-        // Force le player à occuper tout l'espace responsive du conteneur
+
+        // Ajustement du player pour qu'il remplisse le conteneur
         player.style.width = "100%";
         player.style.height = "100%";
         player.style.position = "absolute";
         player.style.top = "0";
         player.style.left = "0";
-        
+
+        // Chargement du SWF
         player.load({
-            url: "meca2.swf", 
+            url: "meca2.swf",
             allowScriptAccess: true,
             autoplay: "on",
             unmute: "on"
         });
     };
 
+    // Ajout du script dans le head
     document.head.appendChild(script);
 }
 </script>
