@@ -14,6 +14,8 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
  
  ## Animation interactive de la mécanique du piano
 
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+
 <div id="meca-animation"></div>
 
 <script>
