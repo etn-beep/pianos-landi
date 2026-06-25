@@ -58,7 +58,7 @@ function lancerAnimation() {
         player.style.left = "0";
         
         player.load({
-            url: "/fr/images/meca2.swf", 
+            url: "meca2.swf", 
             allowScriptAccess: true,
             autoplay: "on",
             unmute: "on"
