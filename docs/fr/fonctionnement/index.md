@@ -14,32 +14,61 @@ description: "Fonctionnement du piano : mécanique des marteaux, des cordes et p
  
  ## Animation interactive de la mécanique du piano
 
-<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 
-<div id="meca-animation"></div>
-
-<script>
-window.addEventListener("load", function () {
-
-    if (!window.RufflePlayer) {
-        console.error("Ruffle non chargé");
-        return;
-    }
-
-    const ruffle = window.RufflePlayer.newest();
-    const player = ruffle.createPlayer();
-
-    player.style.width = "100%";
-    player.style.maxWidth = "900px";
-    player.style.height = "650px";
-
-    document.getElementById("meca-animation").appendChild(player);
-
-    player.load("/fr/images/meca2.swf");
-});
-</script>
  
  ---
+ 
+ <!-- 1. Le conteneur responsive -->
+<div id="flash-responsive-wrapper" style="width: 100%; max-width: 800px; margin: 0 auto;">
+    <div id="flash-interactive-container" style="position: relative; width: 100%; aspect-ratio: 4 / 3; background-color: #1a1a1a; overflow: hidden; border-radius: 8px;">
+        
+        <!-- Bouton de démarrage optimisé pour le tactile -->
+        <button id="start-flash-btn" onclick="lancerAnimation()" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 15px 30px; background-color: #ffcc00; color: #000; border: none; font-weight: bold; border-radius: 5px; cursor: pointer; font-size: 18px; width: 80%; max-width: 300px; z-index: 10;">
+            Démarrer l'animation
+        </button>
+        
+    </div>
+</div>
+
+<!-- 2. Le script avec gestion de l'affichage -->
+<script>
+function lancerAnimation() {
+    const container = document.getElementById('flash-interactive-container');
+    const button = document.getElementById('start-flash-btn');
+    
+    button.style.display = 'none';
+    container.style.cursor = 'wait';
+
+    const script = document.createElement('script');
+    script.src = "https://unpkg.com";
+    
+    script.onload = () => {
+        container.style.cursor = 'default';
+        
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        
+        container.appendChild(player);
+        
+        // Force le player à occuper tout l'espace responsive du conteneur
+        player.style.width = "100%";
+        player.style.height = "100%";
+        player.style.position = "absolute";
+        player.style.top = "0";
+        player.style.left = "0";
+        
+        player.load({
+            url: "/fr/images/meca2.swf", 
+            allowScriptAccess: true,
+            autoplay: "on",
+            unmute: "on"
+        });
+    };
+
+    document.head.appendChild(script);
+}
+</script>
+
  
 - En simplifiant: quand on appuie la touche, elle va soulever par un simple système de balancier, tout un ensemble de petites pièces, (appele mécanique du piano), ce qui va entrainer la frappe d'un marteau sur une ou plusieurs cordes.
 
