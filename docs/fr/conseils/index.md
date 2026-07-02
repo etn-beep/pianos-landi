@@ -86,9 +86,8 @@ Pianos français: Pleyel
    - Yamaha CFX
    
 
-<p align="center">
-[Yamaha & Kawai](../pianos-japonais/){: .md-button .md-button--primary }
-</p>
+<a href="../pianos-japonais/" class="md-button md-button--primary">Yamaha &amp; Kawai</a>
+
 
 
 
