@@ -44,20 +44,30 @@ plugins:
           name: Español
           default: true
           build: true
+          nav:
+            - Inicio: index.md
+            - Acustica: acustica/index.md
+            - Afinacion: afinacion/index.md
+            - Annexes: annexes/index.md
+            - Consejos: consejos/index.md
+            - Dampp chaser: dampp-chaser/index.md
+            - Funcionamiento: funcionamiento/index.md
+            - Historia: historia/index.md
+            - Pianos japoneses: pianos-japoneses/index.md
+            - Silent: silent/index.md
+
         - locale: fr
           name: Français
           default: false
           build: true
-          nav_translations:
-            Home: Accueil
-            Mechanics: Mécanique
-            Acoustics: Acoustique
-            Tuning: Accordage
-            History: Histoire
-            Japanese Pianos: Pianos Japonais
-            Silent: Silent
-            Dampp-Chaser: Dampp-Chaser
-            Tips: Conseils
-            Annexes: Annexes
-            Functioning: Fonctionnement
-            Japanese Pianos: Pianos Japonais   
+          nav:
+            - Accueil: index.md
+            - Acoustique: acoustique/index.md
+            - Accordage: accordage/index.md
+            - Annexes: annexes/index.md
+            - Conseils: conseils/index.md
+            - Dampp-Chaser: dampp-chaser/index.md
+            - Fonctionnement: fonctionnement/index.md
+            - Histoire: histoire/index.md
+            - Pianos Japonais: pianos-japonais/index.md
+            - Silent: silent/index.md
