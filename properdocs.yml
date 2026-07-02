@@ -7,7 +7,7 @@ edit_uri: ""
 
 theme:
   name: material
-  language: es  # Mettez la langue par défaut ici pour le thème
+  language: es
   palette:
     - scheme: default
       toggle:
@@ -23,7 +23,6 @@ theme:
     - navigation.expand
     - navigation.top
     - search.highlight
-    # Assurez-vous de NE PAS avoir 'navigation.instant' activé, car il entre en conflit avec i18n
 
 markdown_extensions:
   - footnotes
@@ -39,7 +38,7 @@ plugins:
   - search
   - i18n:
       docs_structure: folder
-      reconfigure_material: true  # Important : laisse le plugin gérer le sélecteur de langue
+      reconfigure_material: true
       languages:
         - locale: es
           name: Español
@@ -59,4 +58,6 @@ plugins:
             Silent: Silent
             Dampp-Chaser: Dampp-Chaser
             Tips: Conseils
-            # Ajoutez ici la traduction de TOUS vos titres de sections   
+            Annexes: Annexes
+            Functioning: Fonctionnement
+            Japanese Pianos: Pianos Japonais   
