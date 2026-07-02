@@ -5,11 +5,13 @@ description: "Acoustique du piano : fréquence, amplitude, propagation du son et
 
 ---
 
+
 <p align="center">
-
-![eau](../images/pierre.jpeg)
-
+  <img src="../images/pierre.jpeg" alt="agua" style="max-width: 100%; height: auto;" />
 </p>
+
+---
+
 
 # Acoustique    
 adjectif qui vient du Grec signifiant "relatif à la perception sonore"
@@ -40,17 +42,16 @@ Maintenant prenons le LA 220 Hertz qui est situé une octave en dessous donc plu
 
 - Alors quand une note est jouée, et que le son s'amoindrit dans le temps et finit par mourir, que se passe-t-il ? Et bien le son s'amoindrit en amplitude, mais son mouvement reste toujours égale à lui-même.
 
-- Mais si le son d'une note n'était qu'une simple courbe sinusoïdale, il serait bien désagréable à écouter, c'est pour cela que, comme l'a si bien dit M. Fourier : "Le son musical est une somme de mouvements sinusoïdaux et non pas un seul mouvement sinusoïdal" c'est ce que l'on appel LE SPECTRE HARMONIQUE.
+- Mais si le son d'une note n'était qu'une simple courbe sinusoïdale, il serait bien désagréable à écouter, c'est pour cela que, comme l'a si bien dit M. Fourier : "Le son musical est une somme de mouvements sinusoïdaux et non pas un seul mouvement sinusoïdal" c'est ce que l'on appel **LE SPECTRE HARMONIQUE**.
 
 - Si vous pensez que le spectre harmonique est un fantôme blanc, vous n'y êtes pas du tout ! Le spectre harmonique d'une note est constitué du son principal de cette note (fondamentale) et de toutes ses harmoniques, chaque harmonique est un multiple de la fréquence du son principal.
 
 - Pour illustrer ce phénomène prenons le spectre harmonique (une partie du moins) d'un SOL grave d'une Fréquence de 100 Hz.
 
 <p align="center">
-
-![plan harmonique](../images/harmoniques.gif)   
-
+  <img src="../images/harmoniques.gif" alt="agua" style="max-width: 100%; height: auto;" />
 </p>
+
 
 - Ici H1 Représente l'harmonique 1 qui est la fondamentale.
 
@@ -66,17 +67,19 @@ Sa durée (en secondes)
 ---
 
 
-- La fréquence est le nombre de variations par secondes, plus le nombre de variations est grand, plus le son est aigu, et vice versa. La gamme audible d'un être humain est approximativement de 20 Hz à 20000 Hz (la gamme d'un piano s'étend de 27 Hz à 4186 Hz)
+- La **fréquence** est le nombre de variations par secondes, plus le nombre de variations est grand, plus le son est aigu, et vice versa. La gamme audible d'un être humain est approximativement de 20 Hz à 20000 Hz (la gamme d'un piano s'étend de 27 Hz à 4186 Hz)
 
 
-- L'intensité dépend de la puissance d'ébranlement de la source. Lorsque l'on prend un gros caillou et qu'on le jette très fort dans l'eau, le mouvement ondulatoire sera beaucoup plus grand que si l'on jette doucement un petit caillou
-Le timbre est le résultat du mode d'ébranlement, du nombre d'harmoniques et de la disposition de ces harmoniques. Si l'on frappe une cloche avec un marteau en métal, les harmoniques engendrées seront différentes que si cette même cloche est frappée avec un marteau en bois (Ding! et Bong!)
-La durée correspond au temps de l'émission sonore.
+- **L'intensité** dépend de la puissance d'ébranlement de la source. Lorsque l'on prend un gros caillou et qu'on le jette très fort dans l'eau, le mouvement ondulatoire sera beaucoup plus grand que si l'on jette doucement un petit caillou
+
+- Le **timbre** est le résultat du mode d'ébranlement, du nombre d'harmoniques et de la disposition de ces harmoniques. Si l'on frappe une cloche avec un marteau en métal, les harmoniques engendrées seront différentes que si cette même cloche est frappée avec un marteau en bois (Ding! et Bong!)
+
+- La **durée** correspond au temps de l'émission sonore.
 
 
 ---
 
-### [voir plus - annexes inharmonicité](../annexes/inharmonicite.md)
+## [voir plus - annexes pythagore et inharmonicité](../annexes/inharmonicite.md)
 
 Voir aussi:   
 

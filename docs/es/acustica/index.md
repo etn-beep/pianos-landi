@@ -10,10 +10,9 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 El sonido es una variación de presión que se propaga en forma de ondas...
 
 <p align="center">
-
-![agua](../images/pierre.jpeg)
-
+  <img src="../images/pierre.jpeg" alt="agua" style="max-width: 100%; height: auto;" />
 </p>
+
 
 * *Acústica*: adjetivo que proviene del griego y significa "relativo a la percepción sonora".
   Vamos a abordar aquí algunas nociones sobre el sonido; no se trata de un curso de acústica propiamente dicho, sino simplemente de una pequeña introducción al tema.
@@ -37,7 +36,7 @@ El sonido es una variación de presión que se propaga en forma de ondas...
 
 * El nivel de compresión y descompresión es la amplitud (en decibelios).
 
-===================================================
+---
 
 ## ESQUEMA
 
@@ -52,7 +51,7 @@ El sonido es una variación de presión que se propaga en forma de ondas...
 
 * Pero si el sonido de una nota fuera simplemente una onda sinusoidal pura, sería bastante desagradable de escuchar. Por eso, como dijo tan acertadamente el Sr. Fourier:
   "El sonido musical es una suma de movimientos sinusoidales y no un único movimiento sinusoidal".
-  A esto se le denomina ESPECTRO ARMÓNICO.
+  A esto se le denomina **ESPECTRO ARMÓNICO**.
 
 * Si piensa que el espectro armónico es un fantasma blanco, está muy equivocado.
   El espectro armónico de una nota está compuesto por el sonido principal de dicha nota (fundamental) y por todos sus armónicos. Cada armónico es un múltiplo de la frecuencia del sonido principal.
@@ -60,10 +59,9 @@ El sonido es una variación de presión que se propaga en forma de ondas...
 * Para ilustrar este fenómeno, tomemos parte del espectro armónico de un SOL grave con una frecuencia de 100 Hz.
 
 <p align="center">
-
-![plano armónico](../images/harmoniques.gif)
-
+  <img src="../images/harmoniques.gif" alt="agua" style="max-width: 100%; height: auto;" />
 </p>
+
 
 * Aquí H1 representa el armónico 1, que corresponde a la frecuencia fundamental.
 
@@ -71,7 +69,7 @@ El sonido es una variación de presión que se propaga en forma de ondas...
 
 * Gracias a su experiencia y a un gesto preciso, sabe exactamente cómo actuar para obtener el timbre deseado. La armonización consiste en resaltar determinados armónicos más que otros: potenciar los armónicos agudos para lograr un sonido brillante o incluso metálico, o potenciar los armónicos graves y medios para obtener una sonoridad más cálida y aterciopelada.
 
-* Resumamos:
+**Resumamos:**
 
 Definimos el sonido por:
 
@@ -82,16 +80,16 @@ Definimos el sonido por:
 
 ---
 
-* La frecuencia es el número de variaciones por segundo. Cuanto mayor es el número de variaciones, más agudo será el sonido, y viceversa.
+* La **frecuencia** es el número de variaciones por segundo. Cuanto mayor es el número de variaciones, más agudo será el sonido, y viceversa.
 
 * El rango audible del ser humano se sitúa aproximadamente entre 20 Hz y 20.000 Hz (el rango de un piano se extiende aproximadamente desde 27 Hz hasta 4.186 Hz).
 
-* La intensidad depende de la potencia de vibración de la fuente sonora. Si lanzamos una piedra grande con fuerza al agua, el movimiento ondulatorio será mucho mayor que si dejamos caer suavemente una piedra pequeña.
+* La **intensidad** depende de la potencia de vibración de la fuente sonora. Si lanzamos una piedra grande con fuerza al agua, el movimiento ondulatorio será mucho mayor que si dejamos caer suavemente una piedra pequeña.
 
-* El timbre es el resultado del modo de vibración, del número de armónicos y de la distribución de estos armónicos. Si golpeamos una campana con un martillo metálico, los armónicos generados serán diferentes de los producidos si esa misma campana es golpeada con un martillo de madera (¡Ding! y ¡Bong!).
+* El **timbre** es el resultado del modo de vibración, del número de armónicos y de la distribución de estos armónicos. Si golpeamos una campana con un martillo metálico, los armónicos generados serán diferentes de los producidos si esa misma campana es golpeada con un martillo de madera (¡Ding! y ¡Bong!).
 
-* La duración corresponde al tiempo durante el cual se emite el sonido.
+* La **duración** corresponde al tiempo durante el cual se emite el sonido.
 
 
-[Más información - anexos sobre la inarmonicidad](../annexes/inharmonicite.md)
+### [Más información - anexos sobre la coma pytagorica y la inarmonicidad](../annexes/inharmonicite.md)
 
