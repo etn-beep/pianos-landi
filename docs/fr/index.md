@@ -5,12 +5,7 @@ description: "Site technique sur le piano : mécanique, acoustique, accordage, h
 description: "tout sur le piano, conseils, achat, physique acoustique, comment entretenir son piano, les systemes silent, l'histoire du piano et son evolution depuis le clavecin"
 
 ---
-
-# Tech-Piano
-[spanish](../es/index.md)   
-[french](../fr/index.md)
-
-![Piano](images/fazioli.jpeg)  
+# Bienvenu sur le site du Piano
 
 
 **Cette page technique explore l'univers du piano sous tous ses angles:**

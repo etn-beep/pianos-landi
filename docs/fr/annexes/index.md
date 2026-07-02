@@ -1,5 +1,9 @@
----hide:
-- navigation
+---
+title: "Annexes"
+hide:
+  - navigation
 ---
 
-# Annexes
+# Contenu des Annexes
+
+  [le comma de pithagore et le phenomene d'inharmonicite](inharmonicite.md)
