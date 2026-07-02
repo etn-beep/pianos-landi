@@ -1,6 +1,5 @@
 site_name: Tech-Piano
 site_url: "https://tech-piano.com"
-# Description en Espagnol (Langue par défaut)
 site_description: "Documentación técnica del piano: mecánica, acústica científica, afinación, inarmonicidad, historia, pianos japoneses, sistemas silent y consejos de compra."
 
 use_directory_urls: true
@@ -20,42 +19,4 @@ theme:
         name: Mode sombre
   features:
     - navigation.tabs
-    - navigation.indexes
-    - navigation.expand
-    - navigation.top
-    - search.highlight
-
-markdown_extensions:
-  - footnotes
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-extra_javascript:
-  - javascripts/ruffle-config.js
-  - javascripts/ruffle.js
-
-plugins:
-  - search
-  - i18n:
-      docs_structure: folder
-      languages:
-        - locale: es
-          name: Español
-          default: true  # L'espagnol sera à la racine (tech-piano.com/)
-          build: true
-        - locale: fr
-          name: Français
-          default: false # Le français sera dans tech-piano.com/fr/
-          build: true
-          # Traduction des éléments de navigation pour le français
-          nav_translations:
-            Inicio: Accueil
-            Historia: Histoire
-            Afinación: Accordage
-            Funcionamiento: Fonctionnement
-            Acustica: Acoustique
-            Consejos: Conseils
-            Pianos Japoneses: Pianos Japonais
-            Silent: Silent
-            Dampp-Chaser: Dampp-Chaser   
+    - navigation   
