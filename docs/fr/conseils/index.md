@@ -87,7 +87,7 @@ Pianos français: Pleyel
    
 
 <p align="center">
-  [Yamaha & Kawai](../pianos-japonais/){ .md-button .md-button--primary }
+[Yamaha & Kawai](../pianos-japonais/){: .md-button .md-button--primary }
 </p>
 
 
