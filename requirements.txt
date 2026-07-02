@@ -28,4 +28,7 @@ requests==2.34.2
 six==1.17.0
 urllib3==2.7.0
 watchdog==6.0.0
-mkdocs-static-i18n   
+properdocs
+mkdocs-material
+mkdocs-static-i18n 
+   
