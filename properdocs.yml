@@ -1,15 +1,13 @@
-site_name: Piano Tech
+site_name: Tech-Piano
 site_url: "https://tech-piano.com"
-
-site_description: "Documentation technique du piano : mécanique, acoustique, accordage, histoire et systèmes modernes."
-
+# Description en Espagnol (Langue par défaut)
+site_description: "Documentación técnica del piano: mecánica, acústica científica, afinación, inarmonicidad, historia, pianos japoneses, sistemas silent y consejos de compra."
 use_directory_urls: true
 edit_uri: ""
 
 theme:
   name: material
   language: fr
-
   palette:
     - scheme: default
       toggle:
@@ -19,7 +17,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Mode sombre
-
   features:
     - navigation.tabs
     - navigation.indexes
@@ -29,43 +26,24 @@ theme:
 
 markdown_extensions:
   - footnotes
-
-nav:
-  - Français:
-    - Accueil: fr/index.md
-    - Histoire: fr/histoire/index.md
-    - Accordage: fr/accordage/index.md
-    - Fonctionnement: fr/fonctionnement/index.md
-    - Acoustique: fr/acoustique/index.md
-    - Conseils: fr/conseils/index.md
-    - Pianos Japonais: fr/pianos-japonais/index.md
-    - Silent: fr/silent/index.md
-    - Dampp-Chaser: fr/dampp-chaser/index.md
-
-  - Español:
-    - Inicio: es/index.md
-    - Historia: es/historia/index.md
-    - Afinación: es/afinacion/index.md
-    - Funcionamiento: es/funcionamiento/index.md
-    - Acústica: es/acustica/index.md
-    - Consejos: es/consejos/index.md
-    - Pianos Japoneses: es/pianos-japoneses/index.md
-    - Silent: es/silent/index.md
-    - Dampp-Chaser: es/dampp-chaser/index.md
-
-# repo_url: "https://github.com/etn-beep/pianos-landi"
-# repo_name: "etn-beep/pianos-landi"
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_javascript:
   - javascripts/ruffle-config.js
   - javascripts/ruffle.js
 
-
-extra:
-  alternate:
-    - name: Français
-      link: "https://tech-piano.com/fr/"
-      lang: fr
-    - name: Español
-      link: "https://tech-piano.com/es/"
-      lang: es
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: es
+          name: Español
+          default: true  # L'espagnol sera à la racine (tech-piano.com/)
+          build: true
+        - locale: fr
+          name: Français
+          default: false # Le français sera dans tech-piano.com/fr/
+          build: true   

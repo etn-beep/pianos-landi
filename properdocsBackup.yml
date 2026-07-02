@@ -1,0 +1,71 @@
+site_name: Piano Tech
+site_url: "https://tech-piano.com"
+
+site_description: "Documentation technique du piano : mécanique, acoustique, accordage, histoire et systèmes modernes."
+
+use_directory_urls: true
+edit_uri: ""
+
+theme:
+  name: material
+  language: fr
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Mode clair
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mode sombre
+
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+
+markdown_extensions:
+  - footnotes
+
+nav:
+  - Français:
+    - Accueil: fr/index.md
+    - Histoire: fr/histoire/index.md
+    - Accordage: fr/accordage/index.md
+    - Fonctionnement: fr/fonctionnement/index.md
+    - Acoustique: fr/acoustique/index.md
+    - Conseils: fr/conseils/index.md
+    - Pianos Japonais: fr/pianos-japonais/index.md
+    - Silent: fr/silent/index.md
+    - Dampp-Chaser: fr/dampp-chaser/index.md
+
+  - Español:
+    - Inicio: es/index.md
+    - Historia: es/historia/index.md
+    - Afinación: es/afinacion/index.md
+    - Funcionamiento: es/funcionamiento/index.md
+    - Acústica: es/acustica/index.md
+    - Consejos: es/consejos/index.md
+    - Pianos Japoneses: es/pianos-japoneses/index.md
+    - Silent: es/silent/index.md
+    - Dampp-Chaser: es/dampp-chaser/index.md
+
+# repo_url: "https://github.com/etn-beep/pianos-landi"
+# repo_name: "etn-beep/pianos-landi"
+
+extra_javascript:
+  - javascripts/ruffle-config.js
+  - javascripts/ruffle.js
+
+
+extra:
+  alternate:
+    - name: Français
+      link: "https://tech-piano.com/fr/"
+      lang: fr
+    - name: Español
+      link: "https://tech-piano.com/es/"
+      lang: es
