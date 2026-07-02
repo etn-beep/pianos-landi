@@ -7,7 +7,7 @@ edit_uri: ""
 
 theme:
   name: material
-  language: fr
+  language: es  # Mettez la langue par défaut ici pour le thème
   palette:
     - scheme: default
       toggle:
@@ -19,4 +19,44 @@ theme:
         name: Mode sombre
   features:
     - navigation.tabs
-    - navigation   
+    - navigation.indexes
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    # Assurez-vous de NE PAS avoir 'navigation.instant' activé, car il entre en conflit avec i18n
+
+markdown_extensions:
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_javascript:
+  - javascripts/ruffle-config.js
+  - javascripts/ruffle.js
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      reconfigure_material: true  # Important : laisse le plugin gérer le sélecteur de langue
+      languages:
+        - locale: es
+          name: Español
+          default: true
+          build: true
+        - locale: fr
+          name: Français
+          default: false
+          build: true
+          nav_translations:
+            Home: Accueil
+            Mechanics: Mécanique
+            Acoustics: Acoustique
+            Tuning: Accordage
+            History: Histoire
+            Japanese Pianos: Pianos Japonais
+            Silent: Silent
+            Dampp-Chaser: Dampp-Chaser
+            Tips: Conseils
+            # Ajoutez ici la traduction de TOUS vos titres de sections   
