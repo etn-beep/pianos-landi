@@ -98,7 +98,13 @@ description: "Consejos para el mantenimiento del piano: control de humedad, afin
 
 ---
 
+<p align="center">
+  <a href="../pianos-japoneses/" class="md-button md-button--primary">Yamaha &amp; Kawai</a>
+</p>
 
-* * Y, sobre todo, no olvide que la formación de su oído musical dependerá en gran medida de la calidad musical de su piano. Para ello no es imprescindible disponer de un instrumento de alta gama; basta con elegir bien su piano, incluso dentro de presupuestos modestos, y asegurarse de que reciba un mantenimiento regular por parte de un especialista.
+---
+
+
+**Y, sobre todo, no olvide que la formación de su oído musical dependerá en gran medida de la calidad musical de su piano. Para ello no es imprescindible disponer de un instrumento de alta gama; basta con elegir bien su piano, incluso dentro de presupuestos modestos, y asegurarse de que reciba un mantenimiento regular por parte de un especialista.**
 
 
