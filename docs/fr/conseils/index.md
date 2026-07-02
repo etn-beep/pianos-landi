@@ -84,6 +84,13 @@ Pianos français: Pleyel
    - Steinway
    - Shigeru Kawai, <small>fabriqués à la main par des maitres facteurs de pianos aux ateliers de Ryuyo à Hamamatsu au Japon.</small>
    - Yamaha CFX
+   
+
+<p align="center">
+  [Yamaha & Kawai](../pianos-japonais/){ .md-button .md-button--primary }
+</p>
+
+
 
 * *  Et surtout n'oubliez pas que la formation de votre oreille dépendra de la qualité musicale de votre piano, pour cela il n'est pas nécessaire d'avoir un instrument de haut de gamme, il suffit de bien choisir votre piano, même dans des petits prix, et surtout qu'il soit régulièrement entretenu par un spécialiste -
 

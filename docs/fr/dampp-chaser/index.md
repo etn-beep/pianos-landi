@@ -3,6 +3,8 @@
 title: "Dampp-Chaser – contrôle de l’humidité pour piano acoustique"
 description: "Le contrôle de l’humidité, comment stabiliser son piano pour le maintenir en bon état"
 
+---
+
 
 # LA REGULATION DE L'HYGROMÉTRIE
 
