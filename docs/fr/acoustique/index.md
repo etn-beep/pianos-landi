@@ -5,8 +5,11 @@ description: "Acoustique du piano : fréquence, amplitude, propagation du son et
 
 ---
 
+<p align="center">
+
 ![eau](../images/pierre.jpeg)
 
+</p>
 
 # Acoustique    
 adjectif qui vient du Grec signifiant "relatif à la perception sonore"
@@ -43,8 +46,11 @@ Maintenant prenons le LA 220 Hertz qui est situé une octave en dessous donc plu
 
 - Pour illustrer ce phénomène prenons le spectre harmonique (une partie du moins) d'un SOL grave d'une Fréquence de 100 Hz.
 
+<p align="center">
 
 ![plan harmonique](../images/harmoniques.gif)   
+
+</p>
 
 - Ici H1 Représente l'harmonique 1 qui est la fondamentale.
 

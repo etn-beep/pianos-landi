@@ -9,7 +9,11 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 
 El sonido es una variación de presión que se propaga en forma de ondas...
 
+<p align="center">
+
 ![agua](../images/pierre.jpeg)
+
+</p>
 
 * *Acústica*: adjetivo que proviene del griego y significa "relativo a la percepción sonora".
   Vamos a abordar aquí algunas nociones sobre el sonido; no se trata de un curso de acústica propiamente dicho, sino simplemente de una pequeña introducción al tema.
@@ -55,7 +59,11 @@ El sonido es una variación de presión que se propaga en forma de ondas...
 
 * Para ilustrar este fenómeno, tomemos parte del espectro armónico de un SOL grave con una frecuencia de 100 Hz.
 
+<p align="center">
+
 ![plano armónico](../images/harmoniques.gif)
+
+</p>
 
 * Aquí H1 representa el armónico 1, que corresponde a la frecuencia fundamental.
 
