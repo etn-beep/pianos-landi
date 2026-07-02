@@ -7,9 +7,12 @@ description: "Las principales marcas de pianos japoneses, Yamaha y Kawai: histor
 
 # Los pianos japoneses
 
-> #### Dado que los pianos japoneses son la referencia en el mundo profesional y en las escuelas de música, vamos a hablar de los pianos
->
-> ## *"Yamaha"* y *"Kawai"*
+> #### Dado que los pianos japoneses son la referencia en el mundo profesional y en las escuelas de música, vamos a hablar de los pianos:
+
+<p align="center">
+  <img src="yamaha.png" alt="yamaha" style="height: 100px; margin: 0 15px; vertical-align: middle;" />
+  <img src="kawai.png" alt="kawai" style="height: 100px; margin: 0 15px; vertical-align: middle;" />
+</p>
 
 ## **Historia**
 
