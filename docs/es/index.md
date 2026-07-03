@@ -1,7 +1,6 @@
 ---
-
-title: Documentación técnica del piano - Tech-Piano
-description: Documentación técnica del piano: mecánica, acústica científica, afinación, inarmonicidad, historia, pianos japoneses, sistemas silent y consejos de compra.
+title: "Documentación técnica del piano - Tech-Piano"
+description: "Documentación técnica del piano: mecánica, acústica científica, afinación, inarmonicidad, historia, pianos japoneses, sistemas silent y consejos de compra."
 
 ---
 

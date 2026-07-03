@@ -1,7 +1,6 @@
 ---
-
-title: Documentation technique du piano - Tech-Piano
-description: Découvrez l'univers du piano : mécanique, acoustique scientifique, accordage, inharmonicité, histoire, pianos japonais, systèmes silent et conseils d'achat.
+title: "Documentation technique du piano - Tech-Piano"
+description: "Découvrez l'univers du piano : mécanique, acoustique scientifique, accordage, inharmonicité, histoire, pianos japonais, systèmes silent et conseils d'achat."
 
 ---
 
