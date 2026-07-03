@@ -1,38 +1,39 @@
 /* ==========================================================
-   Tech-Piano
+   Tech-Piano - Styles Personnalisés
    ========================================================== */
 
-/* Masquer uniquement la TOC de droite */
+/* --- 1. SUPPRESSION TABLE DES MATIÈRES (DROITE) --- */
 .md-sidebar--secondary {
     display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
 }
 
-/* Étendre le contenu sur l'espace libéré */
+/* Ajustement largeur contenu desktop */
 @media screen and (min-width: 76.25em) {
-
     .md-content {
         max-width: 900px;
         margin: 0 auto;
     }
-
     .md-content__inner {
         margin: 0 auto;
     }
+    .md-grid {
+        max-width: 900px;
+    }
 }
 
-/* Barre supérieure */
+/* --- 2. STYLE GÉNÉRAL (Desktop & Mobile) --- */
+
+/* Barre supérieure sans ombre */
 .md-header,
 .md-tabs {
     box-shadow: none;
 }
 
-/* Typographie */
+/* Typographie de base */
 .md-typeset {
     font-size: 1rem;
-}
-
-.md-typeset p,
-.md-typeset li {
     line-height: 1.75;
 }
 
@@ -40,23 +41,43 @@
     font-weight: 500;
 }
 
-/* Images */
+/* Images centrées */
 .md-typeset img {
     display: block;
     margin: 2rem auto;
     max-width: 100%;
 }
 
-/* Smartphone */
-@media (max-width: 600px) {
+/* --- 3. VERSION SMARTPHONE (Optimisé) --- */
+/* S'applique aux écrans de moins de 76.25em (tablettes et mobiles) */
+@media (max-width: 76.25em) {
 
+    /* Police plus petite */
     .md-typeset {
-        font-size: .90rem;
+        font-size: 0.85rem !important; /* Taille réduite */
+        line-height: 1.6;              /* Interligne légèrement réduit */
     }
 
+    /* Marges latérales quasi nulles */
     .md-content__inner {
-        padding-left: .75rem;
-        padding-right: .75rem;
+        padding-left: 0.5rem !important;  /* Marge gauche minime */
+        padding-right: 0.5rem !important; /* Marge droite minime */
     }
 
-}
+    /* Réduction de la grille globale pour coller aux bords */
+    .md-grid {
+        padding-left: 0.25rem;
+        padding-right: 0.25rem;
+    }
+    
+    /* Ajustement spécifique pour les très petits écrans (< 600px) */
+    @media (max-width: 600px) {
+        .md-typeset {
+            font-size: 0.80rem !important; /* Encore plus petit sur petits téléphones */
+        }
+        .md-content__inner {
+            padding-left: 0.25rem !important;
+            padding-right: 0.25rem !important;
+        }
+    }
+}   
