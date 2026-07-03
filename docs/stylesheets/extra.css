@@ -1,5 +1,5 @@
 /* ==========================================================
-   Tech-Piano - Styles Personnalisés (Version Équilibrée)
+   Tech-Piano - Correction Mobile (Version 2026)
    ========================================================== */
 
 /* --- 1. SUPPRESSION TABLE DES MATIÈRES (DROITE) --- */
@@ -34,26 +34,42 @@
     max-width: 100%;
 }
 
-/* --- 3. SMARTPHONE : AJUSTEMENTS MODÉRÉS --- */
-/* S'applique aux écrans de moins de 76.25em (tablettes et mobiles) */
+/* --- 3. SMARTPHONE : LA SOLUTION (Variables + Rem corrigés) --- */
 @media only screen and (max-width: 76.25em) {
+    
+    /* A. On force la variable interne du thème à une petite valeur */
+    /* Avant c'était 0.8rem, maintenant avec la base à 20px, il faut 0.4rem ou 0.45rem */
+    :root {
+        --md-typeset-font-size: 0.42rem !important; /* Équivalent à ~13-14px */
+    }
 
-    /* A. Police légèrement plus petite (90% de la taille originale) */
-    /* C'est suffisant pour gagner de la place sans illisibilité */
+    /* B. On applique la taille directement sur le conteneur pour être sûr */
     .md-typeset {
-        font-size: 0.9rem !important; 
-        line-height: 1.6;
+        font-size: 0.8rem !important; /* Valeur absolue relative au nouveau standard */
+        line-height: 1.5;
     }
 
-    /* B. Marges latérales réduites mais présentes (confort de lecture) */
+    /* C. Marges latérales réduites (presque zéro) */
     .md-content__inner {
-        padding-left: 1rem !important;  /* Marge confortable */
-        padding-right: 1rem !important;
+        padding-left: 0.4rem !important;  /* Très peu de marge */
+        padding-right: 0.4rem !important;
     }
 
-    /* C. Grille principale ajustée */
+    /* D. Grille principale collée aux bords */
     .md-grid {
-        padding-left: 0.5rem;
-        padding-right: 0.5rem;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        max-width: 100% !important;
+    }
+
+    /* E. Force les paragraphes et listes à respecter la règle */
+    .md-typeset p, 
+    .md-typeset li, 
+    .md-typeset h2, 
+    .md-typeset h3 {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        padding-left: 0.1rem !important;
+        padding-right: 0.1rem !important;
     }
 }   
