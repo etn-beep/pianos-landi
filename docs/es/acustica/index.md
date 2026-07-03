@@ -7,7 +7,7 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 
 # Acústica del piano :material-waveform:
 
-### El sonido es una variación de presión que se propaga en forma de ondas a través de un medio (agua, aire, sólido).
+### El sonido es una <mark>variación de presión</mark> que se propaga en forma de ondas a través de un medio (agua, aire, sólido).
 
 <p align="center">
   <img src="../images/pierre.jpeg" alt="agua" style="max-width: 100%; height: auto;" />

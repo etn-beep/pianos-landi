@@ -50,28 +50,32 @@ plugins:
           build: true
           nav:
             - Inicio: index.md
-            - Acustica: acustica/index.md
-            - Afinacion: afinacion/index.md
-            - Annexes: annexes/index.md
-            - Consejos: consejos/index.md
-            - Dampp chaser: dampp-chaser/index.md
-            - Funcionamiento: funcionamiento/index.md
             - Historia: historia/index.md
+            - Funcionamiento: funcionamiento/index.md
+            - Afinacion: afinacion/index.md
+            - Acustica: acustica/index.md
+            - Consejos: consejos/index.md
             - Pianos japoneses: pianos-japoneses/index.md
             - Silent: silent/index.md
-
+            - Dampp chaser: dampp-chaser/index.md
+            - Annexes: annexes/index.md
+            
+            
+            
         - locale: fr
           name: Français
           default: false
           build: true
           nav:
             - Accueil: index.md
-            - Acoustique: acoustique/index.md
-            - Accordage: accordage/index.md
-            - Annexes: annexes/index.md
-            - Conseils: conseils/index.md
-            - Dampp-Chaser: dampp-chaser/index.md
-            - Fonctionnement: fonctionnement/index.md
             - Histoire: histoire/index.md
+            - Fonctionnement: fonctionnement/index.md
+            - Accordage: accordage/index.md
+            - Acoustique: acoustique/index.md
+            - Conseils: conseils/index.md
             - Pianos Japonais: pianos-japonais/index.md
             - Silent: silent/index.md
+            - Dampp-Chaser: dampp-chaser/index.md
+            - Annexes: annexes/index.md
+            
+
