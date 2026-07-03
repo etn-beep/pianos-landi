@@ -7,6 +7,8 @@ description: "Accordage du piano : tempérament égal, battements, inharmonicit�
 
 # Accordage du piano
 
+**L'accordage consiste à équilibrer la tension des cordes afin d'obtenir des intervalles corrects**
+
 - C'est l' équilibrage de la tension des cordes (environ 220) sur 85 ou 88 touches, afin d'obtenir la justesse de chaque intervalle.
 
 - Sur le piano pour avoir les mêmes intervalles dans chaque tonalité, l'accord qui est pratiqué se nomme "accord tempéré à 1/2 tons égaux", ce qui signifie que chaque 1/2 tons a le même intervalle.
@@ -20,39 +22,44 @@ description: "Accordage du piano : tempérament égal, battements, inharmonicit�
 **la clef d’accord[^1]**
 et en se basant sur une valeur étalon qui est le diapason au "lA 440hz" (diapason international). On peut aussi utiliser d'autre diapasons tel que le "LA 415hz" pour les pianos d'époques ou le "LA 442hz" demandé par certains orchestres.
 
-- Attention: l'accord d'un piano n'agit que sur la tension des cordes, si votre instrument a un problème de "touché" ou de "timbre" dû à une usure ou une déterioration des feutres, garnitures de pivots, ressorts etc... le fait d'accorder le piano ne résoudra pas le problème, qui est du domaine de la réparation, du réglage ou de l'harmonisation !
+- Attention: l'accord d'un piano n'agit que sur la tension des cordes, si votre instrument a un problème de "touché"{style="color:red"} ou de "timbre"{style="color:red"} dû à une usure ou une déterioration des feutres, garnitures de pivots, ressorts etc... le fait d'accorder le piano ne résoudra pas le problème, qui est du domaine de la <mark>réparation</mark>, du <mark>réglage</mark> ou de <mark>l'harmonisation</mark> !
 
-##  POURQUOI FAIRE ACCORDER SON PIANO ?
+###  POURQUOI FAIRE ACCORDER SON PIANO ?
 
-- Pour avoir un instrument juste, ce qui permettra de prendre un maximum de plaisir lorsque l'on joue et de ne pas se "fausser" l'oreille.
-Pour pouvoir jouer avec d'autres instruments, ou en écoutant la radio ou un CD.
-Pour l'entretien et le bon fonctionnement de son piano.
+1. Pour avoir un instrument juste, ce qui permettra de prendre un maximum de plaisir lorsque l'on joue et de ne pas se "fausser" l'oreille.   
+2. Pour pouvoir jouer avec d'autres instruments, ou en écoutant la radio ou un CD.
+
+3. Pour l'entretien et le bon fonctionnement de son piano.
 
 - En effet, le temps qui passe, la durée et la façon de jouer, les variations de température et d'hygrométrie font varier la tension des cordes, ce qui provoque un déséquilibre des fréquences, des intervales et des unissons, désaccordant le piano.
 - Le fait d'accorder régulièrement son instrument permettra de le maintenir en bon état, car le piano demande à avoir une tension constante et équilibrée des cordes, tension se répercutant sur la charge imposé à la table d' harmonie par l'intermédiaire des chevalets.
-- L'accordeur technicien va à chaque intervention pouvoir surveiller l'ensemble du piano, clavier, mécanisme, table d' harmonie, structure harmonique, chevilles, réglages etc.... pouvant de ce fait prévenir de gros dégâts qui faute de négligence aurait pu être évités
-Mieux vaut prévenir que guérir !
-- L'entretien de son piano revient environ à 90 euros par an, alors que la négligence peut engendrer des réparations tres couteuses!
+- L'accordeur technicien va à chaque intervention pouvoir surveiller l'ensemble du piano, clavier, mécanisme, table d' harmonie, structure harmonique, chevilles, réglages etc.... pouvant de ce fait prévenir de gros dégâts qui auraient pu être évités
+
+**Mieux vaut prévenir que guérir !**
+- L'entretien de son piano revient environ à 100 euros par an, alors que la négligence peut engendrer des réparations couteuses!
 
 ### A QUELLE FREQUENCE DOIT ON ACCORDER SON PIANO ?
 
 - Le piano se désaccorde sensiblement à chaque changement de saisons à cause des variations thermique et hygrométrique, nous avons vu plus haut que le piano possède environ 220 cordes, la tension moyenne de chaque corde est d' environ 70 Kg, ce qui représente une tension totale de 15 Tonnes pour un piano droit, cette tension peut atteindre 20 Tonnes sur certains piano à queue.
 
 - La structure harmonique ( ne pas confondre avec le cadre) est faite de bois, en général de l' épicéa pour la table, et du hêtre pour le sommier de chevilles, ce sont des matériaux très sensible aux variations.
-- 
+
+ 
 - Quand l'humidité s'élève, la table d'harmonie "gonfle" ce qui provoque une surtension des cordes essentiellement dans les médiums ce qui fait monter le "ton", A l'inverse, en période sèche, le bois se rétracte, la table devient plus plane ce qui provoque l'effet inverse et baisse le "ton" , malheureusement les cordes ne bougent jamais de la même manière et uniformément.
 
 - Les cordes aussi se dilatent et se rétractent en fonction de la température, ainsi que toute la structure du piano.
 
 - Bien que le piano se désaccorde même s'il n'est pas joué, il est évident qu'il se désaccordera d' autant plus s'il est très sollicité.
 
-- Fréquence de l'accord:
-Pour un particulier qui utilise son piano normalement, l'idéal est de l'accorder 2 fois par an.
-Pour une école de musique de 4 à 8 fois par an.
-Pour un professionnel tous les 2 mois, et avant chaque concert ou enregistrement
-- IMPORTANT: Pour un piano qui n'a pas été accordé depuis plus de 3 ans il est nécessaire de faire une mise sous tension ( 1er accord ), puis un 2ème accord pour stabiliser l'instrument, si il a perdu 1/4 ton il aura besoin de 3 accords à des intervalles rapprochés ( sur 2 mois par exemple )
-- - Combien cela coute?  
-- - environ 100 euros pour un accord d'entretien hors deplacement.
+**Fréquence de l'accord:**   
+
+- Pour un particulier{style="color:red"} qui utilise son piano normalement, l'idéal est de l'accorder 2 fois par an.
+Pour une école{style="color:red"} de musique de 4 à 8 fois par an.
+Pour un professionnel{style="color:red"} tous les 2 mois, et avant chaque concert ou enregistrement
+- IMPORTANT: Pour un piano qui n'a pas été accordé depuis plus de 3 ans il est nécessaire de faire une mise sous tension ( 1er accord ), puis un 2ème accord pour stabiliser l'instrument, si il a perdu 1/4 ton il aura besoin de 3 accords à des intervalles rapprochés ( sur 2 mois par exemple )   
+
+**Combien cela coute?**  
+-  environ 100 euros pour un accord d'entretien hors deplacement.
 
 ### ATTENTION: LE MINIMUM EST D'UN ACCORD PAR AN MEME SI LE PIANO N'EST PAS UTILISE ! -
 
