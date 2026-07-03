@@ -5,6 +5,8 @@ description: "Acoustique du piano : fréquence, amplitude, propagation du son et
 
 ---
 
+### Le son est une variation de pression qui se propage en forme d'ondes au travers d'un matériel (air, eau, solide)
+
 
 <p align="center">
   <img src="../images/pierre.jpeg" alt="agua" style="max-width: 100%; height: auto;" />
@@ -13,7 +15,10 @@ description: "Acoustique du piano : fréquence, amplitude, propagation du son et
 ---
 
 
-# Acoustique    
+# Acoustique
+
+   
+
 adjectif qui vient du Grec signifiant "relatif à la perception sonore"
 Nous allons ici aborder quelques notions sur le "son", pas un cours d'acoustique pur et dur, mais seulement une petite approche du sujet.
 

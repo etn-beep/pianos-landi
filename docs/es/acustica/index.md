@@ -7,32 +7,32 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 
 # Acústica del piano
 
-El sonido es una variación de presión que se propaga en forma de ondas...
+### El sonido es una variación de presión que se propaga en forma de ondas a través de un medio (agua, aire, sólido).
 
 <p align="center">
   <img src="../images/pierre.jpeg" alt="agua" style="max-width: 100%; height: auto;" />
 </p>
 
 
-* *Acústica*: adjetivo que proviene del griego y significa "relativo a la percepción sonora".
+* **Acústica**: adjetivo que proviene del griego y significa "relativo a la percepción sonora".
   Vamos a abordar aquí algunas nociones sobre el sonido; no se trata de un curso de acústica propiamente dicho, sino simplemente de una pequeña introducción al tema.
 
-* El sonido es una sensación, al igual que la vista, el olfato o el tacto. Se define como:
+* El sonido es una **sensación**, al igual que la vista, el olfato o el tacto. Se define como:
   "Toda variación de presión que puede ser detectada por el oído".
 
-* Estas variaciones de presión son fenómenos de compresión y descompresión que generan un movimiento ondulatorio.
+* Estas **variaciones de presión** son fenómenos de compresión y descompresión que generan un movimiento ondulatorio.
 
 * El sonido se propaga por el aire a una velocidad aproximada de 340 m por segundo hasta llegar a esos maravillosos receptores que son nuestros oídos. Podemos dividir el oído humano en tres partes:
 
-* El oído externo, compuesto por el pabellón auricular y el conducto auditivo, recibe las ondas sonoras que hacen vibrar el tímpano.
-  El oído medio está formado por tres pequeños huesos articulados y mantenidos en su posición mediante músculos y ligamentos.
-  El oído interno está constituido por los canales semicirculares y la cóclea, llena de líquido (linfa). Este líquido transmite cada estímulo a la membrana basilar, que a su vez está cubierta por miles de células sensoriales que envían la información al cerebro mediante impulsos nerviosos... ¡Uf! ¡Lo dejamos aquí!
+* **El oído externo**{style="color:red"}, compuesto por el pabellón auricular y el conducto auditivo, recibe las ondas sonoras que hacen vibrar el tímpano.
+* **El oído medio**{style="color:red"} está formado por tres pequeños huesos articulados y mantenidos en su posición mediante músculos y ligamentos.
+* **El oído interno**{style="color:red"} está constituido por los canales semicirculares y la cóclea, llena de líquido (linfa). Este líquido transmite cada estímulo a la membrana basilar, que a su vez está cubierta por miles de células sensoriales que envían la información al cerebro mediante impulsos nerviosos... ¡Uf! ¡Lo dejamos aquí!
 
-* Tomemos ahora una imagen para visualizar mejor de qué estamos hablando. Imaginemos una piedra lanzada al agua. Cuando penetra en la superficie, desplaza el agua (compresión), y después el agua desplazada vuelve a subir (descompresión).
+* Tomemos ahora una imagen para visualizar mejor de qué estamos hablando. Imaginemos **una piedra lanzada al agua**. Cuando penetra en la superficie, desplaza el agua (compresión), y después el agua desplazada vuelve a subir (descompresión).
 
 * Las ondas visibles en la superficie representan perfectamente el movimiento ondulatorio. La distancia y el número de ondas nos indican el tiempo y la intensidad de la vibración.
 
-* La velocidad de la vibración es la frecuencia (en Hertz).
+* La **velocidad** de la vibración es la **frecuencia** (en Hertz).
 
 * El nivel de compresión y descompresión es la amplitud (en decibelios).
 
@@ -71,7 +71,7 @@ El sonido es una variación de presión que se propaga en forma de ondas...
 
 **Resumamos:**
 
-Definimos el sonido por:
+:musical_keyboard: Definimos el sonido por:
 
 * Su altura (frecuencia en Hertz).
 * Su intensidad o potencia (amplitud en decibelios).
@@ -91,5 +91,5 @@ Definimos el sonido por:
 * La **duración** corresponde al tiempo durante el cual se emite el sonido.
 
 
-### [Más información - anexos sobre la coma pytagorica y la inarmonicidad](../annexes/inharmonicite.md)
+### :material-music: [Más información - anexos sobre la coma pytagorica y la inarmonicidad](../annexes/inharmonicite.md)
 
