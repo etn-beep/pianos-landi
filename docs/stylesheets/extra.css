@@ -1,77 +1,129 @@
-/* =======================================================
+/* ==========================================================
    Tech-Piano - Material for MkDocs
    Style minimal
-   ======================================================= */
+   ========================================================== */
 
-/* Supprime la table des matières de droite */
+/* ----------------------------------------------------------
+   Supprime les deux colonnes latérales
+   ---------------------------------------------------------- */
+
+.md-sidebar--primary,
 .md-sidebar--secondary {
     display: none !important;
 }
 
-/* Une seule colonne de contenu */
 .md-main__inner {
-    grid-template-columns: minmax(0, 1fr) !important;
+    display: block !important;
 }
 
-/* Largeur maximale de l'ensemble de la page */
+/* ----------------------------------------------------------
+   Largeur maximale de la page
+   ---------------------------------------------------------- */
+
 .md-grid {
     max-width: 1400px;
 }
 
-/* ---------- Desktop ---------- */
+/* ----------------------------------------------------------
+   Desktop
+   ---------------------------------------------------------- */
 
 @media screen and (min-width: 76.25em) {
 
-    /* Largeur de lecture confortable */
-    .md-content {
-        max-width: 900px;
+    .md-content,
+    .md-content__inner {
+        max-width: 850px;
         margin: 0 auto;
     }
 
-}
-
-/* ---------- Tablette & Mobile ---------- */
-
-@media screen and (max-width: 76.24em) {
-
-    .md-content {
-        max-width: 100%;
+    .md-content__inner {
+        padding: 1rem 2rem 3rem;
     }
 
 }
 
-/* ---------- Aspect graphique ---------- */
+/* ----------------------------------------------------------
+   Tablette
+   ---------------------------------------------------------- */
 
-/* Barre supérieure plus légère */
+@media screen and (min-width: 40em) and (max-width: 76.24em) {
+
+    .md-content,
+    .md-content__inner {
+        max-width: 100%;
+    }
+
+    .md-content__inner {
+        padding: 1rem 1.5rem 2rem;
+    }
+
+}
+
+/* ----------------------------------------------------------
+   Smartphone
+   ---------------------------------------------------------- */
+
+@media screen and (max-width: 39.99em) {
+
+    .md-content,
+    .md-content__inner {
+        max-width: 100%;
+    }
+
+    .md-content__inner {
+        padding: .8rem 1rem 2rem;
+    }
+
+}
+
+/* ----------------------------------------------------------
+   Barre supérieure
+   ---------------------------------------------------------- */
+
 .md-header,
 .md-tabs {
     box-shadow: none;
 }
 
-/* Onglets un peu plus discrets */
+/* ----------------------------------------------------------
+   Onglets
+   ---------------------------------------------------------- */
+
 .md-tabs {
-    font-size: 0.90rem;
+    font-size: .90rem;
 }
 
-/* Titre principal */
+/* ----------------------------------------------------------
+   Titres
+   ---------------------------------------------------------- */
+
 .md-typeset h1 {
     font-weight: 400;
     margin-bottom: 1.5rem;
 }
 
-/* Titres secondaires */
 .md-typeset h2,
 .md-typeset h3 {
-    margin-top: 2.2rem;
+    margin-top: 2rem;
 }
 
-/* Lecture plus agréable */
+/* ----------------------------------------------------------
+   Lecture
+   ---------------------------------------------------------- */
+
+.md-typeset {
+    font-size: .95rem;
+}
+
 .md-typeset p,
 .md-typeset li {
     line-height: 1.75;
 }
 
-/* Images centrées */
+/* ----------------------------------------------------------
+   Images
+   ---------------------------------------------------------- */
+
 .md-typeset img {
     display: block;
     margin: 2rem auto;
@@ -79,23 +131,24 @@
     height: auto;
 }
 
-/* Un peu moins d'espace au-dessus du contenu */
-.md-content__inner {
-    padding-top: 1rem;
-}
+/* ----------------------------------------------------------
+   Liens
+   ---------------------------------------------------------- */
 
-/* Tables */
-.md-typeset table {
-    font-size: .95rem;
-}
-
-/* Liens */
 .md-typeset a {
     text-decoration: none;
 }
 
 .md-typeset a:hover {
     text-decoration: underline;
+}
+
+/* ----------------------------------------------------------
+   Tableaux
+   ---------------------------------------------------------- */
+
+.md-typeset table {
+    font-size: .95rem;
 }
 
 body {

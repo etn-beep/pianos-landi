@@ -1,5 +1,5 @@
 site_name: Tech-Piano
-site_url: "https://tech-piano.com"
+site_url: https://tech-piano.com
 site_description: "Documentación técnica del piano: mecánica, acústica científica, afinación, inarmonicidad, historia, pianos japoneses, sistemas silent y consejos de compra."
 
 use_directory_urls: true
@@ -8,21 +8,27 @@ edit_uri: ""
 theme:
   name: material
   language: es
+
+  icon:
+    logo: material/music
+
   palette:
     - scheme: default
       toggle:
         icon: material/brightness-7
         name: Mode clair
+
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Mode sombre
+
   features:
     - navigation.tabs
     - navigation.top
     - search.highlight
     - navigation.instant
-    - navigation.prune 
+    - navigation.prune
 
 markdown_extensions:
   - footnotes
@@ -31,10 +37,8 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-
 extra_css:
   - stylesheets/extra.css
-
 
 extra_javascript:
   - javascripts/ruffle-config.js
@@ -45,9 +49,11 @@ plugins:
       lang:
         - es
         - fr
+
   - i18n:
       docs_structure: folder
       reconfigure_material: true
+
       languages:
         - locale: es
           name: Español
@@ -57,16 +63,14 @@ plugins:
             - Inicio: index.md
             - Historia: historia/index.md
             - Funcionamiento: funcionamiento/index.md
-            - Afinacion: afinacion/index.md
-            - Acustica: acustica/index.md
+            - Afinación: afinacion/index.md
+            - Acústica: acustica/index.md
             - Consejos: consejos/index.md
             - Pianos japoneses: pianos-japoneses/index.md
             - Silent: silent/index.md
-            - Dampp chaser: dampp-chaser/index.md
+            - Dampp Chaser: dampp-chaser/index.md
             - Annexes: annexes/index.md
-            
-            
-            
+
         - locale: fr
           name: Français
           default: false
@@ -78,9 +82,7 @@ plugins:
             - Accordage: accordage/index.md
             - Acoustique: acoustique/index.md
             - Conseils: conseils/index.md
-            - Pianos Japonais: pianos-japonais/index.md
+            - Pianos japonais: pianos-japonais/index.md
             - Silent: silent/index.md
             - Dampp-Chaser: dampp-chaser/index.md
             - Annexes: annexes/index.md
-            
-
