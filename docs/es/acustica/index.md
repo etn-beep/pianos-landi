@@ -93,7 +93,7 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 
 #### :material-music: Más información - anexos sobre la coma pytagorica y la inarmonicidad
 
-<p align="center">
-  <a href="/es/annexes/inharmonicite.md" class="md-button md-button--primary">coma pitagórica-inarmonicidad</a>
+<p align="center" style="margin: 0;">
+[coma pitagórica-inarmonicidad](../annexes/inharmonicite.md){.md-button .md-button--primary}
 </p>
 
