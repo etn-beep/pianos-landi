@@ -1,166 +1,62 @@
 /* ==========================================================
-   Tech-Piano - Material for MkDocs
-   Style sobre et moderne
+   Tech-Piano
    ========================================================== */
 
+/* Masquer uniquement la TOC de droite */
+.md-sidebar--secondary {
+    display: none !important;
+}
 
-/* ==========================================================
-   Barre supérieure
-   ========================================================== */
+/* Étendre le contenu sur l'espace libéré */
+@media screen and (min-width: 76.25em) {
 
+    .md-content {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    .md-content__inner {
+        margin: 0 auto;
+    }
+}
+
+/* Barre supérieure */
 .md-header,
 .md-tabs {
     box-shadow: none;
 }
 
-.md-tabs {
-    font-size: .92rem;
-}
-
-
-/* ==========================================================
-   Typographie
-   ========================================================== */
-
+/* Typographie */
 .md-typeset {
     font-size: 1rem;
 }
 
-.md-typeset h1 {
-    font-weight: 500;
-    margin-bottom: 1.4rem;
-}
-
-.md-typeset h2 {
-    margin-top: 2.4rem;
-    margin-bottom: 1rem;
-}
-
-.md-typeset h3 {
-    margin-top: 2rem;
-}
-
 .md-typeset p,
 .md-typeset li {
-    line-height: 1.8;
+    line-height: 1.75;
 }
 
+.md-typeset h1 {
+    font-weight: 500;
+}
 
-/* ==========================================================
-   Images
-   ========================================================== */
-
+/* Images */
 .md-typeset img {
     display: block;
     margin: 2rem auto;
     max-width: 100%;
-    height: auto;
 }
 
+/* Smartphone */
+@media (max-width: 600px) {
 
-/* ==========================================================
-   Liens
-   ========================================================== */
-
-.md-typeset a {
-    text-decoration: none;
-}
-
-.md-typeset a:hover {
-    text-decoration: underline;
-}
-
-
-/* ==========================================================
-   Desktop
-   ========================================================== */
-
-@media screen and (min-width: 76.25em) {
-
-    /* Cache uniquement la table des matières */
-    .md-sidebar--secondary {
-        display: none;
-    }
-
-    /* Menu de gauche plus étroit */
-    .md-sidebar--primary {
-        width: 220px;
-    }
-
-    /* Zone principale */
-    .md-main__inner {
-        grid-template-columns: 220px minmax(0, 900px);
-        column-gap: 3rem;
-    }
-
-    /* Lecture confortable */
-    .md-content {
-        max-width: 900px;
-    }
-
-    .md-content__inner {
-        margin: 0;
-        padding: 1rem 0 3rem;
-    }
-
-    /* Largeur globale */
-    .md-grid {
-        max-width: 1350px;
-    }
-}
-
-
-/* ==========================================================
-   Tablette
-   ========================================================== */
-
-@media screen and (min-width: 40em) and (max-width: 76.24em) {
-
-    .md-sidebar--secondary {
-        display: none;
-    }
-
-    .md-content__inner {
-        padding: 1rem 1.4rem 2rem;
-    }
-}
-
-
-/* ==========================================================
-   Smartphone
-   ========================================================== */
-
-@media screen and (max-width: 39.99em) {
-
-    /* On garde le menu hamburger */
-    .md-sidebar--secondary {
-        display: none;
-    }
-
-    /* Le contenu prend toute la largeur */
-    .md-content {
-        max-width: 100%;
-    }
-
-    .md-content__inner {
-        padding: .4rem .4rem 2rem;
-    }
-
-    /* Texte légèrement plus petit */
     .md-typeset {
-        font-size: .85rem;
+        font-size: .90rem;
     }
 
-    /* Titres adaptés */
-    .md-typeset h1 {
-        font-size: 1.7rem;
+    .md-content__inner {
+        padding-left: .75rem;
+        padding-right: .75rem;
     }
 
-    .md-typeset h2 {
-        font-size: 1.35rem;
-    }
-
-    .md-typeset h3 {
-        font-size: 1.15rem;
-    }
 }
