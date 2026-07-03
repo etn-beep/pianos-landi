@@ -1,13 +1,10 @@
 /* ==========================================================
-   Tech-Piano - Styles Personnalisés (Version Finale)
+   Tech-Piano - Styles Personnalisés (Version Équilibrée)
    ========================================================== */
 
 /* --- 1. SUPPRESSION TABLE DES MATIÈRES (DROITE) --- */
 .md-sidebar--secondary {
     display: none !important;
-    visibility: hidden !important;
-    width: 0 !important;
-    padding: 0 !important;
 }
 
 /* Ajustement largeur contenu desktop */
@@ -18,9 +15,6 @@
     }
     .md-content__inner {
         margin: 0 auto;
-    }
-    .md-grid {
-        max-width: 900px;
     }
 }
 
@@ -40,57 +34,26 @@
     max-width: 100%;
 }
 
-/* --- 3. SMARTPHONE : CORRECTION RADICALE --- */
-/* Le seuil de 76.25em est celui utilisé par Material pour passer en mode mobile */
+/* --- 3. SMARTPHONE : AJUSTEMENTS MODÉRÉS --- */
+/* S'applique aux écrans de moins de 76.25em (tablettes et mobiles) */
 @media only screen and (max-width: 76.25em) {
 
-    /* A. Réduire la police à la source (html et body) */
-    html {
-        font-size: 10px !important; /* Force la base à 10px pour faciliter les calculs rem */
-    }
-
-    /* B. Cibler le conteneur principal du texte */
+    /* A. Police légèrement plus petite (90% de la taille originale) */
+    /* C'est suffisant pour gagner de la place sans illisibilité */
     .md-typeset {
-        font-size: 0.8rem !important; /* 16px * 0.8 = 12.8px (très lisible mais compact) */
-        line-height: 1.5 !important;
-        padding-left: 0.4rem !important;
-        padding-right: 0.4rem !important;
+        font-size: 0.9rem !important; 
+        line-height: 1.6;
     }
 
-    /* C. Supprimer les marges internes du contenu */
+    /* B. Marges latérales réduites mais présentes (confort de lecture) */
     .md-content__inner {
-        padding-left: 0.2rem !important;  /* Marge quasi nulle */
-        padding-right: 0.2rem !important;
-        margin-left: 0 !important;
-        margin-right: 0 !important;
+        padding-left: 1rem !important;  /* Marge confortable */
+        padding-right: 1rem !important;
     }
 
-    /* D. Supprimer les marges de la grille principale */
+    /* C. Grille principale ajustée */
     .md-grid {
-        padding-left: 0 !important;
-        padding-right: 0 !important;
-        max-width: 100% !important;
-    }
-    
-    /* E. Cibler spécifiquement les paragraphes et listes pour éviter l'héritage */
-    .md-typeset p, 
-    .md-typeset li, 
-    .md-typeset h2, 
-    .md-typeset h3 {
-        margin-left: 0 !important;
-        margin-right: 0 !important;
-        padding-left: 0.1rem !important;
-        padding-right: 0.1rem !important;
-    }
-
-    /* F. Ajustement pour les très petits écrans (< 360px) */
-    @media only screen and (max-width: 22.5em) {
-        .md-typeset {
-            font-size: 0.75rem !important; /* Encore plus petit si nécessaire */
-        }
-        .md-content__inner {
-            padding-left: 0.1rem !important;
-            padding-right: 0.1rem !important;
-        }
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
     }
 }   
