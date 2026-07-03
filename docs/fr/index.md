@@ -8,19 +8,21 @@ Ce site explore l'univers du piano sous tous ses angles, de la tradition artisan
 
 ## Explorer les connaissances
 
-::: cards
-- :material-history: __Histoire & Mécanique__
+<div class="grid cards" shortcut="true" markdown>
+
+- :material-history: **Histoire & Mécanique**
     Découvrez l'évolution historique de l'instrument et les secrets de son fonctionnement mécanique interne.
     [:octicons-arrow-right-24: Consulter](histoire/index.md)
 
-- :material-waveform: __Acoustique & Accordage__
+- :material-waveform: **Acoustique & Accordage**
     Une introduction approfondie à la physique acoustique, à l'art de l'accordage et à l'inharmonicité.
     [:octicons-arrow-right-24: Découvrir](accordage/index.md)
 
-- :material-piano: __Systèmes Modernes & Conseils__
+- :material-piano: **Systèmes Modernes & Conseils**
     L'intégration des technologies (Silent, Dampp-Chaser), l'analyse des pianos japonais et nos conseils d'achat.
     [:octicons-arrow-right-24: En savoir plus](silent/index.md)
-:::
+
+</div>
 
 ---
 
