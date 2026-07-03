@@ -137,11 +137,30 @@
         display: none;
     }
 
-    .md-content__inner {
-        padding: 1rem;
+    /* Le contenu prend toute la largeur */
+    .md-content {
+        max-width: 100%;
     }
 
+    .md-content__inner {
+        padding: .5rem .6rem 2rem;
+    }
+
+    /* Texte légèrement plus petit */
     .md-typeset {
-        font-size: .95rem;
+        font-size: .85rem;
+    }
+
+    /* Titres adaptés */
+    .md-typeset h1 {
+        font-size: 1.7rem;
+    }
+
+    .md-typeset h2 {
+        font-size: 1.35rem;
+    }
+
+    .md-typeset h3 {
+        font-size: 1.15rem;
     }
 }
