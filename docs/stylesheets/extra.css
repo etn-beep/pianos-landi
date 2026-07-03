@@ -1,5 +1,5 @@
 /* ==========================================================
-   Tech-Piano - Styles Personnalisés
+   Tech-Piano - Styles Personnalisés (Version Finale)
    ========================================================== */
 
 /* --- 1. SUPPRESSION TABLE DES MATIÈRES (DROITE) --- */
@@ -7,6 +7,7 @@
     display: none !important;
     visibility: hidden !important;
     width: 0 !important;
+    padding: 0 !important;
 }
 
 /* Ajustement largeur contenu desktop */
@@ -23,61 +24,73 @@
     }
 }
 
-/* --- 2. STYLE GÉNÉRAL (Desktop & Mobile) --- */
-
-/* Barre supérieure sans ombre */
+/* --- 2. STYLE GÉNÉRAL --- */
 .md-header,
 .md-tabs {
     box-shadow: none;
-}
-
-/* Typographie de base */
-.md-typeset {
-    font-size: 1rem;
-    line-height: 1.75;
 }
 
 .md-typeset h1 {
     font-weight: 500;
 }
 
-/* Images centrées */
 .md-typeset img {
     display: block;
     margin: 2rem auto;
     max-width: 100%;
 }
 
-/* --- 3. VERSION SMARTPHONE (Optimisé) --- */
-/* S'applique aux écrans de moins de 76.25em (tablettes et mobiles) */
-@media (max-width: 76.25em) {
+/* --- 3. SMARTPHONE : CORRECTION RADICALE --- */
+/* Le seuil de 76.25em est celui utilisé par Material pour passer en mode mobile */
+@media only screen and (max-width: 76.25em) {
 
-    /* Police plus petite */
+    /* A. Réduire la police à la source (html et body) */
+    html {
+        font-size: 10px !important; /* Force la base à 10px pour faciliter les calculs rem */
+    }
+
+    /* B. Cibler le conteneur principal du texte */
     .md-typeset {
-        font-size: 0.85rem !important; /* Taille réduite */
-        line-height: 1.6;              /* Interligne légèrement réduit */
+        font-size: 0.8rem !important; /* 16px * 0.8 = 12.8px (très lisible mais compact) */
+        line-height: 1.5 !important;
+        padding-left: 0.4rem !important;
+        padding-right: 0.4rem !important;
     }
 
-    /* Marges latérales quasi nulles */
+    /* C. Supprimer les marges internes du contenu */
     .md-content__inner {
-        padding-left: 0.5rem !important;  /* Marge gauche minime */
-        padding-right: 0.5rem !important; /* Marge droite minime */
+        padding-left: 0.2rem !important;  /* Marge quasi nulle */
+        padding-right: 0.2rem !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
     }
 
-    /* Réduction de la grille globale pour coller aux bords */
+    /* D. Supprimer les marges de la grille principale */
     .md-grid {
-        padding-left: 0.25rem;
-        padding-right: 0.25rem;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        max-width: 100% !important;
     }
     
-    /* Ajustement spécifique pour les très petits écrans (< 600px) */
-    @media (max-width: 600px) {
+    /* E. Cibler spécifiquement les paragraphes et listes pour éviter l'héritage */
+    .md-typeset p, 
+    .md-typeset li, 
+    .md-typeset h2, 
+    .md-typeset h3 {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        padding-left: 0.1rem !important;
+        padding-right: 0.1rem !important;
+    }
+
+    /* F. Ajustement pour les très petits écrans (< 360px) */
+    @media only screen and (max-width: 22.5em) {
         .md-typeset {
-            font-size: 0.80rem !important; /* Encore plus petit sur petits téléphones */
+            font-size: 0.75rem !important; /* Encore plus petit si nécessaire */
         }
         .md-content__inner {
-            padding-left: 0.25rem !important;
-            padding-right: 0.25rem !important;
+            padding-left: 0.1rem !important;
+            padding-right: 0.1rem !important;
         }
     }
 }   
