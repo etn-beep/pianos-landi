@@ -1,11 +1,106 @@
+/* =======================================================
+   Tech-Piano - Material for MkDocs
+   Style minimal
+   ======================================================= */
+
+/* Supprime la table des matières de droite */
 .md-sidebar--secondary {
     display: none !important;
 }
 
-.md-content {
-    max-width: none;
+/* Une seule colonne de contenu */
+.md-main__inner {
+    grid-template-columns: minmax(0, 1fr) !important;
 }
 
-.md-main__inner {
-    grid-template-columns: 1fr !important;
+/* Largeur maximale de l'ensemble de la page */
+.md-grid {
+    max-width: 1400px;
+}
+
+/* ---------- Desktop ---------- */
+
+@media screen and (min-width: 76.25em) {
+
+    /* Largeur de lecture confortable */
+    .md-content {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+}
+
+/* ---------- Tablette & Mobile ---------- */
+
+@media screen and (max-width: 76.24em) {
+
+    .md-content {
+        max-width: 100%;
+    }
+
+}
+
+/* ---------- Aspect graphique ---------- */
+
+/* Barre supérieure plus légère */
+.md-header,
+.md-tabs {
+    box-shadow: none;
+}
+
+/* Onglets un peu plus discrets */
+.md-tabs {
+    font-size: 0.90rem;
+}
+
+/* Titre principal */
+.md-typeset h1 {
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+}
+
+/* Titres secondaires */
+.md-typeset h2,
+.md-typeset h3 {
+    margin-top: 2.2rem;
+}
+
+/* Lecture plus agréable */
+.md-typeset p,
+.md-typeset li {
+    line-height: 1.75;
+}
+
+/* Images centrées */
+.md-typeset img {
+    display: block;
+    margin: 2rem auto;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Un peu moins d'espace au-dessus du contenu */
+.md-content__inner {
+    padding-top: 1rem;
+}
+
+/* Tables */
+.md-typeset table {
+    font-size: .95rem;
+}
+
+/* Liens */
+.md-typeset a {
+    text-decoration: none;
+}
+
+.md-typeset a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-family: Inter, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+.md-typeset {
+    font-size: 0.9rem;
 }
