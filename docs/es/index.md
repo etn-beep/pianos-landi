@@ -7,7 +7,9 @@ description: "Documentación técnica sobre el piano: mecánica, acústica, afin
 
 # Bienvenido a Tech-Piano
 
-![Piano](images/fazioli.jpeg)
+<p align="center">
+  <img src="images/fazioli.jpeg" alt="agua" style="max-width: 100%; height: auto;" />
+</p>
 
 **Esta página explora el universo del piano desde todos sus ángulos:**
 

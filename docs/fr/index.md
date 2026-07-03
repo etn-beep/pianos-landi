@@ -7,6 +7,11 @@ hide:
 
 # Bienvenue sur Tech-Piano
 
+
+<p align="center">
+  <img src="images/fazioli.jpeg" alt="agua" style="max-width: 100%; height: auto;" />
+</p>
+
 **Cette page technique explore l'univers du piano sous tous ses angles :**
 
 - Histoire et évolution
