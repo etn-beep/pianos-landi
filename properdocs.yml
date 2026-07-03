@@ -25,6 +25,7 @@ theme:
     - search.highlight
 
 markdown_extensions:
+  - pymdownx.blocks.cards
   - footnotes
   - attr_list
   - pymdownx.emoji:

@@ -1,24 +1,30 @@
----
-title: "Accueil"
-description: "Site technique sur le piano : mécanique, acoustique, accordage, histoire, systèmes modernes, conseils d'achat et entretien par un facteur de piano diplômé."
-hide:
-  - navigation  # Optionnel : retirez ceci si vous voulez voir le menu sur la page d'accueil
----
+# L'Art et la Science du Piano
 
-# Bienvenue sur Tech-Piano
-
-
-<p align="center">
-  <img src="images/fazioli.jpeg" alt="agua" style="max-width: 100%; height: auto;" />
-</p>
-
-**Cette page technique explore l'univers du piano sous tous ses angles :**
-
-- Histoire et évolution
-- Mécanismes et fonctionnement
-- L'art de l'accordage et introduction à la physique acoustique
-- Systèmes modernes (Silent, Dampp-Chaser)
+*Trente-cinq ans d'expertise technique au service des plus grands instruments : Fazioli, Steinway, Bösendorfer, Bechstein, Shigeru Kawai...*
 
 ---
 
-*<small>L'auteur Stefano Etienne Landi [contact@tech-piano.com](mailto:contact@tech-piano.com) est un facteur de piano ayant 35 ans d'expérience, diplômé de l'École Française, prix d'excellence des métiers d'art. Actuellement responsable technique d'une grande entreprise européenne spécialisée dans les pianos de prestige : [Fazioli](https://www.royalpianos.com/en/product-category/new-pianos/fazioli-pianos/), [Steinway](https://www.steinw   
+Ce site explore l'univers du piano sous tous ses angles, de la tradition artisanale aux innovations scientifiques et technologiques les plus pointues. 
+
+## Explorer les connaissances
+
+::: cards
+- :material-history: __Histoire & Mécanique__
+    Découvrez l'évolution historique de l'instrument et les secrets de son fonctionnement mécanique interne.
+    [:octicons-arrow-right-24: Consulter](histoire/index.md)
+
+- :material-waveform: __Acoustique & Accordage__
+    Une introduction approfondie à la physique acoustique, à l'art de l'accordage et à l'inharmonicité.
+    [:octicons-arrow-right-24: Découvrir](accordage/index.md)
+
+- :material-piano: __Systèmes Modernes & Conseils__
+    L'intégration des technologies (Silent, Dampp-Chaser), l'analyse des pianos japonais et nos conseils d'achat.
+    [:octicons-arrow-right-24: En savoir plus](silent/index.md)
+:::
+
+---
+
+## À propos de l'auteur
+
+!!! note "Stefano Etienne Landi — contact@tech-piano.com"
+    Technicien de pianos avec **35 ans d'expérience**, diplômé de l'École Française et lauréat du prix d'excellence des métiers d'art. Il est actuellement responsable technique au sein d'une importante entreprise européenne spécialisée dans les pianos de prestige de haute facture *(Fazioli, Steinway, Bösendorfer, Bechstein, Shigeru Kawai, Grotrian-Steinweg, Sauter, Schimmel, Yamaha Serie CF/CFX...)*.
