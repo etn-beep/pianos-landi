@@ -19,12 +19,11 @@ theme:
         name: Mode sombre
   features:
     - navigation.tabs
-    - navigation.indexes
-    - navigation.expand
     - navigation.top
     - search.highlight
     - toc.integrate 
     - navigation.instant
+    - navigation.prune 
 
 markdown_extensions:
   - footnotes
