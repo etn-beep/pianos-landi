@@ -91,7 +91,7 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 * La **duración** corresponde al tiempo durante el cual se emite el sonido.
 
 
-#### :material-music: Más información - anexos sobre la coma pytagorica y la inarmonicidad
+#### :material-music: Más información - anexos sobre la coma pitagórica y la inarmonicidad
 
 <p align="center">
   <a href="../annexes/inharmonicite/" class="md-button md-button--primary">coma pitagórica-inarmonicidad</a>
