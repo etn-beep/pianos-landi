@@ -21,7 +21,6 @@ theme:
     - navigation.tabs
     - navigation.top
     - search.highlight
-    - toc.integrate 
     - navigation.instant
     - navigation.prune 
 
