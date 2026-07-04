@@ -10,7 +10,7 @@ theme:
   language: es
 
   icon:
-    logo: material/music
+    logo: material/circle
 
   palette:
     - scheme: default
