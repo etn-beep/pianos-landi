@@ -12,8 +12,8 @@ description: "les plus grandes marques des pianos japonais,Yamaha et Kawai, hist
 
 > #### Puisque la référence des pianos dans le monde professionnel et les écoles de musique sont les pianos japonais, nous allons parler des pianos:
 
-## YAMAHA ET KAWAI
-## <span class="rouge"></span>
+
+## <span class="orange">YAMAHA ET KAWAI</span>
 ### Histoire
 
 
