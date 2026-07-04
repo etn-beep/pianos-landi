@@ -70,19 +70,6 @@ Les quintes deviennent pratiquement pures, tandis que les octaves sont légèrem
 
 ---
 
-[livre de Serge Cordier, le piano bien tempéré](serge-cordier-piano-bien-tempere.pdf)
-
-
-
-
-
-
-
-
-
-
----
-
 ## 2. Le phénomène d'inharmonicité
 Le phénomène d'inharmonicité dans un piano désigne le fait que les fréquences des partiels (harmoniques) d'une corde réelle ne sont pas exactement des multiples entiers de la fréquence fondamentale.
 

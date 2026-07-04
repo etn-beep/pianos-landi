@@ -106,12 +106,4 @@ El sistema (presentado aquí en un piano de cola) se basa en un principio de esc
 
 ---
 
-Un pequeño vídeo sobre la fabricación y el funcionamiento del piano (*Investigaciones Paranormales*)
-
-<video src="../images/fonctionnement-piano.mp4" controls width="100%">
-  Su navegador no admite la reproducción de vídeos HTML5.
-</video>
-
-*https://www.youtube.com/watch?v=r9I_XU2zZ70*
-
 

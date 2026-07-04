@@ -99,15 +99,6 @@ Le système (ici présenté sur un piano à queue) repose sur un principe d'éch
 -   Piano à queue (Mécanique horizontale) : Utilise la gravité pour faire redescendre le marteau. Sa mécanique (dite d'Erard ou à double échappement) est ultra-rapide et permet de répéter une note jusqu'à 15 fois par seconde. Des guides complets comme celui de Pianote détaillent précisément cette structure géométrique.
 -   Piano droit (Mécanique verticale) : Les marteaux se déplacent horizontalement. N'ayant pas l'aide de la gravité pour revenir en position, la mécanique utilise des ressorts de rappel et des lanières, ce qui rend la répétition un peu plus lente. 
 
----
-
-une petite video sur la conception. (*enquetes paranormales)
-
-<video src="../images/fonctionnement-piano.mp4" controls width="100%">
-  Votre navigateur ne prend pas en charge la lecture de vidéos HTML5.
-</video>
-
-*https://www.youtube.com/watch?v=r9I_XU2zZ70*
 
 ---
 

@@ -7,7 +7,7 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 
 # Acústica del piano :material-waveform:
 
-### El sonido es una <mark>variación de presión</mark> que se propaga en forma de ondas a través de un medio (agua, aire, sólido).
+### El sonido es una variación de presión que se propaga en forma de ondas a través de un medio (agua, aire, sólido).
 
 <p align="center">
   <img src="../images/pierre.jpeg" alt="agua" style="max-width: 100%; height: auto;" />
@@ -71,7 +71,7 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 
 **Resumamos:**
 
-:musical_keyboard: Definimos el sonido por:
+Definimos el sonido por:
 
 * Su altura (frecuencia en Hertz).
 * Su intensidad o potencia (amplitud en decibelios).
@@ -91,7 +91,7 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 * La **duración** corresponde al tiempo durante el cual se emite el sonido.
 
 
-#### :material-music: Más información - anexos sobre la coma pitagórica y la inarmonicidad
+#### Más información - anexos sobre la coma pitagórica y la inarmonicidad
 
 <p align="center">
   <a href="../annexes/inharmonicite/" class="md-button md-button--primary">coma pitagórica-inarmonicidad</a>

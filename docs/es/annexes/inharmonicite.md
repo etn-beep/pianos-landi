@@ -69,11 +69,6 @@ Para resolver este problema físico, se desarrollaron varios sistemas de afinaci
 
 <small>(La «curva de Cordier» suele representarse mediante desviaciones, en cents, respecto al temperamento igual. Estas desviaciones aumentan progresivamente al alejarse de la nota de referencia, generando una curva característica).</small>
 
----
-
-[Libro de Serge Cordier, El piano bien temperado](serge-cordier-piano-bien-tempere.pdf)
-
----
 
 ## 2. El fenómeno de la inarmonicidad
 
