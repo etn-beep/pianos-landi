@@ -22,7 +22,7 @@ description: "Accordage du piano : tempérament égal, battements, inharmonicit�
 **la clef d’accord[^1]**
 et en se basant sur une valeur étalon qui est le diapason au "lA 440hz" (diapason international). On peut aussi utiliser d'autre diapasons tel que le "LA 415hz" pour les pianos d'époques ou le "LA 442hz" demandé par certains orchestres.
 
-- Attention: l'accord d'un piano n'agit que sur la tension des cordes, si votre instrument a un problème de "touché"{style="color:red"} ou de "timbre"{style="color:red"} dû à une usure ou une déterioration des feutres, garnitures de pivots, ressorts etc... le fait d'accorder le piano ne résoudra pas le problème, qui est du domaine de la <mark>réparation</mark>, du <mark>réglage</mark> ou de <mark>l'harmonisation</mark> !
+- Attention: l'accord d'un piano n'agit que sur la tension des cordes, si votre instrument a un problème de "touché"{style="color:red"} ou de "timbre"{style="color:red"} dû à une usure ou une déterioration des feutres, garnitures de pivots, ressorts etc... le fait d'accorder le piano ne résoudra pas le problème, qui est du domaine de la **réparation**, du **réglage** ou de **l'harmonisation** 
 
 ###  POURQUOI FAIRE ACCORDER SON PIANO ?
 
@@ -36,7 +36,7 @@ et en se basant sur une valeur étalon qui est le diapason au "lA 440hz" (diapas
 - L'accordeur technicien va à chaque intervention pouvoir surveiller l'ensemble du piano, clavier, mécanisme, table d' harmonie, structure harmonique, chevilles, réglages etc.... pouvant de ce fait prévenir de gros dégâts qui auraient pu être évités
 
 **Mieux vaut prévenir que guérir !**
-- L'entretien de son piano revient environ à 100 euros par an, alors que la négligence peut engendrer des réparations couteuses!
+- la négligence peut engendrer des réparations couteuses!
 
 ### A QUELLE FREQUENCE DOIT ON ACCORDER SON PIANO ?
 
