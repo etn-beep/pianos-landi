@@ -27,7 +27,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - search.highlight
-    - navigation.instant
+    # - navigation.instant
     - navigation.prune
 
 markdown_extensions:
