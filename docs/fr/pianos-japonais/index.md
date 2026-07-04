@@ -95,35 +95,34 @@ Le traitement du bois (A.R.E.) : Le bois de la ceinture du CFX subit une torréf
 
 C'est la différence la plus technique et la plus célèbre entre les deux marques.
 
--   Yamaha : La tradition du bois de haute précision.
+**Yamaha : La tradition du bois de haute précision.**
     
-    -   Technologie : Yamaha reste fidèle au bois d'érable de haute qualité pour toutes les pièces mobiles de sa mécanique.
-    -   Toucher : Le clavier est généralement perçu comme léger, précis, direct et très réactif. Il est extrêmement uniforme d'une note à l'autre.
-    -   Sensibilité climatique : Le bois réagit naturellement à l'humidité et aux changements de température (il peut gonfler ou s'assécher), ce qui nécessite des réglages réguliers.
+- Technologie : Yamaha reste fidèle au bois d'érable de haute qualité pour toutes les pièces mobiles de sa mécanique.
+- Toucher : Le clavier est généralement perçu comme léger, précis, direct et très réactif. Il est extrêmement uniforme d'une note à l'autre.
+- Sensibilité climatique : Le bois réagit naturellement à l'humidité et aux changements de température (il peut gonfler ou s'assécher), ce qui nécessite des réglages réguliers.
     
--   Kawai : La révolution technologique (Millennium III).
+**Kawai : La révolution technologique (Millennium III).**
     
-    -   Technologie : Kawai a remplacé les pièces maîtresses en bois par du carbone ABS (un composite de résine et de fibres de carbone).
-    -   Toucher : Le toucher est souvent ressenti comme plus ferme, plus profond et plus texturé sous le doigt, avec un enfoncement des touches légèrement plus long qui donne l'illusion de piloter un piano plus grand.
-    -   Avantages du carbone : Les pièces en carbone sont plus légères et plus rigides que le bois. La mécanique est donc plus rapide (répétition des notes) et, surtout, elle est insensible aux variations climatiques. Un piano Kawai bouge très peu dans le temps, nécessite moins de réglage et de réparations.   
+- Technologie : Kawai a remplacé les pièces maîtresses en bois par du carbone ABS (un composite de résine et de fibres de carbone).
+- Toucher : Le toucher est souvent ressenti comme plus ferme, plus profond et plus texturé sous le doigt, avec un enfoncement des touches légèrement plus long qui donne l'illusion de piloter un piano plus grand.
+- Avantages du carbone : Les pièces en carbone sont plus légères et plus rigides que le bois. La mécanique est donc plus rapide (répétition des notes) et, surtout, elle est insensible aux variations climatiques. Un piano Kawai bouge très peu dans le temps, nécessite moins de réglage et de réparations.   
     
-    -   Sans oublier que la légèrté du mecanisme en carbonne a permis de ralonger les touches de 2,5cm, ce qui modifie radicalement le comportement mécanique du piano. Un contrôle parfait des nuances douces (Pianissimo). Les touches courtes manquent de progressivité. Jouer très doucement comporte le risque que la note ne se déclenche pas du tout (le "trou"). Le résultat maintenant est que contrôle du mouvement du marteau est ultra-préci, vous pouvez doser la vitesse d'enfoncement au millimètre près, facilitant le jeu expressif et les nuances extrêmement faibles.
-    -   Depuis le debut de l'évolution des pianos les facteurs de pianos on voulut pousser au maximum la longueur de la touche sans que cela devienne un probleme,  la mécanique millenium III a permis de repousser encore les limites. Le facteur de piano Paolo Fazioli, Ingenieur et pianiste a depuis le debut de la fabrication de ses piano extraordinaires allongé au maximum les touches des ses pianos, actuellement le plus grand piano au monde le Fazioli 3.08m a les touches les plus longues qui existent.
+- Sans oublier que la légèrté du mecanisme en carbonne a permis de ralonger les touches de 2,5cm, ce qui modifie radicalement le comportement mécanique du piano. Un contrôle parfait des nuances douces (Pianissimo). Les touches courtes manquent de progressivité. Jouer très doucement comporte le risque que la note ne se déclenche pas du tout (le "trou"). Le résultat maintenant est que contrôle du mouvement du marteau est ultra-préci, vous pouvez doser la vitesse d'enfoncement au millimètre près, facilitant le jeu expressif et les nuances extrêmement faibles.
+- Depuis le debut de l'évolution des pianos les facteurs de pianos on voulut pousser au maximum la longueur de la touche sans que cela devienne un probleme,  la mécanique millenium III a permis de repousser encore les limites. Le facteur de piano Paolo Fazioli, Ingenieur et pianiste a depuis le debut de la fabrication de ses piano extraordinaires allongé au maximum les touches des ses pianos, actuellement le plus grand piano au monde le Fazioli 3.08m a les touches les plus longues qui existent.
     
 
 ## 2- Le Son: Deux esthétiques musicales opposées
 
+**Yamaha : Clarté, brillance et projection.**
+    
+- Le timbre : Le son Yamaha est historiquement réputé pour sa clarté cristalline, sa luminosité et des aigus très percutants. Le son est "droit" et transparent.
+- La projection : Les pianos Yamaha projettent le son vers l'extérieur de manière agressive et puissante.
 
--   Yamaha : Clarté, brillance et projection.
     
-    -   Le timbre : Le son Yamaha est historiquement réputé pour sa clarté cristalline, sa luminosité et des aigus très percutants. Le son est "droit" et transparent.
-    -   La projection : Les pianos Yamaha projettent le son vers l'extérieur de manière agressive et puissante.
-
+**Kawai : Chaleur, rondeur et profondeur.**
     
--   Kawai : Chaleur, rondeur et profondeur.
-    
-    -   Le timbre : Le son Kawai est plus rond et velouté. Les basses sont enveloppantes et les aigus sont plus doux, moins métalliques que chez Yamaha.
-    -   La projection : Le son est plus "intérieur" et enveloppe le pianiste plutôt que de projeter la note loin devant, bien que certains pianos "projetent" autant que yamaha.
+- Le timbre : Le son Kawai est plus rond et velouté. Les basses sont enveloppantes et les aigus sont plus doux, moins métalliques que chez Yamaha.
+- La projection : Le son est plus "intérieur" et enveloppe le pianiste plutôt que de projeter la note loin devant, bien que certains pianos "projetent" autant que yamaha.
 
 ---
 ---

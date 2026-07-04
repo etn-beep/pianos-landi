@@ -18,6 +18,8 @@ description: "Evolución del piano desde el clavecín y el clavicordio hasta el 
 
 * En estos primeros instrumentos, pequeños pernos fijados a las teclas golpeaban las cuerdas desde abajo. El [monocordio](https://en.wikipedia.org/wiki/Monochord), también llamado manicordio, inspiraría posteriormente el desarrollo de numerosos instrumentos de cuerda percutida.
 
+![moncordes](../images/monocordes.jpg "monocordes")
+
 * Más que un instrumento musical, el monocordio era una herramienta de estudio científico. Ya en el siglo VI a.C., Pitágoras lo utilizaba para investigar las relaciones matemáticas entre los sonidos y sentar las bases de la teoría musical occidental.
 
 * Al añadir más cuerdas al monocordio nació el policordio. La cítara, el monocordio y el policordio constituyen los fundamentos de la estructura acústica que más tarde daría origen al piano.
@@ -26,9 +28,13 @@ description: "Evolución del piano desde el clavecín y el clavicordio hasta el 
 
 * En 1521, el italiano Hieronymus Bononiensis construyó uno de los primeros clavecines, instrumento fundamental en la evolución hacia el fortepiano. En el clavecín, las cuerdas no son golpeadas, sino pulsadas mediante plectros. Dos años más tarde, en 1523, el italiano Fransiscus Portalupis construyó la primera espineta.
 
+![clavecin](../images/clavecin.jpg "clavecin")
+
 * Durante el siglo XVI apareció el clavicordio de cuatro octavas y media. En el siglo XVIII, los constructores ampliaron progresivamente la extensión de los teclados de cinco a seis octavas, hasta alcanzar las siete octavas durante el siglo XIX.
 
 * Finalmente, alrededor de 1700, el italiano [Bartolomeo Cristofori](https://en.wikipedia.org/wiki/Bartolomeo_Cristofori), constructor de clavecines al servicio de los Médici, creó el primer piano al sustituir los mecanismos que pulsaban las cuerdas por martillos capaces de golpearlas. Nacía así el *gravicembalo col piano e forte*, precursor directo del piano moderno.
+
+![cristofori](../images/piano_cristofori.jpg "piano de Cristofori")
 
 * Entre 1730 y 1740 aparecieron los primeros pianos de cola. En 1760, Johannes Zumpe y Americus Backers retomaron los principios mecánicos de Cristofori para desarrollar el primer piano cuadrado.
 

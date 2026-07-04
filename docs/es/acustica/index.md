@@ -63,7 +63,7 @@ description: "Principios de la acústica aplicados al piano: frecuencia, amplitu
 </p>
 
 
-* Aquí H1 representa el armónico 1, que corresponde a la frecuencia fundamental.
+* Aquí **H1** representa el armónico 1, que corresponde a la frecuencia fundamental.
 
 * Durante la armonización de un piano, el técnico trabaja sobre la forma y la estructura de los martillos. Mediante el lijado o el punzado de las cabezas de los martillos, endurece o suaviza determinadas zonas para modificar el timbre de las notas.
 
@@ -96,5 +96,7 @@ Definimos el sonido por:
 <p align="center">
   <a href="../annexes/inharmonicite/" class="md-button md-button--primary">coma pitagórica-inarmonicidad</a>
 </p>
+
+---
 
 

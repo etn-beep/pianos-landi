@@ -12,7 +12,10 @@ description: "toute l'histoire de l'evoution du piano"
 ![clavicorde](../images/clavicordio.jpg "clavicordio")
 
 Des petits "crampons" sont fixés sur les touches, et attaquent la corde de bas en haut. 
-On s'inspirera beaucoup du[monocorde ou manicorde](https://en.wikipedia.org/wiki/Monochord) pour la fabrication future des instruments à cordes frappées.
+On s'inspirera beaucoup du [monocorde ou manicorde](https://en.wikipedia.org/wiki/Monochord) pour la fabrication future des instruments à cordes frappées.
+
+![moncordes](../images/monocordes.jpg "monocordes")
+
 Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scientifique qu'un instrument de musique. Au VI siècle av JC, Pythagore lui-même s'en servait pour étudier les principes musicaux. Par le monocorde, il ramena la musique à des principes mathématique.
 
 - En ajoutant d'autres cordes à cet instrument, on inventa ce que l'on appel aujourd'hui le "polycorde". La cithare, le monocorde et le polycorde, représentent par leurs systèmes, la base de la structure sonore du piano.
@@ -21,11 +24,17 @@ Le "monocorde" appelé aussi "manicorde" était plus un instrument d'étude scie
 
 - C'est en 1521 que l'Italien Hieronymus Bononiensis fabrique le premier "clavecin", pièce maîtresse pour l'évolution vers le pianoforte, les cordes ne sont pas frappées, mais elles sont pincées, et c'est en 1523 que l'Italien Fransiscus Portalupis construit la première épinette.
 
+![clavecin](../images/clavecin.jpg "clavecin")
+
 - C'est aussi au XVI siècle, que naît le clavicorde à 4 octaves et1/2. Au XVIII siècle, les facteurs de clavecin passent de 5 à 6 octaves pour arriver à 7 octaves au XIX siècle.
 
 - Enfin c'est en 1700 que l'Italien [Bartolomeo Cristofori](https://en.wikipedia.org/wiki/Bartolomeo_Cristofori), facteur de clavecins, construit le "premier piano" en remplaçant les sautereaux du clavecin qui pincent les cordes, par des marteaux qui "frappent" les cordes.
 
+![cristofori](../images/piano_cristofori.jpg "piano de Cristofori")
+
 - Entre 1730 et 1740 se construisent les premiers pianos à queue. En 1760 Zump et Backer reprennent la mécanique de Bartolomeo Cristofori, et voilà le premier "piano carré".
+
+![clavicorde](../images/piano_carre.jpg "piano carre")
 
 - Au début des années 1800, le "pianoforte" instrument capable de nuances, prend petit à petit la place des autres instruments à clavier, ainsi la production de clavecins et de clavicordes, commence son déclin. Les facteurs se concentrent alors sur l'amélioration du piano et délaissent le clavecin.
 
