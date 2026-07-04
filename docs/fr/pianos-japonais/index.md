@@ -12,13 +12,9 @@ description: "les plus grandes marques des pianos japonais,Yamaha et Kawai, hist
 
 > #### Puisque la référence des pianos dans le monde professionnel et les écoles de musique sont les pianos japonais, nous allons parler des pianos:
 
-<p align="center">
-  <img src="yamaha.png" alt="yamaha" style="height: 100px; margin: 0 15px; vertical-align: middle;" />
-  <img src="kawai.png" alt="kawai" style="height: 100px; margin: 0 15px; vertical-align: middle;" />
-</p>
-
-
-## **Histoire**
+## YAMAHA ET KAWAI
+## <span class="rouge"></span>
+### Histoire
 
 
 - #### L'histoire des deux géants japonais de la facture instrumentale est indissociable. Le fondateur de Kawai a été l'apprenti et l'ingénieur en chef du fondateur de Yamaha avant de devenir son plus grand rival.
@@ -50,7 +46,7 @@ description: "les plus grandes marques des pianos japonais,Yamaha et Kawai, hist
 ### 1927 : L'indépendance de Kawai
 * En désaccord avec cette vision, **Koichi Kawai** qui ne désire faire que des pianos, quitte Yamaha après 30 ans de service.
 * Il fonde son entreprise à Hamamatsu: le **Kawai Musical Instrument Research Laboratory**.
-* **1928 :** Kawai fait son premier piano à queue, basé sur ses propres brevets.
+### 1928 : Kawai fait son premier piano à queue, basé sur ses propres brevets.
 
 ---
 
@@ -64,7 +60,7 @@ description: "les plus grandes marques des pianos japonais,Yamaha et Kawai, hist
 [^1]: L’usine Kawai de Ryuyo: "La parfaite harmonie entre artisanat et technologie" Inaugurée en 1980 par Shigeru Kawai (le fils du fondateur) pour un coût colossal à l'époque de 50 millions de dollars, l'usine de Ryuyo (située près de Hamamatsu) est considérée par les experts comme l'une des usines de pianos les plus avancées au monde. Une architecture bioclimatique unique, Shigeru Kawai a conçu cette usine au milieu d'un grand bois avec des milliers d'arbres. Ce choix n'est pas qu'esthétique, la forêt environnante sert de régulateur naturel d'humidité et de température, des facteurs critiques pour stabiliser les bois précieux utilisés pour les tables d'harmonie. La cohabitation des robots et des maîtres artisans à Ryuyo a completement  changé le monde de la facture instrumentale en intégrant la robotique de pointe pour les tâches répétitives et purement physiques (comme la découpe des structures de barrages, tables, position des cadres en fonte) aliant precision et mains de maitres. Toutes les étapes cruciales (le choix des bois, le feutrage des marteaux, l'ajustement du clavier et l'harmonisation finale) sont confiées exclusivement à l'élite des artisans, les MPA (Master Piano Artisans). Laboratoire acoustiques et chambres sourdes (anéchoïques) pour analyser la pureté absolue des fréquences et salle de récital intégrée. C'est ici qu'ont été développées la mécanique Millennium III en carbone et la prestigieuse gamme Shigeru Kawai.
 
 * **Shigeru Kawai** (fils du fondateur) prend la tête de l'entreprise.
-* **1980 :** Il inaugure l'usine mythique de **Ryuyo** [^1], un centre d'excellence mêlant robotique de pointe et très haut artisanat.
+### 1980 :Il inaugure l'usine mythique de **Ryuyo** [^1], un centre d'excellence mêlant robotique de pointe et très haut artisanat.
 * Kawai prend un risque historique en remplaçant le bois utilisé dans les mécaniques de pianos par du **carbone ABS**, créant la mécanique ultra-stable *Millennium III*.
 
 ---

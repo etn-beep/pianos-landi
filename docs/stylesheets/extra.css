@@ -73,3 +73,23 @@
         padding-right: 0.1rem !important;
     }
 }   
+
+/* ===========================
+   Couleurs personnalisées
+   =========================== */
+
+.rouge {
+    color: #d32f2f;
+}
+
+.bleu {
+    color: #1976d2;
+}
+
+.vert {
+    color: #388e3c;
+}
+
+.orange {
+    color: #f57c00;
+}
