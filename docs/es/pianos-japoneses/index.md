@@ -7,16 +7,16 @@ description: "Las principales marcas de pianos japoneses, Yamaha y Kawai: histor
 
 # Los pianos japoneses
 
-> #### Dado que los pianos japoneses son la referencia en el mundo profesional y en las escuelas de música, vamos a hablar de los pianos:
+#### Dado que los pianos japoneses son la referencia en el mundo profesional y en las escuelas de música, vamos a hablar de los pianos:
 
 <p align="center">
   <img src="yamaha.png" alt="yamaha" style="height: 100px; margin: 0 15px; vertical-align: middle;" />
   <img src="kawai.png" alt="kawai" style="height: 100px; margin: 0 15px; vertical-align: middle;" />
 </p>
 
-## **Historia**
+## Historia
 
-* #### La historia de estos dos gigantes japoneses de la fabricación de instrumentos está estrechamente ligada. El fundador de Kawai fue aprendiz e ingeniero jefe del fundador de Yamaha antes de convertirse en su mayor rival.
+#### La historia de estos dos gigantes japoneses de la fabricación de instrumentos está estrechamente ligada. El fundador de Kawai fue aprendiz e ingeniero jefe del fundador de Yamaha antes de convertirse en su mayor rival.
 
 ---
 
@@ -50,7 +50,9 @@ description: "Las principales marcas de pianos japoneses, Yamaha y Kawai: histor
 
 * En desacuerdo con esta visión, **Koichi Kawai**, que solo quería fabricar pianos, dejó Yamaha tras 30 años de servicio.
 * Fundó su propia empresa en Hamamatsu: el **Kawai Musical Instrument Research Laboratory**.
-* **1928:** Kawai fabrica su primer piano de cola basado en sus propias patentes.
+
+
+### 1928: Kawai fabrica su primer piano de cola basado en sus propias patentes.
 
 ---
 
@@ -64,8 +66,9 @@ description: "Las principales marcas de pianos japoneses, Yamaha y Kawai: histor
 ### Kawai: La búsqueda del piano perfecto: La era Shigeru [^1]
 [^1]: La fábrica Kawai de Ryuyo: "La armonía perfecta entre artesanía y tecnología". Inaugurada en 1980 por Shigeru Kawai (hijo del fundador) con un coste colosal para la época de 50 millones de dólares, la fábrica de Ryuyo (situada cerca de Hamamatsu) está considerada por los expertos como una de las fábricas de pianos más avanzadas del mundo. Con una arquitectura bioclimática única, Shigeru Kawai diseñó la fábrica en medio de un gran bosque con miles de árboles. Esta elección no fue solo estética: el bosque circundante actúa como regulador natural de humedad y temperatura, factores críticos para estabilizar las maderas nobles utilizadas en las tablas armónicas. La convivencia entre robots y maestros artesanos en Ryuyo transformó por completo la fabricación de instrumentos, integrando robótica de vanguardia para las tareas repetitivas y físicas (como el corte de estructuras, tablas armónicas o la colocación de los bastidores de hierro fundido), combinando precisión tecnológica y trabajo artesanal. Todas las etapas cruciales (selección de maderas, encordado de martillos, regulación del teclado y armonización final) se confían exclusivamente a la élite de los artesanos, los MPA (*Master Piano Artisans*). La fábrica también dispone de laboratorios acústicos, cámaras anecoicas para analizar la pureza absoluta de las frecuencias y una sala de recital integrada. Aquí se desarrollaron la mecánica Millennium III de carbono y la prestigiosa gama Shigeru Kawai.
 
-* **Shigeru Kawai** (hijo del fundador) toma las riendas de la empresa.
-* **1980:** Inaugura la legendaria fábrica de **Ryuyo** [^1], un centro de excelencia que combina robótica avanzada y artesanía de altísimo nivel.
+* **Shigeru Kawai** (hijo del fundador) toma las riendas de la empresa.  
+ 
+### 1980: Inaugura la legendaria fábrica de **Ryuyo** [^1], un centro de excelencia que combina robótica avanzada y artesanía de altísimo nivel.
 * Kawai asume un riesgo histórico al sustituir la madera utilizada en las mecánicas por **carbono ABS**, creando la ultrastable mecánica *Millennium III*.
 
 ---
@@ -100,38 +103,37 @@ description: "Las principales marcas de pianos japoneses, Yamaha y Kawai: histor
 
 Es la diferencia más técnica y más conocida entre ambas marcas.
 
-* Yamaha: La tradición de la madera de alta precisión.
+**Yamaha: La tradición de la madera de alta precisión.**
 
   * Tecnología: Yamaha se mantiene fiel a la madera de arce de alta calidad para todas las piezas móviles de su mecánica.
   * Tacto: El teclado suele percibirse como ligero, preciso, directo y muy reactivo. Es extremadamente uniforme de una nota a otra.
   * Sensibilidad climática: La madera reacciona naturalmente a la humedad y a los cambios de temperatura (puede hincharse o secarse), lo que exige ajustes periódicos.
 
-* Kawai: La revolución tecnológica (Millennium III).
+**Kawai: La revolución tecnológica (Millennium III).**
 
   * Tecnología: Kawai sustituyó las piezas clave de madera por carbono ABS (un compuesto de resina y fibra de carbono).
   * Tacto: A menudo se percibe como más firme, profundo y con mayor textura bajo los dedos, con un recorrido de tecla ligeramente más largo que da la sensación de tocar un piano de mayor tamaño.
   * Ventajas del carbono: Las piezas de carbono son más ligeras y rígidas que las de madera. La mecánica es más rápida (repetición de notas) y, sobre todo, insensible a las variaciones climáticas. Un piano Kawai cambia muy poco con el paso del tiempo y requiere menos ajustes y reparaciones.  
   
-  * * Sin olvidar que la ligereza del mecanismo de carbono ha permitido alargar las teclas en 2,5 cm, lo que modifica radicalmente el comportamiento mecánico del piano. Esto proporciona un control perfecto de los matices suaves (pianissimo). Las teclas más cortas carecen de progresividad, al tocar muy suavemente existe el riesgo de que la nota ni siquiera llegue a sonar (el llamado «punto muerto»). El resultado es que el control del movimiento del martillo es ahora extremadamente preciso, se puede dosificar la velocidad de hundimiento de la tecla con precisión milimétrica, facilitando la interpretación expresiva y los matices más delicados.
+- Sin olvidar que la ligereza del mecanismo de carbono ha permitido alargar las teclas en 2,5 cm, lo que modifica radicalmente el comportamiento mecánico del piano. Esto proporciona un control perfecto de los matices suaves (pianissimo). Las teclas más cortas carecen de progresividad, al tocar muy suavemente existe el riesgo de que la nota ni siquiera llegue a sonar (el llamado «punto muerto»). El resultado es que el control del movimiento del martillo es ahora extremadamente preciso, se puede dosificar la velocidad de hundimiento de la tecla con precisión milimétrica, facilitando la interpretación expresiva y los matices más delicados.
 
-  * * Desde el inicio de la evolución del piano, los constructores han intentado aumentar al máximo la longitud de las teclas sin que ello supusiera un inconveniente. La mecánica Millennium III ha permitido ampliar todavía más esos límites. El fabricante de pianos Paolo Fazioli, ingeniero y pianista, ha apostado desde el comienzo de la fabricación de sus extraordinarios instrumentos por alargar al máximo las teclas de sus pianos. Actualmente, el piano más grande del mundo, el Fazioli de 3,08 metros, posee las teclas más largas que existen.
+- Desde el inicio de la evolución del piano, los constructores han intentado aumentar al máximo la longitud de las teclas sin que ello supusiera un inconveniente. La mecánica Millennium III ha permitido ampliar todavía más esos límites. El fabricante de pianos Paolo Fazioli, ingeniero y pianista, ha apostado desde el comienzo de la fabricación de sus extraordinarios instrumentos por alargar al máximo las teclas de sus pianos. Actualmente, el piano más grande del mundo, el Fazioli de 3,08 metros, posee las teclas más largas que existen.
 
 
 ## 2- El sonido: Dos estéticas musicales opuestas
 
-* Yamaha: Claridad, brillo y proyección.
+ **Yamaha: Claridad, brillo y proyección.**
 
   * Timbre: Históricamente, el sonido Yamaha es conocido por su claridad cristalina, luminosidad y agudos muy definidos. Es un sonido directo y transparente.
   * Proyección: Los pianos Yamaha proyectan el sonido hacia el exterior de forma potente y enérgica.
 
-* Kawai: Calidez, redondez y profundidad.
+**Kawai: Calidez, redondez y profundidad.**
 
   * Timbre: El sonido Kawai es más redondo y aterciopelado. Los graves son envolventes y los agudos más suaves, menos metálicos que en Yamaha.
   * Proyección: El sonido es más íntimo y envuelve al pianista en lugar de proyectarse hacia delante, aunque algunos modelos proyectan tanto como los Yamaha.
 
 ---
 
----
 
 ## En resumen: ¿Cómo elegir?
 
