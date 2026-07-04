@@ -53,9 +53,9 @@ et en se basant sur une valeur étalon qui est le diapason au "lA 440hz" (diapas
 
 **Fréquence de l'accord:**   
 
-- Pour un particulier{style="color:red"} qui utilise son piano normalement, l'idéal est de l'accorder 2 fois par an.
-Pour une école{style="color:red"} de musique de 4 à 8 fois par an.
-Pour un professionnel{style="color:red"} tous les 2 mois, et avant chaque concert ou enregistrement
+- Pour un **particulier** qui utilise son piano normalement, l'idéal est de l'accorder 2 fois par an.
+Pour une **école de musique** de 4 à 8 fois par an.
+Pour un **professionnel** tous les 2 mois, et avant chaque concert ou enregistrement
 - IMPORTANT: Pour un piano qui n'a pas été accordé depuis plus de 3 ans il est nécessaire de faire une mise sous tension ( 1er accord ), puis un 2ème accord pour stabiliser l'instrument, si il a perdu 1/4 ton il aura besoin de 3 accords à des intervalles rapprochés ( sur 2 mois par exemple )   
 
 **Combien cela coute?**  
