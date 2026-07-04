@@ -52,7 +52,7 @@ plugins:
 
   - i18n:
       docs_structure: folder
-      reconfigure_material: false
+      reconfigure_material: true
 
       languages:
         - locale: es
