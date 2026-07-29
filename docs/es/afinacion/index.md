@@ -7,6 +7,8 @@ description: "Explicación técnica de la afinación del piano: temperamento igu
 
 # Afinación del piano
 
+![clee](../images/clee2.jpg)
+
 **La afinación consiste en equilibrar la tensión de las cuerdas para obtener intervalos correctos...**
 
 * La afinación consiste en equilibrar la tensión de las cuerdas (aproximadamente 220) repartidas entre 85 u 88 teclas, con el fin de obtener la correcta afinación de cada intervalo.

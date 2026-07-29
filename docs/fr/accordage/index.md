@@ -7,6 +7,8 @@ description: "Accordage du piano : tempérament égal, battements, inharmonicit�
 
 # Accordage du piano
 
+![clee](../images/clee2.jpg)
+
 **L'accordage consiste à équilibrer la tension des cordes afin d'obtenir des intervalles corrects**
 
 - C'est l' équilibrage de la tension des cordes (environ 220) sur 85 ou 88 touches, afin d'obtenir la justesse de chaque intervalle.

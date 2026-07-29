@@ -8,6 +8,8 @@ description: "Chosir un piano, neuf ou occasion. L'entretien de son piano pour q
 
 # ACCORDAGE
 
+![clee](../images/clee1.jpg)
+
 
 - Il est indispensable de faire accorder tout piano à des intervalles réguliers et au besoin, de le faire régler . Selon le nombre d’heures par jours pendant lesquelles on se sert de l’instrument, les fluctuations de la température et le degré d’humidité de l ‘atmosphère, l’accordage doit avoir lieu de 2 à 4 fois par an. Un piano possède en moyenne 220 cordes,ce qui représente une tension totale de plusieures tonnes sur l’ensemble de la structure harmonique, de ce fait, il est fortement recommandé d’accorder le piano au moins une foi par an, (et ceci même s’il n’est pas joué), afin d’avoir toujours une tension de cordes constante.
 

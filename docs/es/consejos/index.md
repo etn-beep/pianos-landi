@@ -11,6 +11,8 @@ description: "Consejos para el mantenimiento del piano: control de humedad, afin
 
 # AFINACIÓN
 
+![clee](../images/clee1.jpg)
+
 * Es indispensable afinar cualquier piano a intervalos regulares y, cuando sea necesario, realizar también su regulación mecánica. Dependiendo del número de horas diarias de uso, de las fluctuaciones de temperatura y del grado de humedad ambiental, la afinación debería realizarse entre 2 y 4 veces al año. Un piano posee aproximadamente 220 cuerdas, lo que representa una tensión total de varias toneladas sobre toda la estructura acústica. Por ello, se recomienda encarecidamente afinar el piano al menos una vez al año (incluso si no se toca), con el fin de mantener una tensión constante y equilibrada en las cuerdas.
 
 # SEQUEDAD Y HUMEDAD
